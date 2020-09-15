@@ -5,7 +5,7 @@
 
 GitHub地址：[https://github.com/GIS-Info/GIS-Info.github.io](https://github.com/GIS-Info/GIS-Info.github.io)
 
-联系我们：[作者名单（网页版）](https://gis-info.github.io/pages/authors)，[作者名单（文档版）](https://gis-info.github.io/pages/about.md)
+联系我们：[作者名单（网页版）](https://gis-info.github.io/pages/authors)，[作者名单（文档版）](https://github.com/GIS-Info/GIS-Info.github.io/blob/master/pages/about.md)
 
 ## 项目介绍
 
