@@ -15,15 +15,15 @@ GitHub地址：[https://github.com/GIS-Info/GIS-Info.github.io](https://github.c
 
 [李肖](https://sites.google.com/tamu.edu/xiaoli/home) [x-li@tti.tamu.edu](mailto:x-li@tti.tamu.edu)
 
-[刘昊坤](https://github.com/EugeneGIS) - 伯尔尼大学地理研究所 [haokun.liu@students.unibe.ch](mailto:haokun.liu@students.unibe.ch)
+[刘昊坤](https://github.com/EugeneGIS)  [haokun.liu@students.unibe.ch](mailto:haokun.liu@students.unibe.ch)
 
-[戴劭勍](http://gisersqdai.top/mycv/) - 特温特大学ITC学院 [s.dai@utwente.nl](mailto:s.dai@utwente.nl)
+[戴劭勍](http://gisersqdai.top/mycv/)  [s.dai@utwente.nl](mailto:s.dai@utwente.nl)
 
 [岳远紊](https://github.com/ywyue) [yuanwenyue@outlook.com](mailto:yuanwenyue@outlook.com)
 
-[叶翔](www.linkedin.com/in/spatialyexiang) - 深圳大学 [xiangye@buffalo.edu](mailto:xiangye@buffalo.edu)
+[叶翔](www.linkedin.com/in/spatialyexiang)  [xiangye@buffalo.edu](mailto:xiangye@buffalo.edu)
 
-[赵群山](https://www.gla.ac.uk/schools/socialpolitical/staff/qunshanzhao/) - 格拉斯哥大学 [Qunshan.Zhao@glasgow.ac.uk](mailto:Qunshan.Zhao@glasgow.ac.uk)
+[赵群山](https://www.gla.ac.uk/schools/socialpolitical/staff/qunshanzhao/)  [Qunshan.Zhao@glasgow.ac.uk](mailto:Qunshan.Zhao@glasgow.ac.uk)
 
 [返回指南](https://gis-info.github.io/)
 
