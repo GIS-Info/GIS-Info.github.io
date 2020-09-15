@@ -1429,7 +1429,7 @@ GIS相关系所：[地理、环境和地球科学学院](https://www.wgtn.ac.nz/
 惠灵顿维多利亚大学是新西兰八大国立大学之一，该校开设GIS相关的硕士学位，包括MGIS和MS两种。MGIS是授课型的，主要的必修课程包括 programming, database management, cartography, remote sensing, spatial analysis等。MS则是论文型的，需要在学习的同时完成一些研究性的工作并撰写毕业论文。此外，该校也有博士（PhD）机会，需要提前和潜在导师联系并讨论科研兴趣和计划。该校的senior lecturer也有资格辅导硕士或博士生。
 
 相关导师：
-- **[Mairead de Roiste](https://www.wgtn.ac.nz/sgees/about/staff/mairead-deroiste)**: GIS incorporating usability, geovisualization, public participation GIS，GIS pedagogy and capability building；
+- **[Mairead de Roiste](https://www.wgtn.ac.nz/sgees/about/staff/mairead-deroiste)**: GIS incorporating usability, geovisualization, public participation GIS，GIS pedagogy and capability building;
 - **[David O'Sullivan](https://people.wgtn.ac.nz/david.osullivan/about)**: computational methods, geospatial technologies, complexity sciences, modeling, visualization, urban informatics;
 - **[Sara Kindon](https://www.wgtn.ac.nz/sgees/about/staff/sara-kindon)**: participatory geography, gender analysis, communities;
 - **[Mirjam Schindler](https://people.wgtn.ac.nz/mirjam.schindler)**: human-environment interactions, modelling of urban forms, residential location choice and their impacts on transport, the environment and urban wellbeing;
