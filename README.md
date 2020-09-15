@@ -2456,7 +2456,7 @@ GIS相关系所：[大地测量与地理信息学系](https://www.geo.tuwien.ac.
 ### 萨尔茨堡大学
 **University of Salzburg (Uni-Salzburg)**
 
-奥地利，维也纳市
+奥地利，萨尔茨堡州，萨尔茨堡市
 
 GIS相关系所：[Interfaculty Dept. of geoinformatics-Z_GIS](https://zgis.at/)
 
