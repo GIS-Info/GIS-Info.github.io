@@ -33,7 +33,7 @@ GitHub地址：[https://github.com/GIS-Info/GIS-Info.github.io](https://github.c
 
 另一个是GIS海外志愿者和交流群（邀请制，需验证身份，请联系作者），为海外GIS学者学生交流提供平台。
 
-官方入群方式：目前可以扫码入群。若二维码过期，可在知乎上关注并私信[康雨豪](https://www.zhihu.com/people/kkyyhh96)，[叶山Shan Ye](https://www.zhihu.com/people/yeshanumich) 或 [饶锦蒙PhanTask](https://www.zhihu.com/people/phantask93)，或通过邮件[联系我们](https://gis-info.github.io/pages/authors)。同时，欢迎大家关注[地理空间数据科学](https://zhuanlan.zhihu.com/c_1157308566145658880)专栏。
+官方入群方式：目前可以扫码入群。若二维码过期，可在知乎上关注并私信[康雨豪](https://www.zhihu.com/people/kkyyhh96) 或 [饶锦蒙PhanTask](https://www.zhihu.com/people/phantask93)，或通过邮件[联系我们](https://gis-info.github.io/pages/authors)。同时，欢迎大家关注[地理空间数据科学](https://zhuanlan.zhihu.com/c_1157308566145658880)专栏。
 
 本文中各个学校顺序主要按照学校中文名的顺序,如果需要了解学校的综合排名等情况，请查询[Times](https://www.timeshighereducation.com/world-university-rankings), [QS](https://www.topuniversities.com/qs-world-university-rankings), [USNews](https://www.usnews.com/education/best-global-universities/rankings), [ARWU](http://www.shanghairanking.com/)等大学排名以及各个大学的官网。
 
@@ -1648,7 +1648,7 @@ GIS相关系所：[地理系](https://www.sheffield.ac.uk/geography)
 - **[Andrew McGonigle](https://www.sheffield.ac.uk/geography/people/academic-staff/andrew-mcgonigle)**: volcano remote sensing, volcano atmosphere interactions, other environmental sensing;
 - **[Stephen Livingstone](https://www.sheffield.ac.uk/geography/people/academic-staff/stephen-livingstone)**: surface meltwater.
 
-### 伦敦国王学院 
+### 伦敦国王学院
 **King's College London (KCL)**
 
 英国，大伦敦地区，伦敦
@@ -1686,7 +1686,7 @@ GIS相关系所：[地理、地球与环境科学学院](https://www.birmingham.
 - **[Zhaoya Gong](https://www.birmingham.ac.uk/schools/gees/people/profile.aspx?ReferenceId=122320&Name=dr-zhaoya-gong)**: leveraging computational and Data Sciences to advance GIS, dynamic processes of urbanisation and complex modalities of Spatial Structures generated at various scales.
 
 
-### 兰卡斯特大学 
+### 兰卡斯特大学
 **Lancaster University (LU)**
 
 英国，兰开夏郡，兰卡斯特市
@@ -1703,7 +1703,7 @@ GIS相关系所：[地理学院]( https://www.lancaster.ac.uk/geography/)
 - **[Ce Zhang](https://www.lancaster.ac.uk/lec/about-us/people/ce-zhang#phd-students)**: Artificial Intelligence and Machine Learning (Deep Learning), Geospatial Data Mining and Modelling (Geospatial Data Science), Landscape Pattern Analysis (Vector-based and Raster-based GIS), Remotely Sensed Image Analysis and their Applications.
 
 
-### 利物浦大学 
+### 利物浦大学
 **University of Liverpool (UOL)**
 
 英国，默西赛德郡，利物浦市
@@ -1721,7 +1721,7 @@ GIS相关系所：[地理与规划系](https://www.liverpool.ac.uk/geography-and
 - **[Alex Singleton](https://www.liverpool.ac.uk/environmental-sciences/staff/alexander-singleton/)**: Geodemographics, urban systems, Data Science, mobilities / transport.
 
 
-### 诺丁汉大学 
+### 诺丁汉大学
 **University of Nottingham (UoN)**
 
 英国，诺丁汉郡，诺丁汉市
