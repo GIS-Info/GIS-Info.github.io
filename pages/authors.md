@@ -59,7 +59,7 @@ GitHub地址：[https://github.com/GIS-Info/GIS-Info.github.io](https://github.c
 |     强毅    |    乔天    |  冉泉  |
 |     饶婧    |   饶锦蒙   | 司云瑞 |
 |    宋秋然   |   宋万营   | 苏辰雨 |
-|    孙一璠   | Angel Tang | 谭孟荀 |
+|    孙一璠   |  谭孟荀  | Angel Tang |
 |    王单桐   |    王骁    | 王瑶莉 |
 |    魏辛源   |    吴迪    | 吴秋生 |
 |    谢雨潭   |    邢进    |  薛凯  |
