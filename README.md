@@ -56,6 +56,8 @@ _因隐私问题，美国学校相关导师的信息暂缺，请查看院系的�
 
 #### 美国
 
+_因隐私问题，美国学校相关导师的信息暂缺，请查看院系的官网链接，或加入我们组建的海外留学群共同交流。_
+
 - [丹佛大学 (DU)](#丹佛大学)
 - [乔治梅森大学 (GMU)](#乔治梅森大学)
 - [亚利桑那大学 (UAZ)](#亚利桑那大学)
@@ -324,9 +326,10 @@ GIS 相关系所：[地理系](https://geography.uga.edu/)
 
 美国，佐治亚州，亚特兰大
 
-GIS相关系所：[城市和区域规划学院](https://planning.gatech.edu/)
+GIS相关系所：[城市规划系](https://planning.gatech.edu/)
 
-佐治亚理工有MS-GIST（地理信息科技硕士）项目以及相应的PhD项目。MS-GIST项目是一年制的硕士项目，其授课方向为GIS及其在不同学科领域（比如城市规划、大气科学、土木工程等）的应用。学生一共要学24学分的课程，并完成一个结业项目报告。博士的方向更偏向与城市规划、交通和设计。
+佐治亚理工没有专门的地理系。GIS的部分放在城市规划下面，仅有一个一年的硕士学位，比较适合想要快速学习GIS知识并就业的同学。GIS硕士学位也可以与城市规划学位搭配，三年(甚至两年，如果你课修得够快的话)可以同时拿GIS和城市规划的硕士学位。硕士毕业可以申请修4年博士。其GIS项目主要包含Introduction to GIS, Transportation & GIS, Socioeconomic GIS, Programming in GIS等课程。佐治亚理工的规划部门整体偏quantitative modeling和data analytics。
+
 
 ### 佛罗里达大学
 **University of Florida (UFL)**
@@ -627,7 +630,8 @@ GIS相关系所：[林业和环境学院](https://www.mtu.edu/forest/graduate/pr
 
 GIS相关系所：[地理系](https://geography.uconn.edu/)
 
-康涅狄格大学地理系的学术研究侧重于空间社会科学，地理信息科学与系统，自然地理，以及人与自然。该系的项目分为硕士（MA，一般是2年），博士（PhD，一般是3-4年），以及直博（MA + PhD，一般是5年）。系里有非常多GIS相关课程，例如transportation, geographic analysis, visualization, WebGIS等。
+康涅狄格大学坐落于纽约和波士顿之间，地理位置优越。地理系的学术研究侧重于地理信息科学与系统，空间社会科学，自然地理与人地关系。该系的项目分为硕士（MA，一般是2年），博士（PhD，一般是4年），以及直博（MA + PhD，一般是4至5年）。系里近期以GIS为发展方向，设置有GIS本科专业和GIS认证项目，提供了很多GIS相关课程，例如WebGIS, spatial database, mobile GIS, spatial big data等。
+
 
 ### 弗吉尼亚理工大学
 **Virginia Polytechnic Institute and State University (VT)**
