@@ -649,9 +649,11 @@ GIS相关系所：[资环学院](https://cnre.vt.edu/)
 
 美国，德克萨斯州，大学城市 (College station)
 
-GIS相关系所：[地理系](https://geography.tamu.edu/)
+GIS相关系所：[地理系](https://geography.tamu.edu/); [景观建筑与城市规划系](http://laup.arch.tamu.edu)
 
 德州农工地理系学科设置全面。在urban GIS, social big data, 和地理决策支持等研究方面较为突出。该系的研究生项目涵盖了：地理学硕士，地理信息科学与技术硕士（网络项目），以及地理学博士等项目。硕士项目需要36个学分，平均毕业2-3年；博士项目所需学分64学分，平均毕业时间4-5年。直博学生所需学分96学分。其GIS项目核心课程包括：quantitative methods in geography，WebGIS，GIS-based spatial analysis & modeling，frontiers in Geographic Information Science。
+
+景观建筑与城市规划系包括城市与区域科学博士点五个重点方向：环境灾害,可持续性,住房和社区发展,健康与福祉，和智慧城市/城市交通.大量发展基于GeoDesign,虚拟现实,增强现实,时空模拟的建成环境数据科学.全校学生科研平台丰富,包括:减灾和恢复中心,住房和城市发展中心,卫生系统与设计中心,数据科学研究院,交通运输研究院以及高性能研究计算中心.Ph.D项目需要修满64学分，并完成论文答辩等相关要求。
 
 ### 德克萨斯大学奥斯汀分校
 
