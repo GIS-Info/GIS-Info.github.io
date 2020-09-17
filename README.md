@@ -2122,6 +2122,7 @@ Department of Earth Systems Analysis:
 Department of Geo-information Processing:
 
 - **[Menno-Jan Kraak](https://research.utwente.nl/en/persons/menno-jan-kraak)**: cartography, visualization of geospatial data (with ormeling), Webcartography, developments and prospects, Exploring geovisualization;
+- **[Raul Zurita-Milla](https://research.utwente.nl/en/persons/r-zurita-milla)**: GIS, remote sensing, spatio-temporal analysis, geocomputation, seasonal dynamics;
 - **[Mingshu Wang](https://research.utwente.nl/en/persons/mingshu-wang)**: urban informatics, urban science, GIScience, geodata science, city and regional Development;
 
 Department of Natural Resources:
