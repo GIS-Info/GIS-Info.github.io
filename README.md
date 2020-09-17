@@ -2098,7 +2098,7 @@ ITC学院目前硕士项目主要包括以下5个，均为研究型硕士。
 - [Geographic Information Science and Earth Observation for Environmental Modeling and Natural Resource Management](https://www.igeon.eu/)（2年制，英文授课），在线课程。
 - [Geogrphical Inforamtion Management and Application](https://www.msc-gima.nl/)（2年制，英文授课）。
 
-ITC的博士申请主要根据下属的六个系进行对应的申请，学制为4年制。ITC学院仅有full profressor具有招收博士生的资格，就读期间导师由promoter（full professor）以及daily supervisor（associate/assistant professor）组成。[可供申请的博士奖学金职位信息](https://www.utwente.nl/en/organisation/careers/?branche=74143&educationlevel=74185,74187,74186,74189,74188,74184)
+ITC的博士申请主要根据下属的六个系进行对应的申请，学制为4年制。ITC学院仅有full profressor具有招收博士生的资格，就读期间导师由promoter（full professor）以及daily supervisor（associate/assistant professor）组成。可以申请CSC。全奖职位也会不定期放出：[可供申请的博士奖学金职位信息](https://www.utwente.nl/en/organisation/careers/?branche=74143&educationlevel=74185,74187,74186,74189,74188,74184)。
 
 相关导师：
 
