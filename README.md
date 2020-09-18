@@ -1211,13 +1211,13 @@ GIS相关系所：[地理与资源管理学系](https://www.grm.cuhk.edu.hk/eng/
 
 中国，香港特别行政区，香港岛
 
-GIS相关系所：[城市规划与设计系](https://www.arch.hku.hk/programmes_/upad/)，[地理系](https://www.geog.hku.hk/)，[房地产与建造系](https://www.arch.hku.hk/programmes_/rec/)
+GIS相关系所：[城市规划与设计系](https://www.arch.hku.hk/programmes_/upad/)，[地理系](https://www.geog.hku.hk/)，[房地产与建设系](https://www.arch.hku.hk/programmes_/rec/)
 
 香港大学城市规划及设计系(DUPAD)前身是1980年成立的香港大学城市规划及环境管理研究中心(CUPEM)。该中心于2008年改组为城市规划及设计系，承担与城市规划、住房管理、城市交通相关的教学与科研工作。该系提供本科生、授课型硕士、科研型硕士、科研型博士项目。相关方向包括城市规划、城市设计、住房管理、交通政策与规划。其中相关项目受到香港规划师协会（HKIP）、英国皇家城镇规划协会（RTPI）、英国皇家物流与运输学会（CILT）、英国特许房屋经理学会（CIH）、香港房屋经理学会（HKIH）认证。
 
 凭借着香港特别行政区在亚洲独特的地理区位优势以及与中国内地的紧密联系和文化纽带，香港大学地理系始终践行以策略为导向的研究主题，以中国相关研究、环境研究、城市和交通研究这三个研究主题作为大方向，力求促进东西文化互通，建设繁荣、宜居、可持续发展的城市。该系提供本科生、授课型硕士、科研型硕士、科研型博士项目。
 
-香港大学房地产与建筑系(前身为测量系)于1984年6月正式成立，从跨学科的基础上应对测量专业的学术挑战。该系提供本科生、授课型硕士、科研型硕士、科研型博士项目。其中相关项目受到香港测量师学会(HKIS)及英国皇家特许测量师学会(RICS)认证。
+香港大学房地产与建设系(前身为测量系)于1984年6月正式成立，从跨学科的基础上应对测量专业的学术挑战。该系提供本科生、授课型硕士、科研型硕士、科研型博士项目。其中相关项目受到香港测量师学会(HKIS)及英国皇家特许测量师学会(RICS)认证。
 
 城市规划及设计系相关导师：
 
@@ -1243,7 +1243,7 @@ GIS相关系所：[城市规划与设计系](https://www.arch.hku.hk/programmes_
 - **[LAM, Yun Fat 林潤發]( http://hub.hku.hk/cris/rp/rp02573)**: climate change and air quality, air quality modeling;
 - **[ZHANG, Hongsheng 張鴻生]( http://hub.hku.hk/cris/rp/rp02616)**: smart cities and sustainable development, remote sensing of urban environment.
 
-房地产与建造系相关导师：
+房地产与建设系相关导师：
 
 - **[XUE, Fan 薛帆](https://frankxue.com/)**: urban computing, urban sensing, urban semantics in 3D point clouds, machine learning, optimization algorithm, BIM, GIS, IoT.
 
