@@ -729,7 +729,7 @@ GIS 相关系所：[地理与可持续发展科学系](https://clas.uiowa.edu/ge
 
 ### 爱荷华州立大学
 
-**Iowa State University (ISU)**
+**Iowa State University of Science and Technology (ISU)**
 
 美国，爱荷华州，阿美斯
 
