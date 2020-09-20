@@ -105,6 +105,7 @@ _因隐私问题，美国学校相关导师的信息暂缺，请查看院系的�
 - [明尼苏达大学双城分校 (UMN)](#明尼苏达大学双城分校)
 - [爱达荷大学 (Idaho)](#爱达荷大学)
 - [爱荷华大学 (UI)](#爱荷华大学)
+- [爱荷华州立大学 (ISU)](#爱荷华州立大学)
 - [犹他大学 (Utah)](#犹他大学)
 - [田纳西大学 (UTK)](#田纳西大学)
 - [科罗拉多大学 (CU Boulder)](#科罗拉多大学波尔德分校)
@@ -726,6 +727,16 @@ GIS 相关系所：[地理与可持续发展科学系](https://clas.uiowa.edu/ge
 
 爱荷华大学地理与环境可持续发展科学系授予本科，硕士，博学学位，以及GIS研究生文凭，并且与很多跨学科教育与科研机构（包括CGRER，Iowa Informatics Initiative，与著名的爱荷华水利研究所/爱荷华洪水中心)有着紧密的合作。爱荷华大学地理系涉足多种多样的学术科研方向，包括自然地理，人文地理，地图学，环境政策，水文地理等，并在空间分析，可视化分析，以及环境科学与水利学相关领域（水文学与水资源科学，洪水灾害风险分析，环境管理与决策支持，生态学），空间网络分析等方向有深厚的背景。著名的Marc Armstrong教授曾在该系任教。
 
+### 爱荷华州立大学
+
+**Iowa State University (ISU)**
+
+美国，爱荷华州，阿美斯
+
+GIS 相关系所：[地质和大气科学系](https://ge-at.iastate.edu/)
+
+爱荷华州立大学地质和大气科学系有MS和PhD学位，主要分为地球科学、地质学和气象学三个大方向。该系的[环境可持续发展实验室](https://faculty.sites.iastate.edu/yuyuzhou/environmental-sustainability-lab-esl)招收GIS方向的研究生。该实验室通过空间分析、地理信息可视化、综合评估建模等手段研究环境变化、城市热岛效应、城市植被、城市灯光和建成区以及可持续发展等内容。
+
 ### 犹他大学
 **University of Utah (Utah)**
 
@@ -809,14 +820,6 @@ GIS相关系所：[计算信息科学学院](https://umaine.edu/scis/)
 
 缅因大学地理系历史悠久，是美国三大地理分析中心（National Center for Geographic Information and Analysis，NCGIA）之一。在空间分析和GIS可视化方面尤为突出，Max Egenhofer在此任教。缅因大学GIS项目在计算机信息科学学院，有许多计算机课程可供选择。该系主要有两个项目，Information Systems硕士偏向于就业，Spatial Information Science and Engineering偏向于学术科研。其GIS核心课程包括 spatial analysis, spatial interaction Design，spatial database systems等课程。
 
-### 肯特州立大学
-**Kent State University (Kent State)**
-
-美国，俄亥俄州，肯特（克利夫兰附近）
-
-GIS相关系所：[地理系](https://www.kent.edu/geography)
-
-肯特州立大学地理系有MA和PhD两个学位，申请PhD需要有硕士的学位（学校承认中国学位），一般来说，PhD比较好申请奖学金，助教上课和科研的机会很多。MA也有机会拿奖学金。系里有GIS方向，另外还有研究气候、人文地理、亚洲地理的老师。该校地理系的研究生项目主任（Graduate Coordinator）David Kaplan是上一届AAG的主席。
 
 ### 肯塔基大学
 **University of Kentucky (UKY)**
@@ -826,6 +829,15 @@ GIS相关系所：[地理系](https://www.kent.edu/geography)
 GIS相关系所：[地理系](https://geography.as.uky.edu/)
 
 肯塔基大学地理系提供MA和PhD学位。这个系的科研特色是critical mapping and critical GIS项目，即对自发地理系统和和大众参与的社区地理信息系统的研究。此外，该系还有digital geography和web mapping的重点科研课题，在虚拟的网络传媒中重新定义地理空间。
+
+### 肯特州立大学
+**Kent State University (Kent State)**
+
+美国，俄亥俄州，肯特（克利夫兰附近）
+
+GIS相关系所：[地理系](https://www.kent.edu/geography)
+
+肯特州立大学地理系有MA和PhD两个学位，申请PhD需要有硕士的学位（学校承认中国学位），一般来说，PhD比较好申请奖学金，助教上课和科研的机会很多。MA也有机会拿奖学金。系里有GIS方向，另外还有研究气候、人文地理、亚洲地理的老师。该校地理系的研究生项目主任（Graduate Coordinator）David Kaplan是上一届AAG的主席。
 
 ### 西弗吉尼亚大学
 **West Virginia University (WVU)**
