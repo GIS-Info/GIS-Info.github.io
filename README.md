@@ -937,11 +937,13 @@ UBC的地理系开设MA、MSc和PhD三种研究生学位。GIS为该系的主要
 
 加拿大，阿尔伯塔省，卡尔加里
 
-GIS相关系所：[地理系](https://arts.ucalgary.ca/geography)
+GIS相关系所：[地理系](https://arts.ucalgary.ca/geography)、[测绘系](https://schulich.ucalgary.ca/geomatics)
 
-卡尔加里大学地理系提供地理空间科学（geospatial science）方向的研究生项目，包括遥感、地信、导航、制图、空间统计、地理数据挖掘等。该方向也和同系的其他方向（比如资源地理、社会地理、地貌学、冰川学等）有合作项目。研究生项目又分为课题型（包括MA、MSc和PhD学位）和授课型（MGIS学位）两种。课题型学位需要参与科研工作，并完成毕业论文，在此期间需要上和科研内容紧密相关的一些课程。MA和MSc一般需要2年完成，PhD一般要5年。授课型学位MGIS不需要参与科研，但需要上更多、覆盖面更全的地信和遥感相关进阶课程，一般也需要2年完成。
+卡尔加里大学地理系提供地理空间科学（geospatial science）方向的研究生项目，包括遥感、地信、导航、制图、空间统计、地理数据挖掘等。该方向也和同系的其他方向（比如资源地理、社会地理、地貌学、冰川学等）有合作项目。研究生项目又分为课题型（包括MA、MSc和PhD学位）和授课型（MGIS学位）两种。课题型学位需要参与科研工作，并完成毕业论文，在此期间需要上和科研内容紧密相关的一些课程。MA和MSc一般需要2年完成，PhD一般要5年。授课型学位MGIS不需要参与科研，但需要上更多、覆盖面更全的地信和遥感相关进阶课程，一般也需要2年完成。除了地理系外，该校的测绘系（Geomatics Engineering）也有GIS相关的项目。
 
 相关导师：
+
+地理系：
 - **[Darren Bender](http://contacts.ucalgary.ca/info/geog/profiles/124-3766)**: GIS, quantitative spatial analysis, biogeography, ecology;
 - **[Stefania Bertazzon](http://contacts.ucalgary.ca/info/geog/profiles/177-32759)**: spatial analysis, public health;
 - **[Ryan Burns](http://contacts.ucalgary.ca/info/geog/profiles/1-7419978)**: digital geography, social big data, cartography, web mapping;
@@ -949,6 +951,12 @@ GIS相关系所：[地理系](https://arts.ucalgary.ca/geography)
 - **[Geoff Hay](http://contacts.ucalgary.ca/info/geog/profiles/177-32909)**: GIS, spatial data science, image processing, remote sensing;
 - **[Dan Jacobson](http://contacts.ucalgary.ca/info/geog/profiles/177-32766)**: digital humanities, cartography, history of GIS;
 - **[Greg McDermid](http://contacts.ucalgary.ca/info/geog/profiles/177-32916)**: remote sensing, environmental informatics.
+
+测绘系：
+- **[Steve Liang](https://schulich.ucalgary.ca/contacts/steve-liang)**: device-cloud communications, cloud-cloud communications, geo-sensor networks, distributed computing;
+- **[Emmanuel Stefanakis](https://schulich.ucalgary.ca/contacts/emmanuel-stefanakis)**: intelligent and autonomous systems, engineering for the environment, smart cities;
+- **[Xin Wang](https://schulich.ucalgary.ca/contacts/xin-wang)**: big data, advanced analytics, AI and data analytics.
+
 
 ### 圭尔夫大学
 
