@@ -1310,6 +1310,22 @@ GIS相关系所：土地测量及地理资讯学系 Department of Land Surveying
 - **[ZHU, Xiao-lin](http://www.lsgi.polyu.edu.hk/people/academic/zhu-xiao-lin/index.asp)**: remote sensing and geospatial analysis, with focusing on missing data reconstruction, spatiotemporal data fusion, classification, change detection, land surface information retrieval, and applications of Geoscience in urban and ecological studies;
 - **[JIA, Peng](https://scholar.google.com/citations?user=eR1sDXYAAAAJ&hl=en)**: Spatial lifecourse epidemiology, health geography, obesity, health cares, spatial technology.
 
+
+### 香港科技大学 
+
+**The Hong Kong University of Science and Technology (HKUST)**
+中国，香港特别行政区
+
+GIS相关系所：[Division of Environment and Sustainability](https://www.envr.ust.hk/) 
+
+香港科技大学没有模拟地理系，但是在Division of Environment and Sustainability有一些老师运用GIS和遥感来模拟环境过程，主要研究环境科学与可持续发展问题。
+
+相关导师：
+- **[Jimmy W M CHAN](https://www.envr.ust.hk/our-division/people/faculty-staff/jimmy.html)**: GIS, Spatial analysis and modeling, Remote sensing, Computer graphics, Simulation and numerical optimization; 
+- **[Alexis K H LAU](https://www.envr.ust.hk/our-division/people/faculty-staff/alau.html)**: Geophysical data analysis, numerical modeling of the atmosphere, regional and urban air pollution, weather and climate, satellite remote sensing applications, environmental education;
+- **[Dasa GU](https://www.envr.ust.hk/our-division/people/faculty-staff/dasagu.html)**: Air pollutant emissions, Numerical modeling, Satellite remote sensing, Trace gas measurements;
+
+
 ### 新加坡国立大学
 
 **National University of Singapore（NUS）**
