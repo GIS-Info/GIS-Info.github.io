@@ -48,7 +48,9 @@ _因隐私问题，美国学校相关导师的信息暂缺，请查看院系的�
 
 北美洲80所：[美国65所](#美国)，[加拿大15所](#加拿大)
 
-亚洲大洋洲17所：[中国香港6所](#中国香港特区)，[新加坡1所](#新加坡)，[澳大利亚5所](#澳大利亚)，[新西兰5所](#新西兰)
+亚洲14所：[中国香港6所](#中国香港特区)，[新加坡1所](#新加坡)，[韩国7所](#韩国)
+
+大洋洲10所：[澳大利亚5所](#澳大利亚)，[新西兰5所](#新西兰)
 
 欧洲66所：[英国13所](#英国)，[德国20所](#德国)，[荷兰5所](#荷兰)，[瑞士6所](#瑞士)，[瑞典5所](#瑞典)，[挪威2所](#挪威)，[芬兰2所](#芬兰)，[丹麦2所](#丹麦)，[奥地利3所](#奥地利)，[比利时3所](#比利时)，[意大利1所](#意大利)，[爱尔兰2所](#爱尔兰)，[法国2所](#法国)
 
@@ -151,6 +153,15 @@ _因隐私问题，美国学校相关导师的信息暂缺，请查看院系的�
 
 #### 新加坡
 - [新加坡国立大学 (NUS)](#新加坡国立大学)
+
+#### 韩国
+- [成均馆大学 (SKKU)](#成均馆大学)
+- [高丽大学 (KU)](#高丽大学)
+- [安养大学 (Anyang)](#安养大学)
+- [庆一大学 (KIU)](#庆一大学)
+- [首尔大学 (SNU)](#首尔大学)
+- [首尔市立大学 (UOS)](#首尔市立大学)
+- [延世大学 (Yonsei)](#延世大学)
 
 #### 澳大利亚
 - [塔斯马尼亚大学 (UTas)](#塔斯马尼亚大学)
@@ -1312,17 +1323,17 @@ GIS相关系所：土地测量及地理资讯学系 Department of Land Surveying
 - **[JIA, Peng](https://scholar.google.com/citations?user=eR1sDXYAAAAJ&hl=en)**: Spatial lifecourse epidemiology, health geography, obesity, health cares, spatial technology.
 
 
-### 香港科技大学 
+### 香港科技大学
 
 **The Hong Kong University of Science and Technology (HKUST)**
 中国，香港特别行政区
 
-GIS相关系所：[Division of Environment and Sustainability](https://www.envr.ust.hk/) 
+GIS相关系所：[Division of Environment and Sustainability](https://www.envr.ust.hk/)
 
 香港科技大学没有模拟地理系，但是在Division of Environment and Sustainability有一些老师运用GIS和遥感来模拟环境过程，主要研究环境科学与可持续发展问题。
 
 相关导师：
-- **[Jimmy W M CHAN](https://www.envr.ust.hk/our-division/people/faculty-staff/jimmy.html)**: GIS, Spatial analysis and modeling, Remote sensing, Computer graphics, Simulation and numerical optimization; 
+- **[Jimmy W M CHAN](https://www.envr.ust.hk/our-division/people/faculty-staff/jimmy.html)**: GIS, Spatial analysis and modeling, Remote sensing, Computer graphics, Simulation and numerical optimization;
 - **[Alexis K H LAU](https://www.envr.ust.hk/our-division/people/faculty-staff/alau.html)**: Geophysical data analysis, numerical modeling of the atmosphere, regional and urban air pollution, weather and climate, satellite remote sensing applications, environmental education;
 - **[Dasa GU](https://www.envr.ust.hk/our-division/people/faculty-staff/dasagu.html)**: Air pollutant emissions, Numerical modeling, Satellite remote sensing, Trace gas measurements;
 
@@ -1342,6 +1353,120 @@ GIS相关系所：[地理系](https://www.fas.nus.edu.sg/geog/)
 - **[FENG, Chen-Chieh](https://eminence365.wordpress.com/)**: spatial data modeling and spatial information theory; Cyberinfrastructure; GIS and education;   
 - **[YAN, Yingwei](https://profile.nus.edu.sg/fass/geoyy/)**: spatial big data analytics, citizen GIScience, volunteered geographic information;
 - **[WANG Yi-Chen](http://courses.nus.edu.sg/course/geowyc/)**: GIS and remote sensing applications, spatial epidemiology.
+
+### 成均馆大学
+
+**Sungkyunkwan University (SKKU)**
+
+韩国，京畿道，水原市
+
+GIS相关系所：[土木、建筑及环境工程学院](https://enc.skku.edu/eng_enc/programs/departments/civil_intro.do#N)、[景观建筑学院](https://enc.skku.edu/eng_enc/programs/departments/lands_intro.do#N)、[水资源学院](https://enc.skku.edu/eng_enc/programs/departments/water_intro.do)
+
+成均馆大学是韩国历史最为悠久的大学，其前身是建立于1398年的朝鲜李氏王朝官办学府。该校的土木、建筑及环境工程学院下设有地理信息工程及智慧建设专业，其中包括了交通能源、地理信息工程和智慧城市等方向。在该校的景观建筑学院也开有相关专业，归在环境和气候专业之下，主要方向包括GIS、遥感、空间分析、空间统计等，以及它们在交通、生态、景观规划等方面的应用。在该校的水资源学院也有相关专业，包括运用GIS技术进行水资源管理和分析等。以上专业都有硕士、博士和硕博连读三种项目选择，这几个专业主要用韩语教学，少数课程使用英语，因此需要有韩语成绩（TOPIK考试3级）以及英语成绩（托福71或雅思5.5）。
+
+相关导师：
+- **[Choi Minha](http://ersl.skku.edu/sub02/sub01.php)**: climate modeling, applied GIS, ecohydrology, remote sensing;
+- **[Yun Hongsic](https://enc.skku.edu/eng_enc/intro/faculty_construction.do?mode=view&perId=LZStrHYYxHMBEBMAYE0DSBJAGgBQLYEEAqxsBqAZwHdhwBeSoA%20&)**: land-based mobile mapping, digital maps, oceanography, energy;
+- **[Chin Sang Yoon](https://enc.skku.edu/eng_enc/intro/faculty_construction.do?mode=view&perId=LZStrMIdQsgnAFg1AEgaQKxgCYHMAsAmVxUAiAUgQEYDuAvJUA%20&)**: building informatics, smart construction, modeling, BIM, smart city;
+- **[Choi Hye Young](https://choihyeyoung.wixsite.com/laud)**: landscape architecture, urban design;
+- **[Kim Donyun](http://web.skku.edu/~dnkim/)**: smart city, digial city media;
+- **[Kim Jeeyeop](https://enc.skku.edu/eng_enc/intro/faculty_arch.do?mode=view&perId=LZStrJoFw9g7AXgTgJgdQMIFMCeBWAygKwFLBoDSAcgHYAcA5gLw1A%20&)**: smart city, urban informatics;
+- **[Kim Sungah](http://desinfo.skku.edu/)**: design informatics, multi-layered spatial information, smart city, spatial data, BIM.
+
+### 高丽大学
+
+**Korea University (KU)**
+
+韩国，首尔特别市，首尔
+
+GIS相关院系：[环境GIS遥感实验室](https://www.egisrs.org/)
+
+高丽大学是韩国三大名校（SKY）之一，它的环境GIS遥感实验室（EGISRS，隶属于[气候环境系](https://kupa.korea.ac.kr/gsles_en/master/subject07.do)和[环境科学及生态工程系](https://eco.korea.ac.kr/)）拥有诸多地信和遥感的科研项目，并培养硕士和博士研究生，实验室的成员和学生利用GIS和遥感科技来研究地球观测数据、可持续发展、河道变迁、林业和森林覆盖、气候变化等内容。
+
+相关导师：
+- **[Woo-Kyun Lee](http://egis.korea.ac.kr/introduction/profile)**: GIS, remote sensing, environment.
+
+### 安养大学
+
+**Anyang University (Anyang)**
+
+韩国，京畿道，安养市
+
+GIS相关系所：[城市信息工程系](http://www.anyang.ac.kr/urban/contents/contents.do?ciIdx=522&menuId=847)
+
+安养大学是韩国的一间私立大学，在它的城市环境和生物科技学院下设有城市信息工程系，其中包括GIS相关的方向。2006年，韩国的交通和建设部将该系指定为韩国GIS教育的重点建设院系之一。该校有硕士及博士研究生学位，城市信息工程的研究生项目归研究生院中的General Graduate School管辖。
+
+相关导师：
+- **[Jong Wook Ahn](https://www.researchgate.net/profile/Jong_Ahn2)**: spatial analysis, smart city;
+- **[Dong Bin Shin](https://www.researchgate.net/profile/Dong_Shin17)**: remote sensing, urban environment, land cover, spatial information;
+- **Min-Sook Lee (Yi)**: GIS, urban environment, city informatics.
+
+### 庆一大学
+
+**Kyungil University (KIU)**
+
+韩国，庆尚北道，庆山市
+
+GIS相关系所：[地理信息工程系](http://geosat.kiu.ac.kr/)
+
+庆一大学地理信息工程系隶属于该校的工学院，开设地理空间信息工程专业的硕士和博士学位。专业的方向包括GIS, photogrammetry, remote sensing, geodesy等，应用方向包括气候、城市规划、土木工程和自然灾害防范等。语言成绩要求为英语托福80或雅思5.5，或韩语TOPIK考试3级。
+
+相关导师：
+- **[Jae-Seong Ahn](https://www.researchgate.net/profile/Jae_Seong_Ahn)**: GIS, spatial analysis, geovisualization, mobile mapping, web mapping;
+- **[Soohee Han](https://scholar.google.com/citations?user=jVgm_LgAAAAJ&hl=th)**: remote sensing, LiDAR, spatial information;
+- **[Hyunsung Kim](http://ce.kiu.ac.kr/~hskim)**: network security, ubiquitous computing, geoinformatics;
+- **[Chang-Ki Hong](https://www.kiu.ac.kr/~subhome/HOME/geosat/sub/sub.htm?nav_code=geo1310798036)**: geodesy, remote sensing, ionosphere modeling.
+
+
+
+
+### 首尔大学
+
+**Seoul National University (SNU)**
+
+韩国，首尔特别市，首尔
+
+GIS相关系所：[土木交通工程系](https://cee.snu.ac.kr/english/index.php)
+
+首尔大学是韩国三大名校（SKY）之一，它的土木交通工程系有空间信息工程（Spatial Informatics Engineering）专业的研究生学位，硕士项目时长一般为2年，博士项目时长一般为3-4年，硕博连读项目一般为4-5年，有英语或韩语教学两种选择，入学需要提供语言成绩（英语托福80以上或雅思6分以上；韩语TOPIK考试3级以上）。空间信息工程专业主要有遥感工程和GIS/LBS两个课题组，遥感工程的主要方向是satellite sensor modeling、image processing、photogrammetry、GPS、LiDAR、survey等；GIS/LBS的主要方向是GIS/CAD integration、spatial database、location-based service、moving object tracking等。此外，该系还有城市规划、交通规划、地理环境工程等相关专业。
+
+相关导师：
+- **[Kim Yongil](http://spins.snu.ac.kr/)**: remote sensing, geodesy, GPS;
+- **[Yu Kiyun](http://gislbs.net/)**: GIS, location-based service, decision making, map-based city information visualization, spatial analysis;
+- **[Kwon Young-Sang](http://udl.snu.ac.kr/)**: urban design, urban studies, urban planning;
+- **[Jung Chang Mu](http://uplab.snu.ac.kr/)**: urban planning, urban policy.
+
+### 首尔市立大学
+**University of Seoul (UOS)**
+
+韩国，首尔特别市，首尔
+
+GIS相关系所：[地理信息系](https://www.uos.ac.kr/en/academics/colleges/cuscience/geolnformatics/introduction.do?epTicket=LOG)
+
+首尔市立大学的地理信息系（Department of Geoinformatics）隶属于城市科学学院，有硕士和博士研究生学位。学习的方向主要有GIS、applied GIS、LIS (land information systems)、dadastre、geodesy、GPS、surveying、photogrammetry、remote sensing等。
+
+相关导师：
+- **[KOH Junehwan](https://www.uos.ac.kr/en/professor/view.do?proseq=114&code=20100&pageIndex=1&epTicket=LOG)**: urban studies, urban informatics, participatory GIS, community mapping;
+- **[JUN Chulmin](https://www.uos.ac.kr/en/professor/view.do?proseq=420&code=20100&pageIndex=1&epTicket=LOG)**: transportation, urban planning, spatial analysis, WebGIS, GIS development, spatial database;
+- **[CHOI Yun Soo](https://www.uos.ac.kr/en/professor/view.do?proseq=67&code=20100&pageIndex=1&epTicket=LOG)**: coordinates, surveying, cadastral resurvey, geodesy;
+- **[Hyung-Sup Jung](https://www.uos.ac.kr/en/professor/view.do?proseq=65&code=20100&pageIndex=1&epTicket=LOG)**: remote sensing, natural hazards, forestry;
+- **[LEE Impyeong](https://www.uos.ac.kr/en/professor/view.do?proseq=62&code=20100&pageIndex=1&epTicket=LOG)**: indoor modeling, multi-sensor, smart vehicles, computer vision;
+- **[CHO Seongkil](https://www.uos.ac.kr/en/professor/view.do?proseq=66&code=20100&pageIndex=1&epTicket=LOG)**: geoinformatics, traffic, transportation;
+- **[Lee Jiyeong](https://www.uos.ac.kr/en/professor/view.do?proseq=64&code=20100&pageIndex=1&epTicket=LOG)**: micro-spatial data, spatial awareness, urban informatics.
+
+### 延世大学
+
+**Yonsei University (Yonsei)**
+
+韩国，首尔特别市，首尔
+
+GIS相关系所：[空间计算及可持续发展设施实验室](http://scsi.yonsei.ac.kr/)
+
+延世大学是韩国三大名校（SKY）之一，它的空间计算及可持续发展设施实验室（SCSI，隶属于[土木和环境工程系](https://civil.yonsei.ac.kr/default.asp?lang=e)）是一个用地图、测绘、空间信息科学、地理数据科学等方法来研究可持续发展及其基础设施的课题组，和俄勒冈州立大学、南加州大学、香港理工大学等世界一流大学的相关课题组，以及微软、NRF、KICT等知名公司，都有密切合作。实验室也培养硕士和博士研究生。
+
+相关导师：
+- **[Joon Heo](http://scsi.yonsei.ac.kr/professor.html)**: mapping, spatial data science, spatial information.
+
 
 ### 塔斯马尼亚大学
 **University of Tasmania (UTas)**
