@@ -52,8 +52,9 @@ _因隐私问题，美国学校相关导师的信息暂缺，请查看院系的�
 
 大洋洲10所：[澳大利亚5所](#澳大利亚)，[新西兰5所](#新西兰)
 
-欧洲66所：[英国13所](#英国)，[德国20所](#德国)，[荷兰5所](#荷兰)，[瑞士6所](#瑞士)，[瑞典5所](#瑞典)，[挪威2所](#挪威)，[芬兰2所](#芬兰)，[丹麦2所](#丹麦)，[奥地利3所](#奥地利)，[比利时3所](#比利时)，[意大利1所](#意大利)，[爱尔兰2所](#爱尔兰)，[法国2所](#法国)
+欧洲66所：[英国13所](#英国)，[德国20所](#德国)，[荷兰5所](#荷兰)，[瑞士6所](#瑞士)，[瑞典5所](#瑞典)，[挪威2所](#挪威)，[芬兰2所](#芬兰)，[丹麦2所](#丹麦)，[奥地利3所](#奥地利)，[比利时3所](#比利时)，[意大利1所](#意大利)，[爱尔兰2所](#爱尔兰)，[法国5所](#法国)
 
+_地图暂未包括2020年9月15日以后添加的学校_
 ![map](img/gis_schools.PNG)
 
 #### 美国
@@ -268,6 +269,9 @@ _因隐私问题，美国学校相关导师的信息暂缺，请查看院系的�
 #### 法国
 - [巴黎东马恩河谷大学 (UPEM)](#巴黎东马恩河谷大学)
 - [勃艮第大学 (UBFC)](#巴黎东马恩河谷大学)
+- [图卢兹第二大学 (Tlse2)](#图卢兹第二大学)
+- [雷恩第二大学 (UR2)](#雷恩第二大学)
+- [圣埃蒂安大学 (USE)](#圣埃蒂安大学)
 
 ## 学校信息
 
@@ -2795,3 +2799,48 @@ M2学位种类包括：
 GIS相关系所：[第戎经济实验室](https://www.u-bourgogne.fr/organisation/laboratoires-et-entites-de-recherche/laboratoire-d-economie-de-dijon-ledi.html)
 
 勃艮第大学原名**第戎大学**，该校开设空间和环境经济学数据分析（DASEE）专业的两年制M2硕士学位，用英语授课，该专业的特点是从GIS和经济地理学的角度来分析城市、区域和环境问题，并且特别关注地理空间数据的管理和分析能力。这是一个授课制的硕士项目，入学条件需要有经济学、数学、工程、计量地理学等专业的本科学位。授课主要内容包括GIS、空间经济学、地理统计学、交通经济学、空间分析、空间数据科学等。最后需要完成一个毕业报告。
+
+### 图卢兹第二大学
+
+**Université Toulouse II Jean Jaurès (Tlse2)**
+
+法国，奥克西塔尼大区，图卢兹
+
+GIS相关系所：[地理、规划和环境系](https://geo.univ-tlse2.fr/)
+
+图卢兹第二大学位于法国图卢兹郊区，是图卢兹大学系统的成员之一，该系统是欧洲大陆最古老的高等教育机构之一。该校的地理、规划和环境系开设Geomatics专业的硕士项目（Masters-2学位），该项目时长为1-2年，中间有至少600小时或4个月的实习要求，以授课为主，授课内容的重点为数字地理信息在规划、农业和环境保护等方面的应用，遥感和GIS的理论课程，以及编程、算法、数据库管理等核心能力的培养。毕业生大多成为软件或数据工程师，也有的继续读博深造或在UNEP、WHO等国际组织担任地理信息顾问。该系也有博士学位，多数项目是和[法国科研中心](http://www.cnrs.fr/fr/le-cnrs)合作。
+
+相关导师：
+
+该校的教学和科研都以课题组为单位，并与周边学校合作。该系GIS相关的课题组有：
+- **[GEODE](http://w3.geode.univ-tlse2.fr/presentation.php)**: remote sensing, landscape, environment, ecology, multi-agent modeling, spatial modeling, 3D modeling;
+- **[DYNAFOR](https://www.dynafor.fr/)**: geomatics, spatial analysis, forestry, agriculture, ecology, biodiversity;
+- **[LISST](https://lisst.univ-tlse2.fr/)**: urban development, human geography, globalization, social media analysis.
+
+### 雷恩第二大学
+
+**University of Rennes 2 (UR2)**
+
+法国，布列塔尼大区，雷恩
+
+GIS相关系所：[地理和空间规划系](https://international.univ-rennes2.fr/structure/department-geography-and-spatial-planning)
+
+地理和空间规划是雷恩第二大学的重点专业之一，是一个规模很大的系，有硕士（M2）和博士学位。硕士学位中，有专门针对地理信息专业的SIGAT（GIS和区域分析）选项，时长2年，授课内容大致包括GIS开发、数据和数据库管理、空间分析、空间统计等，大部分课程为法语授课，少部分用英语授课。博士学位需要参与科研，科研项目和导师和正在进行的课题相关。主要课题组有两个：
+
+- **[COSTEL](https://letg.cnrs.fr/)**: remote sensing, geomatics, coastal environment, ecology;
+- **[ESO](http://eso.cnrs.fr/fr/index.html)**: space planning, space sharing, landscape, coastal ecosystem.
+
+### 圣埃蒂安大学
+
+**Jean Monnet University of Saint-Etienne (USE)**
+
+法国，奥弗涅-罗讷-阿尔卑斯大区，圣埃蒂安
+
+GIS相关系所：[地理系](https://fac-shs.univ-st-etienne.fr/fr/departements/geographie.html)
+
+圣埃蒂安大学的地理系有硕士（Master 2）项目，方向有两个，分别是数字地理学方向（主要授课内容包括地理信息系统、编程技术、计量地理学、空间统计、图像分析、遥感分析、地图学等）和环境管理方向（主要授课内容包括环境科学、生态学、生物地理学、水文地质学、城市研究、人文地理学、社会学等）。
+
+相关导师：
+
+- **[Thierry Joliveau](https://www.researchgate.net/profile/Thierry_Joliveau)**: spatial analysis, cartography, mapping, geovisualization;
+- **[Christine Jacqueminet](https://www.researchgate.net/profile/Christine_Jacqueminet)**: GIS, remote sensing, physical geography, tropical climate, hydrology, modeling.
