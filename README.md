@@ -50,9 +50,9 @@ _因隐私问题，美国学校相关导师的信息暂缺，请查看院系的�
 
 亚洲14所：[中国香港6所](#中国香港特区)，[新加坡1所](#新加坡)，[韩国7所](#韩国)
 
-大洋洲10所：[澳大利亚5所](#澳大利亚)，[新西兰5所](#新西兰)
+大洋洲12所：[澳大利亚7所](#澳大利亚)，[新西兰5所](#新西兰)
 
-欧洲69所：[英国13所](#英国)，[德国20所](#德国)，[荷兰5所](#荷兰)，[瑞士6所](#瑞士)，[瑞典5所](#瑞典)，[挪威2所](#挪威)，[芬兰2所](#芬兰)，[丹麦2所](#丹麦)，[奥地利3所](#奥地利)，[比利时3所](#比利时)，[意大利1所](#意大利)，[爱尔兰2所](#爱尔兰)，[法国5所](#法国)
+欧洲70所：[英国13所](#英国)，[德国20所](#德国)，[荷兰5所](#荷兰)，[瑞士6所](#瑞士)，[瑞典5所](#瑞典)，[挪威2所](#挪威)，[芬兰2所](#芬兰)，[丹麦2所](#丹麦)，[奥地利3所](#奥地利)，[比利时3所](#比利时)，[意大利1所](#意大利)，[爱尔兰2所](#爱尔兰)，[法国6所](#法国)
 
 _地图暂未包括2020年9月15日以后添加的学校_
 ![map](img/gis_schools.PNG)
@@ -170,6 +170,8 @@ _因隐私问题，美国学校相关导师的信息暂缺，请查看院系的�
 - [阿德莱德大学 (UAdel)](#阿德莱德大学)
 - [西澳大利亚大学 (UWA)](#西澳大利亚大学)
 - [科廷大学 (Curtin)](#科廷大学)
+- [弗林德斯大学 (Flinders)](#弗林德斯大学)
+- [昆士兰大学 (UQ)](#昆士兰大学)
 
 #### 新西兰
 - [坎特伯雷大学 (UC)](#坎特伯雷大学)
@@ -272,6 +274,7 @@ _因隐私问题，美国学校相关导师的信息暂缺，请查看院系的�
 - [图卢兹第二大学 (Tlse2)](#图卢兹第二大学)
 - [雷恩第二大学 (UR2)](#雷恩第二大学)
 - [圣埃蒂安大学 (USE)](#圣埃蒂安大学)
+- [蔚蓝海岸大学 (UCA)](#蔚蓝海岸大学)
 
 ## 学校信息
 
@@ -1555,6 +1558,33 @@ GIS相关系所：[空间科学系](https://scieng.curtin.edu.au/schools/school-
 - **[Michael Kuhn](https://staffportal.curtin.edu.au/staff/profile/view/michael-kuhn-0ad64f27/)**: surveying, geodesy, gravity;
 - **[Will Featherstone](https://staffportal.curtin.edu.au/staff/profile/view/will-featherstone-0312e6c3/)**: surveying, geodesy, GPS;
 - **[Geoff West](https://staffportal.curtin.edu.au/staff/profile/view/geoff-west-bf2f4f7d/)**: GIS, spatial analysis, visualization.
+
+### 弗林德斯大学
+
+**University of Flinders (Flinders)**
+
+澳大利亚，南澳大利亚州，阿德莱德
+
+GIS相关系所：[科学和工程学院](https://students.flinders.edu.au/my-course/course-rules/postgrad/mgis#:~:text=The%20Master%20of%20Geospatial%20Information,Diploma%20in%20Geographical%20Information%20Systems.)
+
+弗林德斯大学开设地理空间信息科学专业的硕士项目（MGISc），该项目的为2年制授课型硕士，目标学生是对GIS感兴趣，但本科专业**不是**GIS专业的学生。该项目的授课内容包括GIS的理论和技术（GIScience、遥感、geostatistics、spatial modeling、geographic data、GIS research methods、programming）以及GIS重要应用方向的基础课程（climate、environment、coastal management、sustainability等）。在第二年，学生会被要求完成一项研究课题。毕业生一般从事GIS相关行业的工作，或进修GIS专业的博士。
+
+### 昆士兰大学
+
+**University of Queesland (UQ)**
+
+澳大利亚，昆士兰州，布里斯本
+
+GIS相关系所：[地球和环境科学系](https://sees.uq.edu.au/)
+
+昆士兰大学的地球和环境科学系在澳大利亚的环境类专业排名中位居第一，该系开设有地理学、地质学、地球物理、环境科学、古生物学、城市规划等不同专业，其中地理专业下有地理空间信息科学（geospatial information science）方向。该方向开设有哲学硕士（MPh）、地信硕士（MGIS）和博士（PhD）三种学位。其中MGIS学位为授课型，2年时长，授课内容包括空间分析、WebGIS、遥感、制图学、测绘学、公共卫生和城市规划等方面。MPh和PhD为研究型学位，需要参与科研项目。
+
+相关导师：
+
+- **[Yan Liu](https://sees.uq.edu.au/profile/8930/yan-liu)**: GIS, quantitative human geography, urban, spatial data science;
+- **[Jonathan Corcoran](https://sees.uq.edu.au/profile/9224/jonathan-corcoran)**: human mobility, migrations, sustainability, big data, spatial analysis;
+- **[Lutz Gross](https://sees.uq.edu.au/profile/9065/lutz-gross)**: geostatistics, numerical modeling, computational geoscience;
+- **[Stuart Phinn](https://sees.uq.edu.au/profile/13550/stuart-phinn)**: remote sensing, environment, ecosystem data.
 
 ### 坎特伯雷大学
 **University of Canterbury (UC)**
@@ -2844,3 +2874,13 @@ GIS相关系所：[地理系](https://fac-shs.univ-st-etienne.fr/fr/departements
 
 - **[Thierry Joliveau](https://www.researchgate.net/profile/Thierry_Joliveau)**: spatial analysis, cartography, mapping, geovisualization;
 - **[Christine Jacqueminet](https://www.researchgate.net/profile/Christine_Jacqueminet)**: GIS, remote sensing, physical geography, tropical climate, hydrology, modeling.
+
+### 蔚蓝海岸大学
+
+**University of Côte d'Azur (UCA)**
+
+法国，普罗旺斯-阿尔卑斯-蔚蓝海岸大区，尼斯
+
+GIS相关系所：[环境灾害管理系](http://web.univ-cotedazur.fr//en/idex/formations-idex/risks#.X3UUQGhKhPY)
+
+蔚蓝海岸大学是法国南部的一所新成立的大学，建立于2015年，由原来的**尼斯大学**、**欧洲知识经济管理学院 (SKEMA)**、**法国国家科学研究中心 (CNRS)**等几所院校和研究所合并而成。该校有环境灾害和风险管理专业的硕士（MSc）项目，该项目为授课型项目，用英文教学（需要雅思、托福或GRE成绩），时长2年。所学课程包括地理信息科学、遥感、城市规划、空间分析、环境管理、风险评估、统计学、监测和建模、环境法等，共3个学期上课，最后一个学期是在业界进行3到6个月的实习。该项目和法国的诸多企业、机构、其他院校和研究所有合作，因此在学生毕业后能提供很多不同的工作机会。申请人需要有地理学、地球科学、环境科学等专业的本科学位。
