@@ -2695,8 +2695,11 @@ Z_GIS有两个非常有名的项目。一个是应用地理信息技术论坛(AG
 Z_GIS提供了从本科到博士学位的地理信息科学专业课程：
 
 [Bachelor in Geography with GIS focus](https://zgis.at/bsc-geography/)：地理学学士项目，德语授课。
+
 [Applied geoinformatics MSc](https://msc-agi.zgis.at/)：地理信息应用硕士项目，英语授课，2年制，需完成120CETS的学习。除此之外，Z_GIS还提供了UNGIS的远程授课项目，面向在职人士。
+
 [Copernicus Master in Digital Earth – CDE](https://zgis.at/joint-master/)：2年制，英语授课。Erasmus Mundus联合硕士学位计划，在Erasmus +计划的支持下，于2018年10月1日至2024年9月30日提供的双硕士学位项目。这个项目为学生提供丰厚的全额奖学金，包括免学费、每个月给予1000欧元生活费，每年提供往返3000欧元交通费，并提供相关保险。第一学年开始在Z_GIS学习，然后第二学年选择一个专业化方向，并前往该方向的学校就读，可选的方向包括GeoData Science以及Geovisualization & Geocommunication两个方向。GeoData Science方向需前往法国的UNIVERSITY of SOUTH BRITTANY进行第二学年学习，Geovisualization & Geocommunication需前往捷克的PALACKY UNIVERSITY OLOMOUC学习。
+
 [Geoinformatics PhD programme](http://dk-giscience.zgis.net/)：地理信息应用博士项目。
 
 相关导师：
@@ -2925,10 +2928,15 @@ GIS相关系所：[地理系](https://www.natur.cuni.cz/geografie/studium?set_la
 GIS相关系所：[地理信息系](http://www.geoinformatics.upol.cz/en/department-of-geoinformatics)
 
 帕拉茨基大学（Palacký University, Olomouc）建立于1573年，是一所捷克综合性大学，拥有医药、艺术、科学、教育、法律等八大院系，总计有23500名学生和2500名雇员。由Vít VOŽENÍLEK领头的地理信息系（Department of Geoinformatics）隶属于科学系（Faculty of Science），始建于2001年，当前共有19位教学和研究人员。
+
 当前共提供4个从本科到博士学位的地理信息与制图学项目。
-[地理信息学和地理学学士学位](http://www.geoinformatics.upol.cz/en/bachelor-programme)：3年制，捷克语授课，提供部分英语课程给国际交换生
-[地理信息学和地理学硕士学位](http://www.geoinformatics.upol.cz/en/master-programme)：2年制，捷克语授课
+
+[地理信息学和地理学学士学位](http://www.geoinformatics.upol.cz/en/bachelor-programme)：3年制，捷克语授课，提供部分英语课程给国际交换生。
+
+[地理信息学和地理学硕士学位](http://www.geoinformatics.upol.cz/en/master-programme)：2年制，捷克语授课。
+
 [Copernicus Master in Digital Earth – CDE](http://www.geoinformatics.upol.cz/en/erasmus-mundus-joint-master-degree)：2年制，英语授课，Erasmus Mundus联合硕士学位计划，在Erasmus +计划的支持下，于2018年10月1日至2024年9月30日提供的双硕士学位项目。这个项目为学生提供丰厚的全额奖学金，包括免学费、每个月给予1000欧元生活费，每年提供往返3000欧元交通费，并提供相关保险。第一学年开始在Z_GIS学习，然后第二学年选择一个专业化方向，并前往该方向的学校就读，可选的方向包括GeoData Science以及Geovisualization & Geocommunication两个方向。GeoData Science方向需前往法国的UNIVERSITY of SOUTH BRITTANY进行第二学年学习，Geovisualization & Geocommunication需前往捷克的PALACKY UNIVERSITY OLOMOUC学习。
+
 [地理学博士（地理信息学和制图学专业）](http://www.geoinformatics.upol.cz/en/doctoral-programme)：捷克语或英语项目，全日制4年制项目。
 
 相关导师：
