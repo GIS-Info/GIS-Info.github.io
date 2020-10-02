@@ -52,7 +52,7 @@ _因隐私问题，美国学校相关导师的信息暂缺，请查看院系的�
 
 大洋洲12所：[澳大利亚7所](#澳大利亚)，[新西兰5所](#新西兰)
 
-欧洲70所：[英国13所](#英国)，[德国20所](#德国)，[荷兰5所](#荷兰)，[瑞士6所](#瑞士)，[瑞典5所](#瑞典)，[挪威2所](#挪威)，[芬兰2所](#芬兰)，[丹麦2所](#丹麦)，[奥地利3所](#奥地利)，[比利时3所](#比利时)，[意大利1所](#意大利)，[爱尔兰2所](#爱尔兰)，[法国6所](#法国)
+欧洲71所：[英国13所](#英国)，[德国20所](#德国)，[荷兰5所](#荷兰)，[瑞士6所](#瑞士)，[瑞典5所](#瑞典)，[挪威2所](#挪威)，[芬兰2所](#芬兰)，[丹麦2所](#丹麦)，[奥地利3所](#奥地利)，[比利时3所](#比利时)，[意大利1所](#意大利)，[爱尔兰2所](#爱尔兰)，[法国6所](#法国)，[捷克1所](#捷克)
 
 _地图暂未包括2020年9月15日以后添加的学校_
 ![map](img/gis_schools.PNG)
@@ -275,6 +275,9 @@ _因隐私问题，美国学校相关导师的信息暂缺，请查看院系的�
 - [雷恩第二大学 (UR2)](#雷恩第二大学)
 - [圣埃蒂安大学 (USE)](#圣埃蒂安大学)
 - [蔚蓝海岸大学 (UCA)](#蔚蓝海岸大学)
+
+#### 捷克
+- [查尔斯大学 (CUNI)](#查尔斯大学)
 
 ## 学校信息
 
@@ -2884,3 +2887,21 @@ GIS相关系所：[地理系](https://fac-shs.univ-st-etienne.fr/fr/departements
 GIS相关系所：[环境灾害管理系](http://web.univ-cotedazur.fr//en/idex/formations-idex/risks#.X3UUQGhKhPY)
 
 蔚蓝海岸大学是法国南部的一所新成立的大学，建立于2015年，由原来的**尼斯大学**、**欧洲知识经济管理学院 (SKEMA)**、**法国国家科学研究中心 (CNRS)**等几所院校和研究所合并而成。该校有环境灾害和风险管理专业的硕士（MSc）项目，该项目为授课型项目，用英文教学（需要雅思、托福或GRE成绩），时长2年。所学课程包括地理信息科学、遥感、城市规划、空间分析、环境管理、风险评估、统计学、监测和建模、环境法等，共3个学期上课，最后一个学期是在业界进行3到6个月的实习。该项目和法国的诸多企业、机构、其他院校和研究所有合作，因此在学生毕业后能提供很多不同的工作机会。申请人需要有地理学、地球科学、环境科学等专业的本科学位。
+
+### 查尔斯大学
+
+**Charles University (CUNI)**
+
+捷克，布拉格
+
+GIS相关系所：[地理系](https://www.natur.cuni.cz/geografie/studium?set_language=cs)
+
+查尔斯大学是中欧地区最古老的大学，成立于14世纪，它在自然科学学院地理系开设硕士班和博士班，硕士班包括制图学和地理信息系统（Cartography and GIS）方向，博士班包括制图学、地理信息科学和遥感方向（Cartography, Geoinformatics and Remote Sensing），其中尤其以制图学最为出名。硕士班时长一般为2年，博士班时长一般为3年，英语授课。
+
+相关导师：
+
+- **[Přemysl Štych](https://scholar.google.com/citations?user=UTFfO28AAAAJ&hl=en)**: geoinformatics, land survey, remote sensing, environment, atmosphere;
+- **[Markéta Potucková](https://www.researchgate.net/profile/Marketa_Potuckova)**: image processing, digital mapping, cartography, heritage, remote sensing;
+- **[Jan Kolář](https://cuni.academia.edu/JKol%C3%A1r)**: remote sensing, geobiology;
+- **[Stanislav Grill](https://kbe.prf.jcu.cz/en/stanislav-grill)**: GIS, spatial analysis, ecology, landscape, cartography, visualization, modeling;
+- **[Tomáš Bayer](https://web.natur.cuni.cz/~bayertom/)**: digital cartography, computational geometry, mathematical cartography.
