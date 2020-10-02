@@ -52,7 +52,7 @@ _因隐私问题，美国学校相关导师的信息暂缺，请查看院系的�
 
 大洋洲12所：[澳大利亚7所](#澳大利亚)，[新西兰5所](#新西兰)
 
-欧洲71所：[英国13所](#英国)，[德国20所](#德国)，[荷兰5所](#荷兰)，[瑞士6所](#瑞士)，[瑞典5所](#瑞典)，[挪威2所](#挪威)，[芬兰2所](#芬兰)，[丹麦2所](#丹麦)，[奥地利3所](#奥地利)，[比利时3所](#比利时)，[意大利1所](#意大利)，[爱尔兰2所](#爱尔兰)，[法国6所](#法国)，[捷克1所](#捷克)
+欧洲71所：[英国13所](#英国)，[德国20所](#德国)，[荷兰5所](#荷兰)，[瑞士6所](#瑞士)，[瑞典5所](#瑞典)，[挪威2所](#挪威)，[芬兰2所](#芬兰)，[丹麦2所](#丹麦)，[奥地利3所](#奥地利)，[比利时3所](#比利时)，[意大利1所](#意大利)，[爱尔兰2所](#爱尔兰)，[法国6所](#法国)，[捷克1所](#捷克)，[匈牙利1所](#匈牙利)
 
 _地图暂未包括2020年9月15日以后添加的学校_
 ![map](img/gis_schools.PNG)
@@ -278,6 +278,9 @@ _因隐私问题，美国学校相关导师的信息暂缺，请查看院系的�
 
 #### 捷克
 - [查尔斯大学 (CUNI)](#查尔斯大学)
+
+#### 匈牙利
+- [罗兰大学 (ELTE)](#罗兰大学)
 
 ## 学校信息
 
@@ -2905,3 +2908,24 @@ GIS相关系所：[地理系](https://www.natur.cuni.cz/geografie/studium?set_la
 - **[Jan Kolář](https://cuni.academia.edu/JKol%C3%A1r)**: remote sensing, geobiology;
 - **[Stanislav Grill](https://kbe.prf.jcu.cz/en/stanislav-grill)**: GIS, spatial analysis, ecology, landscape, cartography, visualization, modeling;
 - **[Tomáš Bayer](https://web.natur.cuni.cz/~bayertom/)**: digital cartography, computational geometry, mathematical cartography.
+
+### 罗兰大学
+
+**Eötvös Loránd University (ELTE)**
+
+匈牙利，布达佩斯
+
+GIS相关系所：[制图学和地理信息系](http://lazarus.elte.hu/index.html)
+
+罗兰大学为匈牙利综合排名第一的大学，在信息学院下有制图学和地理信息系（Department of Cartography and Geoinformatics）。该系开设有MSc和PhD学位课程，其中MSc为英语授课，2年学制；PhD有英语和匈牙利语两种选择，4年学制。该系的创始人是欧洲的著名地图学家拉兹洛·伊尔梅迪·莫尔纳，直至今日，该系研究生项目培养目标以制图学方向为主，主要方向包括thematic maps, mathematics in cartography, web mapping, theoretical cartography, history of cartography等。
+
+相关导师：
+
+- **[Zentai László](http://lazarus.elte.hu/gb/dolgozo/zentail.htm)**: digital cartography, web mapping, orienteering maps, history of maps;
+- **[Elek István](http://mapw.elte.hu/elek/)**: topological maps, applied GIS, modeling, spatial database, geophysics, raster-vector algorithms;
+- **[José Jesús Reyes Nuñez](http://mercator.elte.hu/~jesus/)**: digital mapping, cartography, visualization, map education;
+- **[András Jung](http://lazarus.elte.hu/hun/dolgozo/jung/jung-cv.htm)**: remote sensing, geoinformatics, image processing;
+- **[Albert Gáspár](http://lazarus.elte.hu/gb/dolgozo/albert.htm)**: cartography, 3D GIS, geomorphology, geological modeling;
+- **[Kovács Béla](http://lazarus.elte.hu/gb/dolgozo/kovacsb.htm)**: navigation, geoinformatics, spatial data, operating system;
+- **[Kerkovits Krisztián](http://mercator.elte.hu/~kerkovits/honlap/kezd/)**: map projection, distortion algorithm, map scales, geodesy;
+- **[Gede Mátyás](http://mercator.elte.hu/~saman/)**: geodatabase, cartography, map projection, web mapping.
