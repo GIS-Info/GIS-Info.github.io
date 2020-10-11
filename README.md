@@ -126,6 +126,8 @@ _因隐私问题，美国学校相关导师的信息暂缺，请查看院系的�
 - [阿肯色大学 (UARK)](#阿肯色大学)
 - [雪城大学 (Syracuse)](#雪城大学)
 - [马里兰大学 (UMD)](#马里兰大学)
+- [普渡大学 (Purdue)](#马里兰大学)
+
 
 #### 加拿大
 - [不列颠哥伦比亚大学 (UBC)](#不列颠哥伦比亚大学)
@@ -934,11 +936,21 @@ GIS相关系所：[地理系](https://www.maxwell.syr.edu/geography-and-the-envi
 
 **University of Maryland at College Park (UMD)**
 
-美国，马里兰州，大学公园市 （距离华盛顿特区20分钟地铁）
+美国，马里兰州，大学公园市 
 
 GIS相关系所：[地理系](www.geog.umd.edu)
 
 马里兰大学比较集中做图像处理分类及其应用（土地利用分类，监测自然灾害，大气变化等），经济地理偏定量化研究，与human and natural system专题有关，详细信息可以参见网站www.geog.umd.edu. 本系没有传统的学术型硕士项目，传统由导师带教的只招收博士生。GIS相关的两年自费硕士项目是online program，以网络-课堂混合授课的形式上课，以学习技术为主，毕业后可在工业界发展。GIS相关的博士导师集中在[Center for geospatial Information Science](https://geospatial.umd.edu/)
+
+### 普渡大学 
+**Purdue University (Purdue)**
+
+美国，印第安纳州，西拉法叶市 
+
+GIS相关系所：[土木工程系](https://engineering.purdue.edu/CE/Academics/Graduate), 地球科学系[https://www.eaps.purdue.edu/].
+
+普渡大学，主校区位于美国印第安纳州的西拉法叶市（West Lafayette）。普渡大学是美国远近闻名的理工科老牌名校，其工程学院属于世界顶尖梯队之行列.
+该系GIS主要属于土木工程系和地球科学专业。对于想走学术道路的或想进入工业界的学生都是不错的选择，本科毕业申请可修2年硕士+3年博士，硕士毕业申请可修4年博士；另外，地球科学系还有一个还有个一年制的授课型项目[地球数据科学专业硕士项目](https://www.eaps.purdue.edu/gdsp/)，主要针对计划就业的学生。
 
 ### 不列颠哥伦比亚大学
 
