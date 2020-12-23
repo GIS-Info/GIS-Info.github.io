@@ -3,7 +3,7 @@
 
 本站地址：[GIS-Info.github.io](https://gis-info.github.io/)
 
-GitHub地址：[https://github.com/GIS-Info/GIS-Info.github.io](https://github.com/GIS-Info/GIS-Info.github.io)
+GitHub文档地址：[https://github.com/GIS-Info/GIS-Info.github.io](https://github.com/GIS-Info/GIS-Info.github.io)
 
 联系我们：[作者名单（网页版）](https://gis-info.github.io/pages/authors)，[作者名单（文档版）](https://github.com/GIS-Info/GIS-Info.github.io/blob/master/pages/about.md)
 
@@ -17,28 +17,27 @@ _因隐私问题，美国学校相关导师的信息暂缺，请查看院系的�
 
 如果喜欢的话，欢迎大家支持，分享，点赞，star[本项目](https://github.com/GIS-Info/GIS-Info.github.io/)！
 
-**在此特别感谢所有作者的辛苦付出！[作者名单](https://gis-info.github.io/pages/authors)**
+**在此特别感谢[所有作者](https://github.com/GIS-Info/GIS-Info.github.io/blob/master/pages/about.md)的辛苦付出！**
 
 本文长期更新，欢迎更多的有志者一同参与和维护这个项目，未来会不断添加和更新相关的资料。
 因为无法联系到所有包括GIS相关学校的华人朋友参与众包贡献，本文仅供参考，欢迎补充更新，更全面的信息也可以关注[AAG Geography Program](http://www.aag.org/guide)。若有建议和补充，欢迎在[Issues](https://github.com/GIS-Info/GIS-Info.github.io/issues)里留言。
 
 
 ## 社区
-为了方便大家交流，我们组织了两个微信群，欢迎大家按需加入讨论。
+为了方便大家交流，我们组织了两个微信群，欢迎大家按需加入讨论。一个是GIS海外留学群，主要针对有意向出国出境留学的同学；另一个是GIS海外志愿者和交流群（邀请制，需验证身份，请联系作者），为海外GIS学者学生交流提供平台。
 
-一个是GIS海外留学群，主要针对有意向出国出境留学的同学；
+GIS海外留学群的入群方式包括以下三种：
+- 扫下方的二维码关注我们的**GISphere**公众号，并在后台留言“留学群”。
+- 在知乎上关注并私信[康雨豪](https://www.zhihu.com/people/kkyyhh96) 或 [饶锦蒙](https://www.zhihu.com/people/phantask93)。同时，欢迎大家在知乎关注[地理空间数据科学](https://zhuanlan.zhihu.com/c_1157308566145658880)专栏。
+- 通过[邮件](https://gis-info.github.io/pages/authors)联系我们。
 
 ![QR Code](img/sc.JPG)
 
-另一个是GIS海外志愿者和交流群（邀请制，需验证身份，请联系作者），为海外GIS学者学生交流提供平台。
-
-官方入群方式：目前可以扫码入群。若二维码过期，可在知乎上关注并私信[康雨豪](https://www.zhihu.com/people/kkyyhh96) 或 [饶锦蒙PhanTask](https://www.zhihu.com/people/phantask93)，或通过邮件[联系我们](https://gis-info.github.io/pages/authors)。同时，欢迎大家关注[地理空间数据科学](https://zhuanlan.zhihu.com/c_1157308566145658880)专栏。
-
-本文中各个学校顺序主要按照学校中文名的顺序,如果需要了解学校的综合排名等情况，请查询[Times](https://www.timeshighereducation.com/world-university-rankings), [QS](https://www.topuniversities.com/qs-world-university-rankings), [USNews](https://www.usnews.com/education/best-global-universities/rankings), [ARWU](http://www.shanghairanking.com/)等大学排名以及各个大学的官网。
+本文档中各个学校顺序主要按照学校中文名的顺序,如果需要了解学校的综合排名等情况，请查询[Times](https://www.timeshighereducation.com/world-university-rankings), [QS](https://www.topuniversities.com/qs-world-university-rankings), [USNews](https://www.usnews.com/education/best-global-universities/rankings), [ARWU](http://www.shanghairanking.com/)等大学排名以及各个大学的官网。
 
 ## 版权
 
-本文遵循CC BY-NC 4.0许可，如需**非商业转载**或**修改**，请给出署名；**商业转载** 请务必联系作者获得授权。
+本文档遵循CC BY-NC 4.0许可，如需**非商业转载**或**修改**，请给出署名；**商业转载** 请务必联系作者获得授权。
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
@@ -936,17 +935,17 @@ GIS相关系所：[地理系](https://www.maxwell.syr.edu/geography-and-the-envi
 
 **University of Maryland at College Park (UMD)**
 
-美国，马里兰州，大学公园市 
+美国，马里兰州，大学公园市
 
 GIS相关系所：[地理系](www.geog.umd.edu)
 
 马里兰大学比较集中做图像处理分类及其应用（土地利用分类，监测自然灾害，大气变化等），经济地理偏定量化研究，与human and natural system专题有关，详细信息可以参见网站www.geog.umd.edu. 本系没有传统的学术型硕士项目，传统由导师带教的只招收博士生。GIS相关的两年自费硕士项目是online program，以网络-课堂混合授课的形式上课，以学习技术为主，毕业后可在工业界发展。GIS相关的博士导师集中在[Center for geospatial Information Science](https://geospatial.umd.edu/)
 
-### 普渡大学 
+### 普渡大学
 
 **Purdue University (Purdue)**
 
-美国，印第安纳州，西拉法叶市 
+美国，印第安纳州，西拉法叶市
 
 GIS相关系所：[土木工程系](https://engineering.purdue.edu/CE/Academics/Graduate), 地球科学系[https://www.eaps.purdue.edu/].
 
