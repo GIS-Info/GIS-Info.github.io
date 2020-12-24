@@ -9,18 +9,13 @@ GitHub文档地址：[https://github.com/GIS-Info/GIS-Info.github.io](https://gi
 
 ## 项目介绍
 
-本项目2019年9月发起成立，最新更新时间为2020年9月，目的是提供及时且全面的GIS留学选校信息。院校信息的提供人来自世界各地GIS专业名校，均为在读学生、近期毕业校友或青年教师，主要围绕学校项目和导师提供第一手的信息。所有项目均提供学校/院系/项目信息。希望这篇文章能为后来者铺路，为GIS专业的学弟学妹出国出境选校提供帮助和支持。
+本项目2019年9月发起成立，最新更新时间为2020年9月，目的是提供及时且全面的GIS留学选校信息。院校信息的提供人来自世界各地GIS专业名校，均为在读学生、近期毕业校友或青年教师，内容主要包括各院系的主打科研方向、开设学位和导师信息。希望这份指南能为GIS专业有留学意向的朋友们提供帮助和支持。
 
-_因隐私问题，美国学校相关导师的信息暂缺，请查看院系的官网链接，或加入我们组建的海外留学群共同交流。_
+由于时间和精力所限，难免有疏漏。若有更正、建议和补充，欢迎[在这里留言](https://github.com/GIS-Info/GIS-Info.github.io/issues)。如果喜欢的话，欢迎大家支持，分享，点赞，star[本项目](https://github.com/GIS-Info/GIS-Info.github.io/)！
 
-由于时间和精力所限，难免有不足，还望大家多多包容。
-
-如果喜欢的话，欢迎大家支持，分享，点赞，star[本项目](https://github.com/GIS-Info/GIS-Info.github.io/)！
+本文仅供参考，未来会长期更新，欢迎更多的有志者一同参与和维护这个项目，未来会不断添加和更新相关的资料。更全面的信息也可以关注[AAG Geography Program](http://www.aag.org/guide)。
 
 **在此特别感谢[所有作者](https://github.com/GIS-Info/GIS-Info.github.io/blob/master/pages/about.md)的辛苦付出！**
-
-本文长期更新，欢迎更多的有志者一同参与和维护这个项目，未来会不断添加和更新相关的资料。
-因为无法联系到所有包括GIS相关学校的华人朋友参与众包贡献，本文仅供参考，欢迎补充更新，更全面的信息也可以关注[AAG Geography Program](http://www.aag.org/guide)。若有建议和补充，欢迎在[Issues](https://github.com/GIS-Info/GIS-Info.github.io/issues)里留言。
 
 
 ## 社区
@@ -33,7 +28,7 @@ GIS海外留学群的入群方式包括以下三种：
 
 ![QR Code](img/sc.JPG)
 
-本文档中各个学校顺序主要按照学校中文名的顺序,如果需要了解学校的综合排名等情况，请查询[Times](https://www.timeshighereducation.com/world-university-rankings), [QS](https://www.topuniversities.com/qs-world-university-rankings), [USNews](https://www.usnews.com/education/best-global-universities/rankings), [ARWU](http://www.shanghairanking.com/)等大学排名以及各个大学的官网。
+本文档中各个学校顺序不分先后,如果需要了解学校的综合排名等情况，请查询[Times](https://www.timeshighereducation.com/world-university-rankings), [QS](https://www.topuniversities.com/qs-world-university-rankings), [USNews](https://www.usnews.com/education/best-global-universities/rankings), [ARWU](http://www.shanghairanking.com/)等大学排名以及各个大学的官网。
 
 ## 版权
 
@@ -43,11 +38,11 @@ GIS海外留学群的入群方式包括以下三种：
 
 
 ## 目录
-因篇幅所限，并且GIS由于其交叉性学科的特点，难以涵盖所有境外学校的GIS项目。考虑到国内大部分GIS学生对口的更多是一些地理系的GIS项目，本文包含以下学校（主要按照学校中文名排序）：
+因篇幅所限，并且GIS由于其交叉性学科的特点，我们难以涵盖所有境外学校的GIS项目。本指南包含以下学校：
 
 北美洲81所：[美国66所](#美国)，[加拿大15所](#加拿大)
 
-亚洲14所：[中国香港6所](#中国香港特区)，[新加坡1所](#新加坡)，[韩国7所](#韩国)
+亚洲16所：[中国香港6所](#中国香港特区)，[新加坡1所](#新加坡)，[韩国7所](#韩国)，[日本2所](#日本)
 
 大洋洲12所：[澳大利亚7所](#澳大利亚)，[新西兰5所](#新西兰)
 
@@ -58,7 +53,7 @@ _地图暂未包括2020年9月15日以后添加的学校_
 
 #### 美国
 
-_因隐私问题，美国学校相关导师的信息暂缺，请查看院系的官网链接，或加入我们组建的海外留学群共同交流。_
+_因隐私问题，美国学校的导师信息暂缺，请查看院系的官网链接，或加入我们组建的海外留学群共同交流。_
 
 - [丹佛大学 (DU)](#丹佛大学)
 - [乔治梅森大学 (GMU)](#乔治梅森大学)
@@ -164,6 +159,10 @@ _因隐私问题，美国学校相关导师的信息暂缺，请查看院系的�
 - [首尔大学 (SNU)](#首尔大学)
 - [首尔市立大学 (UOS)](#首尔市立大学)
 - [延世大学 (Yonsei)](#延世大学)
+
+#### 日本
+- [京都大学 (KyotoU)](#京都大学)
+- [筑波大学 (Tsukuba)](#筑波大学)
 
 #### 澳大利亚
 - [塔斯马尼亚大学 (UTas)](#塔斯马尼亚大学)
@@ -1495,6 +1494,37 @@ GIS相关系所：[空间计算及可持续发展设施实验室](http://scsi.yo
 相关导师：
 - **[Joon Heo](http://scsi.yonsei.ac.kr/professor.html)**: mapping, spatial data science, spatial information.
 
+### 京都大学
+
+**Kyoto University (KyotoU)**
+
+日本，京都府，左京区
+
+GIS相关系所：[社会基盘工学系](https://www.ce.t.kyoto-u.ac.jp/ja/information/laboratory/geoinfo?set_language=ja)
+
+京都大学是日本一流的研究型大学，其社会基盘工学系的[空间情报学实验室](http://www.gi.ce.t.kyoto-u.ac.jp/index.html)开设地理信息学及城市规划学的理学硕士（MSc）及博士（PhD）项目，主要的科研方向包括遥感、灾害信息分析、3D建筑模型、城市规划、土地资源管理等。该系的科研工作需要使用日语交流。硕士和博士生需要通过[入学考试](https://www.t.kyoto-u.ac.jp/en/admissions/graduate/exam1/e01masterinternational2020)。
+
+相关导师：
+
+- **[Yusuke Kimura (木村优介)](http://www.gi.ce.t.kyoto-u.ac.jp/user/kimura/yusukekimura.html)**: public space, historical urban analysis, geoinformatics;
+- **[Nobuhiro Uno (宇野伸宏)](https://www.researchgate.net/profile/Nobuhiro_Uno)**: dynamic information, urban expressway, transportation systems, image processing
+
+### 筑波大学
+
+**University of Tsukuba (Tsukuba)**
+
+日本，茨城县，筑波市
+
+GIS相关系所：[地球科学院](https://www.earth.tsukuba.ac.jp/)
+
+筑波大学地球科学院开设硕士和博士课程，其中包括[空间情报科学](http://giswin.geo.tsukuba.ac.jp/sis/jp/)（spatial information science）专业。该专业的学生综合利用GIS、遥感、计量地理、空间统计、区域地理等知识来研究不同主题的课题。该系有日语项目和英语项目，其中英语成绩需要提供托福或雅思成绩，并进行入学考试（笔试）及口试（面试）。笔试主要考察专业知识，口试的问题包括学习计划以及学术背景。
+
+相关导师：
+
+- **[Michiaki Sugita (杉田伦明)](http://www.geoenv.tsukuba.ac.jp/~sugita/)**: GIS, remote sensing, land-atmosphere interaction, climate, hydrology;
+- **[Yuji Murayama (村山祐司)](http://giswin.geo.tsukuba.ac.jp/teacher/murayama/index-e.htm)**: GIS, urban studies, transportation, spatial analysis;
+- **[Hiroyuki Kusaka (日下博幸)](http://www.geoenv.tsukuba.ac.jp/~kusakaken/index.php?id=1)**: numerical simulation, urban climate, global warming, computational geography;
+- **[Takehiro Morimoto (森本健弘)](http://giswin.geo.tsukuba.ac.jp/sis/jp/)**: GIS, agriculture, human geography
 
 ### 塔斯马尼亚大学
 **University of Tasmania (UTas)**
