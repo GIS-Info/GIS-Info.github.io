@@ -5,7 +5,7 @@
 
 GitHub文档地址：[https://github.com/GIS-Info/GIS-Info.github.io](https://github.com/GIS-Info/GIS-Info.github.io)
 
-联系我们：[作者名单（网页版）](https://gis-info.github.io/pages/authors)，[作者名单（文档版）](https://github.com/GIS-Info/GIS-Info.github.io/blob/master/pages/about.md)
+联系我们：[作者名单（网页版）](https://gis-info.github.io/pages/about)，[作者名单（文档版）](https://github.com/GIS-Info/GIS-Info.github.io/blob/master/pages/about.md)
 
 ## 项目介绍
 
@@ -42,7 +42,7 @@ GIS海外留学群的入群方式包括以下三种：
 
 北美洲81所：[美国66所](#美国)，[加拿大15所](#加拿大)
 
-亚洲16所：[中国香港6所](#中国香港特区)，[新加坡1所](#新加坡)，[韩国7所](#韩国)，[日本2所](#日本)
+亚洲18所：[中国香港6所](#中国香港特区)，[新加坡1所](#新加坡)，[韩国7所](#韩国)，[日本4所](#日本)
 
 大洋洲12所：[澳大利亚7所](#澳大利亚)，[新西兰5所](#新西兰)
 
@@ -163,6 +163,8 @@ _因隐私问题，美国学校的导师信息暂缺，请查看院系的官网�
 #### 日本
 - [京都大学 (KyotoU)](#京都大学)
 - [筑波大学 (Tsukuba)](#筑波大学)
+- [东京都立大学 (TMU)](#东京都立大学)
+- [千叶大学 (Chiba)](#千叶大学)
 
 #### 澳大利亚
 - [塔斯马尼亚大学 (UTas)](#塔斯马尼亚大学)
@@ -1525,6 +1527,43 @@ GIS相关系所：[地球科学院](https://www.earth.tsukuba.ac.jp/)
 - **[Yuji Murayama (村山祐司)](http://giswin.geo.tsukuba.ac.jp/teacher/murayama/index-e.htm)**: GIS, urban studies, transportation, spatial analysis;
 - **[Hiroyuki Kusaka (日下博幸)](http://www.geoenv.tsukuba.ac.jp/~kusakaken/index.php?id=1)**: numerical simulation, urban climate, global warming, computational geography;
 - **[Takehiro Morimoto (森本健弘)](http://giswin.geo.tsukuba.ac.jp/sis/jp/)**: GIS, agriculture, human geography
+
+### 东京都立大学
+
+**Tokyo Metropolitan University (TMU)**
+
+日本，东京都，八王子市
+
+GIS相关系所：[地理系](https://www.ues.tmu.ac.jp/geog/index.html)
+
+东京都立大学（简称都立大）是一所年轻的研究型大学，位于日本东京。该校地理系有硕士和博士学位，学术组包括气候学、第四纪地貌学、环境地理、城市和人文地理、地理信息科学等。其中，地理信息科学的研究方向包括GIS/RS在城市规划、气候研究、水文地理、数值模拟、灾害评估等学科的应用。
+
+相关导师：
+
+- **[Hiroshi Matsuyama (松山洋)](https://researchmap.jp/read0043808?lang=en)**: GIS, hydrology, meteorology;
+- **[Yoshiki Wakabayashi (若林芳树)](https://researchmap.jp//read0043810/?lang=en)**: GIS, urban studies, spatial analysis;
+- **[Naoto Yabe (矢部直人)](https://kaken.nii.ac.jp/ja/search/?qm=10534068)**: quantitative geography, urban geography;
+- **[Daichi Nakayama (中山大地)](https://www.comp.tmu.ac.jp/lagis/)**: GIS, natural hazards, physical geography
+
+### 千叶大学
+
+**Chiba University (Chiba)**
+
+日本，千叶县，千叶市
+
+GIS相关系所：[环境遥感中心](http://www.cr.chiba-u.jp/japanese/index.html)
+
+千叶大学环境遥感中心（CEReS）开设硕士和博士学位。该中心的科研分为三大模块，分别为：1) 遥感技术和算法，2) 地理信息科学综合应用，以及 3) 卫星图像的高级应用。
+
+相关导师：
+- **[Josaphat Tetuko Sri Sumantyo](http://www.jmrsl.jp/?page_id=1803)**: remote sensing, drone technology, algorithms of remote sensing;
+- **[Hitoshi Irie (入江仁士)](http://www.earth.s.chiba-u.ac.jp/english/education/education02/staff24.html)**: earth system science, climate change;
+- **[Atsushi Higuchi (樋口笃志)](http://higu.cr.chiba-u.jp/)**: geoinformatics, land-atmosphere interaction, climate science;
+- **[Yoshiaki Honda (本多嘉明)](https://www.researchgate.net/scientific-contributions/Yoshiaki-Honda-18389084)**: remote sensing, ecology;
+- **[Akihiko Kondoh (近藤昭彦)](https://www.n.chiba-u.jp/dngl/english/faculty/kondoh.html)**: GIS, remote sensing, natural hazard, hydrology, physical geography, modeling;
+- **[Ryutaro Tateishi (建石隆太郎)](http://www.cr.chiba-u.jp/̃tateishi-lab/home.htm)**: satellite image processing, land change, land cover;
+- **[Hiroaki Kuze (久世宏明)](https://scholar.google.com/citations?user=OPwPDvkAAAAJ&hl=ja)**: atmospheric remote sensing, climate change, novel optical sensors, public health;
+
 
 ### 塔斯马尼亚大学
 **University of Tasmania (UTas)**
