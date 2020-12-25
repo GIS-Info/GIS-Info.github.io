@@ -67,7 +67,7 @@ GitHub地址：[https://github.com/GIS-Info/GIS-Info.github.io](https://github.c
 章静|赵家彦|赵群山|赵雨潇|
 周泓|周建雄|周璐|周瑞|
 朱飞宇|邹倩倩|曾可欣|马宇驰|
-陈茜|李良|||
+陈茜|李良|杜瑶|王海明|
 
 
 [返回指南](https://gis-info.github.io/)
