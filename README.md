@@ -1375,13 +1375,15 @@ GIS相关系所：[Division of Environment and Sustainability](https://www.envr.
 
 GIS相关系所：[地理系](https://www.fas.nus.edu.sg/geog/)
 
-新加坡大学的地理系有应用地理信息科学的硕士（Msc）和地理学博士学位，该方向的主要教学及科研内容包括GIS数据处理、空间编程、环境建模、网络GIS和大数据分析等。该系的特色是涉及面广泛，自由度高，可选择Project Track与Thesis Track，与环境科学结合较为紧密。
+新加坡大学的地理系有应用地理信息科学的硕士（Msc in Applied GIS）和地理学博士学位，该方向的主要教学及科研内容包括GIS数据处理、空间编程、环境建模、网络GIS和大数据分析等。该系的特色是涉及面广泛，自由度高，[硕士项目](https://fass.nus.edu.sg/geog/msc-in-applied-gis/)可选择Project Track与Thesis Track，与环境科学结合较为紧密。
 
 相关导师：  
 
 - **[FENG, Chen-Chieh](https://eminence365.wordpress.com/)**: spatial data modeling and spatial information theory; Cyberinfrastructure; GIS and education;   
 - **[YAN, Yingwei](https://profile.nus.edu.sg/fass/geoyy/)**: spatial big data analytics, citizen GIScience, volunteered geographic information;
-- **[WANG Yi-Chen](http://courses.nus.edu.sg/course/geowyc/)**: GIS and remote sensing applications, spatial epidemiology.
+- **[WANG, Yi-Chen](http://courses.nus.edu.sg/course/geowyc/)**: GIS and remote sensing applications, spatial epidemiology;
+- **[LUO, Wei](https://profile.nus.edu.sg/fass/geowl/)**: geovisual analytics, social network analysis, agent-based epidemic modeling, infectious disease surveillance and control;
+- **[LUO, Xiangzhong (Remi)](https://profile.nus.edu.sg/fass/geolx/)**: terrestrial carbon cycle, eddy covariance, dynaic vegetation models, leaf traits.
 
 ### 成均馆大学
 
