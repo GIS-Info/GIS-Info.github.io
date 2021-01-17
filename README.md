@@ -1383,7 +1383,8 @@ GIS相关系所：[地理系](https://www.fas.nus.edu.sg/geog/)
 - **[YAN, Yingwei](https://profile.nus.edu.sg/fass/geoyy/)**: spatial big data analytics, citizen GIScience, volunteered geographic information;
 - **[WANG, Yi-Chen](http://courses.nus.edu.sg/course/geowyc/)**: GIS and remote sensing applications, spatial epidemiology;
 - **[LUO, Wei](https://profile.nus.edu.sg/fass/geowl/)**: geovisual analytics, social network analysis, agent-based epidemic modeling, infectious disease surveillance and control;
-- **[LUO, Xiangzhong (Remi)](https://profile.nus.edu.sg/fass/geolx/)**: terrestrial carbon cycle, eddy covariance, dynaic vegetation models, leaf traits.
+- **[LUO, Xiangzhong (Remi)](https://profile.nus.edu.sg/fass/geolx/)**: terrestrial carbon cycle, eddy covariance, dynaic vegetation models, leaf traits;
+- **[Filip Biljecki](https://profile.nus.edu.sg/sde/akifb/stf_akifb.htm)**: urban analytics, 3D city modeling, machine learning, spatial data quality, spatial data uncertainty.
 
 ### 成均馆大学
 
