@@ -40,7 +40,7 @@ GIS海外留学群的入群方式包括以下三种：
 ## 目录
 因篇幅所限，并且GIS由于其交叉性学科的特点，我们难以涵盖所有境外学校的GIS项目。本指南包含以下学校：
 
-北美洲81所：[美国66所](#美国)，[加拿大15所](#加拿大)
+北美洲82所：[美国67所](#美国)，[加拿大15所](#加拿大)
 
 亚洲18所：[中国香港6所](#中国香港特区)，[新加坡1所](#新加坡)，[韩国7所](#韩国)，[日本4所](#日本)
 
@@ -74,6 +74,7 @@ _因隐私问题，美国学校的导师信息暂缺，请查看院系的官网�
 - [克拉克大学 (Clark)](#克拉克大学)
 - [内华达大学 (Nevada)](#内华达大学)
 - [内布拉斯加大学林肯分校 (UNL)](#内布拉斯加大学林肯分校)
+- [加州大学伯克利分校 (Berkeley)](#加州大学伯克利分校)
 - [加州大学圣巴巴拉分校 (UCSB)](#加州大学圣巴巴拉分校)
 - [北卡罗来纳大学 (UNC)](#北卡罗来纳大学教堂山分校)
 - [北卡罗来纳州立大学 (NC State)](#北卡罗来纳州立大学)
@@ -472,6 +473,21 @@ GIS相关系所：[全球综合科研学院](https://sgis.unl.edu/)
 - 36学分的本专业课程，其中至少18个学分是研究生级别的课程，不需要毕业论文或辅修，但要发表一篇学术论文。
 
 博士为4-5年项目，该系是密西西比河以西的美国授予博士学位历史最长的院系。
+
+### 加州大学伯克利分校
+
+**University of California Berkeley (Berkeley)**
+
+美国，加利福尼亚州，伯克利市
+
+加州大学伯克利分校是美国最负盛名且是最顶尖的一所公立研究型大学。其中[地理学院](https://geography.berkeley.edu/home)、[环境科学政策与管理学院](https://ourenvironment.berkeley.edu/)、[环境设计学院](https://ced.berkeley.edu/)以及[能源与资源组](https://erg.berkeley.edu/)均有和GIS紧密相关的硕士和博士项目。
+
+- [ESPM PhD program](https://ourenvironment.berkeley.edu/graduate-programs/degrees/the-phd-program)
+- [PhD in Geography](https://geography.berkeley.edu/geography-studies/graduate-studies/program-description)
+- [PhD in City and Regional Planning](https://ced.berkeley.edu/academics/city-regional-planning/programs/master-of-city-planning/)
+- [PhD in Environmental Planning](https://ced.berkeley.edu/academics/landscape-architecture-environmental-planning/programs/phd-in-landscape-architecture-and-environmental-planning/)
+- [Master of City Planning](https://ced.berkeley.edu/academics/city-regional-planning/programs/master-of-city-planning/)
+- [Master of Landscape Architecture & Environmental Planning](https://ced.berkeley.edu/academics/landscape-architecture-environmental-planning/programs/master-of-landscape-architecture/environmental-planning/)
 
 ### 加州大学圣巴巴拉分校
 
