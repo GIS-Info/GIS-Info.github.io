@@ -29,7 +29,6 @@ h1.title {
   margin: 30px 20px 10px;
   font-size: 40px;
   font-weight: bold;
-  font-style: italic;
   font-family:Georgia, serif;
   text-align: center;
 }
@@ -147,7 +146,7 @@ p.tagline {
   left: 50%;
   width: 893px;
   height: 40px;
-  margin-left: -252px;
+  margin-left: 1px;
   background: #222;
   border: 5px solid #444;
   color: #fff;
@@ -257,10 +256,10 @@ a.button:hover {
   width: auto;
   float: center;
   background: #999; /* for non-css3 browsers */
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#c5abeb', endColorstr='#face7f'); /* IE <= 9 */
-  background: -webkit-gradient(linear, left top, left bottom, from(#c5abeb), to(#face7f)); /* ancient webkit browsers */
-  background: -webkit-linear-gradient(top,  #c5abeb,  #face7f);  /* Safari <=6.1, Android <= 4.3 */
-  background: linear-gradient(to bottom,  #c5abeb,  #face7f);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#c5abeb', endColorstr='#541bc4'); /* IE <= 9 */
+  background: -webkit-gradient(linear, left top, left bottom, from(#c5abeb), to(#541bc4)); /* ancient webkit browsers */
+  background: -webkit-linear-gradient(top,  #c5abeb, #541bc4);  /* Safari <=6.1, Android <= 4.3 */
+  background: linear-gradient(to bottom,  #c5abeb,  #541bc4);
   height: auto;
   margin-left: 6px;
 }
@@ -270,7 +269,7 @@ a.button span {
   width: auto;
   height: auto;
   padding: 5px 10px;
-  padding-left: 45px;
+  padding-left: 1px;
   display: inline-block;
   text-indent: 0!important;
   color: #fff;
