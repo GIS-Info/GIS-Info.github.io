@@ -18,7 +18,7 @@ GitHub地址：[https://github.com/GIS-Info/GIS-Info.github.io](https://github.c
 
 [戴劭勍](http://gisersqdai.top/mycv/)  [s.dai@utwente.nl](mailto:s.dai@utwente.nl)
 
-[岳远紊](https://github.com/ywyue) [yueyue@ethz.ch](mailto:yueyue@ethz.ch)
+[岳远紊](https://github.com/ywyue) [yuayue@ethz.ch](mailto:yuayue@ethz.ch)
 
 [叶翔](www.linkedin.com/in/spatialyexiang)  [xiangye@buffalo.edu](mailto:xiangye@buffalo.edu)
 
