@@ -691,7 +691,7 @@ GIS相关系所：[资环学院](https://cnre.vt.edu/)
 
 **Texas A&M University (TAMU)**
 
-美国，德克萨斯州，大学城市 (College station)
+美国，德克萨斯州，大学城 (College station)
 
 GIS相关系所：[地理系](https://geography.tamu.edu/); [景观建筑与城市规划系](http://laup.arch.tamu.edu)
 
