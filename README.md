@@ -1,4 +1,4 @@
-# GIS留学院校指南
+# GIS-Info院校指南
 **(更新时间 2020 年 9 月)**
 
 本站地址：[GIS-Info.github.io](https://gis-info.github.io/)
