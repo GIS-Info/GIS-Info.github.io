@@ -1,7 +1,8 @@
-# GIS-Info院校指南
-**(更新时间 2020 年 9 月)**
+# GIS-Info 院校指南(英文版)
+**(更新时间 2021 年 11 月)**
 
-本站地址：[GIS-Info.github.io](https://gis-info.github.io/)
+本站地址：[gisphere.github.io](https://gisphere.github.io/)
+中文版地址：[www.gisphere.net](https://www.gisphere.net/)
 
 GitHub文档地址：[https://github.com/GIS-Info/GIS-Info.github.io](https://github.com/GIS-Info/GIS-Info.github.io)
 
