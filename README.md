@@ -20,7 +20,7 @@ Chinese Version: [www.gisphere.net](https://www.gisphere.net/)
 
 ## Asia
 
-[Hong Kong](https://gisphere.github.io/pages/asia/HongKong.html)
+[Hong Kong SAR, China](https://gisphere.github.io/pages/asia/HongKong.html)
 
 [Japan](https://gisphere.github.io/pages/asia/Japan.html)
 
