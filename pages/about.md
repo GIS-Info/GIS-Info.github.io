@@ -1,28 +1,5 @@
 
-本站地址：[GIS-Info.github.io](https://gis-info.github.io/)
 
-GitHub地址：[https://github.com/GIS-Info/GIS-Info.github.io](https://github.com/GIS-Info/GIS-Info.github.io)
-
-如果有问题、勘误、意见或建议，欢迎在[Issues](https://github.com/GIS-Info/GIS-Info.github.io/issues)里留言，也可以通过邮件联系我们。
-
-### 联系我们
-[康雨豪](https://www.kkyyhh96.site)  [kkyyhh96@outlook.com](mailto:kkyyhh96@outlook.com)
-
-[叶山](https://www.ye-shan.com/) [yeshanumich@hotmail.com](mailto:yeshanumich@hotmail.com)
-
-[饶锦蒙](http://www.jinmengrao.com) [jinmengrao@gmail.com](mailto:jinmengrao@gmail.com)
-
-[李肖](https://sites.google.com/tamu.edu/xiaoli/home) [x-li@tti.tamu.edu](mailto:x-li@tti.tamu.edu)
-
-[刘昊坤](https://github.com/EugeneGIS)  [haokun.liu@students.unibe.ch](mailto:haokun.liu@students.unibe.ch)
-
-[戴劭勍](http://gisersqdai.top/mycv/)  [s.dai@utwente.nl](mailto:s.dai@utwente.nl)
-
-[岳远紊](https://github.com/ywyue) [yuayue@ethz.ch](mailto:yuayue@ethz.ch)
-
-[叶翔](www.linkedin.com/in/spatialyexiang)  [xiangye@buffalo.edu](mailto:xiangye@buffalo.edu)
-
-[赵群山](https://www.gla.ac.uk/schools/socialpolitical/staff/qunshanzhao/)  [Qunshan.Zhao@glasgow.ac.uk](mailto:Qunshan.Zhao@glasgow.ac.uk)
 
 
 ### 作者名单

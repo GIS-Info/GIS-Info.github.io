@@ -244,11 +244,14 @@ The GIS in Department of Geography at Minnesota covers a wide range of subjects,
 
 Professors:
 
-- **[Kathryn Grace](https://pop.umn.edu/people/kathryn-grace)**: spatial analysis and statistics, health demography, food insecurity;
-- **[Steven Manson](https://manson.umn.edu/)**: spatial modeling, human-environment systems, CyberGIS;
-- **[Eric Shook](https://cla.umn.edu/about/directory/profile/eshook)**: spatio-temporal computing, machine learning, CyberGIS;
-- **[Ying Song](https://cla.umn.edu/about/directory/profile/yingsong)**: time geography, spatio-temporal modeling, transportation;
-- **[Di Zhu](http://dizhu-gis.com/)**: geospatial modeling, GeoAI, social sensing.
+-   **[Kathryn Grace](https://pop.umn.edu/people/kathryn-grace)**: spatial analysis and statistics, health demography, food insecurity;
+-   **[Steven Manson](https://manson.umn.edu/)**: spatial modeling, human-environment systems, CyberGIS;
+-   **[Eric Shook](https://cla.umn.edu/about/directory/profile/eshook)**: spatio-temporal computing, machine learning, CyberGIS;
+-   **[Ying Song](https://cla.umn.edu/about/directory/profile/yingsong)**: time geography, spatio-temporal modeling, transportation;
+-   **[Di Zhu](http://dizhu-gis.com/)**: geospatial modeling, GIS;
+-   **[Zhenong Jin](https://bbe.umn.edu/people/zhenong-jin)**: forecasting crop yields, image processing;
+-   **[Hui Kong](https://www.hhh.umn.edu/directory/hui-kong)**: urban planning, transportation, spatial analysis;
+-   **[Yao-Yi Chiang](https://cse.umn.edu/cs/yao-yi-chiang)** (Dept. Computer Science): digital map processing, computer vision, machine learning, data mining, data integration, predictive analytics.
 
 ### The University of Iowa
 

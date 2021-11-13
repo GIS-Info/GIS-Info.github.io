@@ -264,7 +264,7 @@ Fayetteville, Arkansas, USA
 
 Unit: [Department of Geosciences](https://fulbright.uark.edu/departments/geosciences/)
 
-The University of Arkansas is the flagship campus of Arkansas. GIS scholar Danial Sui is a Vice Chancellor for Research and Innovation of this university. This university is famous for the research in physical geography. Its geoscience department operates degree programs in geography and geology. Degrees granted are master's and PhD.  GIS-related courses offered there include digital earth, cartography, spatial analysis, gGeographic data mining, and natural disasters.
+The University of Arkansas is the flagship campus of Arkansas. This university is famous for the research in physical geography. Its geoscience department operates degree programs in geography and geology. Degrees granted are master's and PhD.  GIS-related courses offered there include digital earth, cartography, spatial analysis, gGeographic data mining, and natural disasters.
 
 Professors:
 - **[Xiao Huang](https://www.xiaohuang116.com/)**: GeoAI, geovisualization, deep learning, natural hazards, human-environment interaction, remote sensing;

@@ -1,31 +1,27 @@
-# 挪威
+# Norway
 
-### 奥斯陆大学
+### University of Oslo
 
-**Universitetet i Oslo (University of Oslo, UiO)**
+Oslo, Norway
 
-挪威，奥斯陆市
+Units: [Geosciences](https://www.mn.uio.no/geo/english/)、 [Sociology and Human Geography](https://www.sv.uio.no/iss/english/)
 
-GIS相关系所：[地球科学系](https://www.mn.uio.no/geo/english/)、 [社会学与人文地理系](https://www.sv.uio.no/iss/english/)
+The University of Oslo has Geosciences and Sociology and Human Geography departments. Research of GIS / RS is mostly hosted in the Department of Geosciences, with a focus on glaciology. The University offers a 2-year Master's program in GIS and a 3- to 6-year PhD for those who already have a master's degree.
 
-奥斯陆大学下设地球科学系和社会学与人文地理系，GIS / RS多集中在地球科学系中，主要侧重于冰川研究。该校GIS在地球科学系开设硕士项目，本科毕业申请可修2年硕士，硕士毕业申请可修3-6年的博士。
-
-相关导师：
+Professors:
 
 - **[Andreas MaxKääb](https://www.mn.uio.no/geo/english/people/aca/geohyd/kaeaeb/)**: Earth Observation technologies, Geoinformatics, GIS and RS’s application to cold regions, and to natural hazards in such regions;
 - **[François Renard](https://www.mn.uio.no/geo/english/people/aca/geopgp/francoir/)**: Geology, Geophysics, Geochemistry, Remote sensing, Geohazards, Hydrogeology, Geomechanics, Environmental geology.
 
-### 挪威科技大学
+### Norwegian University of Science and Technology
 
-**Norges teknisk-naturvitenskaplige universitet (Norwegian University of science and technology, NTNU)**
+Trondheim, Norway
 
-挪威，特隆姆瑟市
+Units: [Geography](https://www.ntnu.edu/geography)、 [Road Transport and Geomatics](https://www.ntnu.edu/ibm/road-transort-and-geomatics)
 
-GIS相关系所：[地理系](https://www.ntnu.edu/geography)、 [道路交通和地信系](https://www.ntnu.edu/ibm/road-transort-and-geomatics)
+The GIS/RS program at NTNU is located in the geography department and the civil engineering department. The GIS/RS program in thegeography department focuses on glaciers and climate, while the GIS/RS program in the civil engineering focuses on transportation, architecture, and urban planning. The University offers a 2-year Master's program in GIS and a 3- to 6-year PhD for those who already have a master's degree.
 
-挪威科技大学的GIS / RS分别在地理系和土木与环境工程系中，地理系的GIS / RS相对侧重冰川、气候等，土木与环境工程系的GIS / RS相对侧重交通运输、建筑、城市规划等。该校的GIS项目主要在地理系下，本科毕业申请可修2年硕士，硕士毕业申请可修3-6年博士。
-
-相关导师：
+Professors:
 
 - **[Tomasz Opach](https://www.ntnu.edu/employees/tomasz.opach)**: Geographic visualization, cartographic animation, thematic mapping, Cartographic representation of cultural landscapes;
 - **[Jan Ketil Rød](https://www.ntnu.no/ansatte/jan.rod)**: geographic information systems and science, effects of climate change, environmental hazards, Accessibility of health services, Disaggregated studies of armed conflicts, urban planning;
@@ -34,35 +30,33 @@ GIS相关系所：[地理系](https://www.ntnu.edu/geography)、 [道路交通�
 - **[Erling Onstein](https://www.ntnu.edu/employees/erling.onstein)**: GIS and geomatics in general, modeling, standardisation and specification of geographical information, validation and quality assessment of information, building information modeling (BIM);
 - **[Hongchao Fan](https://www.ntnu.edu/employees/hongchao.fan)**: 3D city modeling, Laser Scanning, photogrammetry, spatial data mining and knowledge discovering by using crowdsourcing data.
 
-### 卑尔根大学
+### University of Bergen
 
-**Universitetet i Bergen (University of Bergen, UiB)**
+Bergen, Norway
 
-挪威，卑尔根市
+Units: [Geography](https://www.uib.no/en/geografi)
 
-GIS相关系所：[地理系](https://www.uib.no/en/geografi)
+GIS / RS at the University of Bergen is mainly hosted in the Department of Geography. The GIS / RS research at Bergen has a general focus on policy, environment and landscape management. The University offers a 2-year Master's program in GIS and a 3- to 6-year PhD for those who already have a master's degree.
 
-卑尔根大学的GIS / RS主要分布在地理系。地理系的GIS / RS研究相对侧重政策、环境和景观管理等。该校的GIS项目主要分布在地理系的硕士课程中，本科毕业申请可修2年硕士，硕士毕业申请可修3-6年博士。
-
-相关导师：
+Professors:
 
 - **[Gidske Leknæs Andersen](https://www.uib.no/en/persons/Gidske.Lekn%C3%A6s.Andersen)**: GIS, Remote sensing, Arid lands, Cultural landscape, Ecology;
 - **[Erling Moxnes](https://www.uib.no/en/persons/Erling.Moxnes)**: System dynamics, Modeling, Natural resources, Economics;
 - **[Birgit Kopainsky](https://www.uib.no/en/persons/Birgit.Kopainsky)**: System dynamics modeling, Food security, Sustainable Development, Adaptation to climate change.
 
-# 丹麦
+# Denmark
 
-### 哥本哈根大学
+### University of Copenhagen
 
 **Københavns Universitet (University of Copenhagen, KU)**
 
-丹麦，哥本哈根郡，哥本哈根市
+Denmark, Copenhagen, Copenhagen
 
-GIS相关系所：[地理研究科](https://ign.ku.dk/english/research/geography/)、[景观建筑规划研究科](https://ign.ku.dk/english/research/landscape-architecture-planning/)
+Unit：[Section for Geography](https://ign.ku.dk/english/research/geography/)、[Section for Landscape Architecture and Planning](https://ign.ku.dk/english/research/landscape-architecture-planning/)
 
-哥本哈根大学下设地球科学与自然资源管理系，GIS / RS集中在地理和景观建筑规划两个研究科，综合实力较强，对气候、水文、城市等领域均有所研究。该校GIS的项目设在地球科学与自然资源管理系下，本科毕业申请可修2年硕士，硕士毕业申请可修4年博士。
+The University of Copenhagen has the Department of Geosciences and Natural Resources Management. The studies about GIS/RS mostly happen in the two sections. One is Section of Geography, the other one is Section of Landscape Architecture and Planning. The department has strong comprehensive strength in different fields like climate, hydrology, cities, and etc. The study program about GIS/RS is located under the Department of Earth Science and Natural Resources Management. The entrance degree for the master's program is bachelor's degree and the duration is 2 years. After graduating from the master's program, the student can continue pursuing the Ph.D. degree.
 
-相关导师：
+Professors：
 
 - **[Lasse Møller-Jensen](https://ign.ku.dk/english/employees/geography/?pure=en/persons/116185)**: Urban applications of GIS and Remote Sensing, Spatial analysis, Urban Planning, Transport Network and Infrastructure Analysis, Web-based and Mobile GIS;
 - **[Aart Kroon](https://ign.ku.dk/english/employees/geography/?pure=en%2Fpersons%2Faart-kroon(8e948109-9a94-4a3f-9a4e-7ce7c9eb7664)%2Fcv.html)**: Geoinformatics, Coastal, Fluvial and Aeolian geomorphology, Morphodynamic processes on sandy beaches and deltas;
@@ -78,36 +72,34 @@ GIS相关系所：[地理研究科](https://ign.ku.dk/english/research/geography
 - **[Lene Fischer](https://ign.ku.dk/english/research/landscape-architecture-planning/giscience-geodesign/?pure=en/persons/340552)**: Open Source GIS, Point Cloud, UAV pilot, LIDAR;
 - **[Christian Fertner](https://ign.ku.dk/english/employees/landscape-architecture-planning/?pure=en/persons/317763)**: Spatial Planning and Analysis, Sustainable Urban Development, Land use Change, Urban Sprawl.
 
-### 奥尔堡大学
+### Aalborg University
 
 **Aalborg Universitet (Aalborg University, AAU)**
 
-丹麦，北日德兰大区，奥尔堡市
+Denmark, North Jutland, Aalborg
 
-GIS相关系所：[土地管理与地理信息小组](https://vbn.aau.dk/en/organisations/arealforvaltning-og-geoinformatik)
+Unit：[Land Management and Geoinformatics research group](https://vbn.aau.dk/en/organisations/arealforvaltning-og-geoinformatik)
 
-奥尔堡大学有关GIS / RS的研究集中在规划系下的土地管理与地理信息小组，研究规模较小。该校的GIS项目设在地理系下，但由该小组授课，本科毕业申请可修2年硕士，硕士毕业申请可修3-5年博士。
+Aalborg University's research about GIS/RS happens in the Land Management and Geographic Information research group under the Department of Planning, and the research scale is small. The University’s GIS/RS program is set up under the Department of Geography, but some specific courses in the program are taught by this group. The entrance degree for the master's program is bachelor's degree and the duration is 2 years. After graduation from the master's program, the student can continue pursuing the PhD degree.
 
-相关导师：
+Professors：
 
 - **[Jamal Jokar Arsanjani](https://vbn.aau.dk/en/persons/137426)**: Spatial Analysis, Satellite image Analysis, Modeling and Simulation, Urbanism, Probability;
 - **[Lars Bodum](https://vbn.aau.dk/en/persons/107658)**: Geography and Geology, 3D geovisualization, Virtual Reality, Geoinformatics, Spatial Data Infrastructure;
 - **[Jan Kloster Staunstrup](https://vbn.aau.dk/en/persons/110412)**: GIS, Spatial Statistics, Geoinformatics, Sociology and Social conditions, Urban development and Urbanization;
 - **[Henning Sten Hansen](https://vbn.aau.dk/en/persons/109186)**: Urban development, Spatial Analysis, Sustainable Development, Climate Change, Land use Planning, Environment, Sustainability, Satellite image Processing.
 
-# 芬兰
+# Finland
 
-### 赫尔辛基大学
+### University of Helsinki
 
-**Helsingin yliopisto (University of Helsinki, UH)**
+ Helsinki, Finland
 
-芬兰，南芬兰省，赫尔辛基市
+Units: [Geosciences and Geography](https://www.helsinki.fi/en/faculty-of-science/faculty/geosciences-and-geography)
 
-GIS相关系所：[地球科学与地理系](https://www.helsinki.fi/en/faculty-of-science/faculty/geosciences-and-geography)
+The University of Helsinki has a Department of Geosciences and Geography, where GIS / RS research is concentrated in various labs, such as the labs in the digital geography, geographic information, the earth observation, and the biogeoclimatic modeling. The overall research capability of this university is strong. The university offers a well-developed training program in GIS, with a 2-year master's degree for undergraduate applicants and a 3- to 4-year PhD program for those who already has a masters degree.
 
-赫尔辛基大学下设地球科学与地理系，其中GIS / RS的研究集中在数字地理实验室、地理信息实验室、地球变化观测实验室、生物地理气候建模实验室等，综合实力较强。该校的GIS项目培养方案完备，本科毕业申请可修2年硕士，硕士毕业申请可修3-4年博士。
-
-相关导师：
+Professors:
 
 - **[Tuuli Toivonen](https://researchportal.helsinki.fi/en/persons/tuuli-toivonen)**: Geoinformatics, Accessibility & Mobility, Nature Conservation, Sustainability, Big data analysis;
 - **[Petteri Muukkonen](https://researchportal.helsinki.fi/en/persons/petteri-muukkonen)**: Geography, GIS, Forestry, Carbon cycle, Landscape fragmentation;
@@ -117,17 +109,15 @@ GIS相关系所：[地球科学与地理系](https://www.helsinki.fi/en/faculty-
 - **[Miska Luoto](https://researchportal.helsinki.fi/en/persons/miska-luoto)**: Biogeography, Arctic, biodiversity, Global change, Species distribution modelling;
 - **[Enrico Di Minin](https://researchportal.helsinki.fi/en/persons/enrico-di-minin)**: Conservation Biology, Machine learning, Economics, Policy, Africa.
 
-### 阿尔托大学
+### Aalto University
 
-**Aalto yliopisto (Aalto University, Aalto)**
+ Helsinki, Finland
 
-芬兰，南芬兰省，赫尔辛基市
+Units: [Department of Built Environment](https://www.aalto.fi/en/department-of-built-environment/geoinformatics)
 
-GIS相关系所：[建筑环境系](https://www.aalto.fi/en/department-of-built-environment/geoinformatics)
+GIS / RS programs at Aalto University are under the Department of Built Environment in the Faculty of Engineering and focuses on research areas such as geodesy, geoinformation technology, digital photogrammetry, and laser scanning and remote sensing. The GIS program at the university is flexible in terms of course selection and can be supplemented with courses in computer science, artificial intelligence and other specialties. The university offers a well-developed training program in GIS, with a 2-year master's degree for undergraduate applicants and a 3- to 4-year PhD program for those who already has a masters degree.
 
-阿尔托大学的GIS / RS 在工学院的建筑环境系下，主要集中在大地测量学，地球信息技术，数字摄影测量以及激光扫描和遥感等研究领域。该校的GIS项目选课灵活，可辅修计算机、人工智能等专业课程。本科毕业申请可修2年硕士，硕士毕业申请可修3-4年博士。
-
-相关导师：
+Professors:
 
 - **[Kirsi-Kanerva virrantaus](https://research.aalto.fi/en/persons/kirsi-kanerva-virrantaus)**: Geoinformatics, Spatial data analysis and modeling, GIS for safety and defence;
 - **[Henrikki Tenkanen](https://people.aalto.fi/henrikki.tenkanen)**: GIS, Multimodal spatio-temporal accessibility modelling, Mobility analytics, Dynamic accessibility patterns;
@@ -135,80 +125,72 @@ GIS相关系所：[建筑环境系](https://www.aalto.fi/en/department-of-built-
 - **[Martin Vermeer](https://people.aalto.fi/martin.vermeer)**: Satellite positioning, Geodesy, Coordinate reference systems, Photogrammetry, Navigation technologies;
 - **[Matti Vaaja](https://people.aalto.fi/matti.t.vaaja)**: Laser scanning, Mobile mapping, Change detection, 3D-models.
 
-### 图尔库大学
+### University of Turku
 
-**Turun yliopisto (University of Turku, UTU)**
+Turku, Finland
 
-芬兰，西南芬兰区，图尔库市
+Units: [Geography and Geology](https://www.utu.fi/en/university/faculty-of-science/geography-and-geology)
 
-GIS相关系所：[地理与地质系](https://www.utu.fi/en/university/faculty-of-science/geography-and-geology)
+The GIS / RS at the University of Turku is under the Department of Geography and Geology in the Faculty of Science and focuses on research areas such as geographic information science, remote sensing, and meteorology. The University offers a 2-year Master's program in GIS (taught in Finnish and English) and a 3- to 4-year PhD for those who already have a master's degree.
 
-图尔库大学的GIS / RS 在理学院的地理与地质系下，主要集中在地理信息科学、遥感、气象等研究领域。该校的GIS项目主要在地理硕士下，本科毕业申请可修2年硕士（芬兰语和英语混合授课），硕士毕业申请可修3-4年博士。
-
-相关导师：
+Professors:
 
 - **[Niina Käyhkö](https://www.utu.fi/en/people/niina-kayhko)**: Geospatial research, Environmental Remote Sensing, Landscape Geography, GIS;
 - **[Nora Fagerholm](https://www.utu.fi/en/people/nora-fagerholm)**: Landscape Research, Participatory GIS (PGIS), Ecosystem services;
 - **[Jukka Käyhkö](https://www.utu.fi/en/people/jukka-kayhko)**: Climatology, Urban climates, Geomorphology, Global change, Remote sensing.
 
-# 瑞典
+# Sweden
 
-### 隆德大学
+### Lund University
 
-**Lunds universitet (Lund University, Lund)**
+Sweden, Scania, Lund
 
-瑞典，斯科讷省，隆德市
+Units:  [Department of Physical Geography and Ecosystem Science](https://www.nateko.lu.se/)、[Department of Human Geography](https://www.keg.lu.se/en/start)
 
-GIS相关系所：[自然地理与生态系统系](https://www.nateko.lu.se/)、[人文地理系](https://www.keg.lu.se/en/start)
+Lund University consists of the Department of Physical Geography and Ecosystems and the Department of Human Geography. GIS and RS applications are involved in both departments, with a relative emphasis on these research directions as hydrology, vegetation, agriculture, and land use change. Regarding the GIS program of the school, the entrance degree for the master's program (the Lund's  Geomatics master's program, the EU-GEM joint master's program, the Lund-ITC online teaching master's program) is bachelor's degree and the duration is 2 years. After graduating from the master's program, the student can continue pursuing the Ph.D. degree.
 
-隆德大学下设自然地理与生态系统系和人文地理系，GIS和RS应用在两个系中均有所涉及，相对侧重水文、植被、农业以及土地利用变化等研究方向。关于该校GIS项目，本科毕业申请可修2年硕士（本校测绘硕士项目，欧盟GEM联合硕士项目，Lund-ITC线上授课项目），硕士毕业申请可修4年博士。
-
-相关导师：
+Professors and Researchers：
 
 - **[Anna Maria Jönsson](https://www.nateko.lu.se/anna-maria-jonsson)**: Remote Sensing, Land use, Climate Change, Forest;
 - **[David Tenenbaum](https://www.nateko.lu.se/david-tenenbaum)**: Remote Sensing, Climate Change, Hydrology, Soil;
 - **[Jonas Ardö](https://www.nateko.lu.se/jonas-ardo)**: Remote Sensing, Carbon cycle studies in Africa, Flux measurements;
-- **[Karin Hall](https://www.nateko.lu.se/karin-hall)**:  Ecological remote sensing, Farmland, Grassland;
+- **[Karin Hall](https://www.nateko.lu.se/karin-hall)**: Ecological remote sensing, Farmland, Grassland;
 - **[Lars Eklundh](http://web.nateko.lu.se/personal/Lars.Eklundh/)**: Remote sensing, Land Surface Information, Vegetation;
-- **[Marko Scholze](https://portal.research.lu.se/portal/en/persons/marko-scholze(25a93782-441c-4844-9744-dbdc2a002f96).html)**: Climate research, Meteorology and Atmospheric Sciences, Remote Sensing, Data Assimilation, Global Carbon Cycle, Inverse modeling;
-- **[Zheng Duan](https://portal.research.lu.se/portal/en/persons/zheng-duan(fcc64e94-9665-4647-8dfe-0e3d2b541994).html)**: Satellite Remote Sensing, Eco-hydrological Modelling, Land cover Change, Earth Observations;
+- **[Marko Scholze](https://portal.research.lu.se/portal/en/persons/marko-scholze.html)**: Climate research, Meteorology and Atmospheric Sciences, Remote Sensing, Data Assimilation, Global Carbon Cycle, Inverse modeling;
+- **[Zheng Duan](https://portal.research.lu.se/portal/en/persons/zheng-duan.html)**: Satellite Remote Sensing, Eco-hydrological Modelling, Land cover Change, Earth Observations;
 - **[Abdulghani Hasan](https://www.nateko.lu.se/abdulghani-hasan)**: Hydrology, Water resources, Remote Sensing, Hydrological Modeling, GIS and Geomatics;
-- **[Wenxin Zhang](https://portal.research.lu.se/portal/en/persons/wenxin-zhang(fb184c96-ed94-46b3-a116-438b7ec496bf).html)**: Climate Research, Ecosystem modeling, Permafrost;
+- **[Wenxin Zhang](https://portal.research.lu.se/portal/en/persons/wenxin-zhang.html)**: Climate Research, Ecosystem modeling, Permafrost;
 - **[Lars Harrie](https://www.nateko.lu.se/lars-harrie)**: Algorithms for Processing, Analyzing and Visualizing Geographic Data, Methods to Improve the National Spatial Data Infrastructure;
-- **[Karin Larsson](https://portal.research.lu.se/portal/en/persons/karin-larsson(6f9515ba-5328-4100-9b99-ca5fac132700).html#Overview)**: Physical Geography, Geographical Information System, GIS and Geomatics, Geodata;
-- **[Ulrik Mårtensson](https://portal.research.lu.se/portal/en/persons/ulrik-maartensson(d7681667-1d1b-4d04-8b42-ab318668f4ba).html)**: Soil Science, Remote Sensing, Physical Geography, Environmental Sciences, Ecology, Information Systems;
-- **[Petter Pilesjö](https://portal.research.lu.se/portal/en/persons/petter-pilesjoe(317d40bd-1920-4b7a-bf14-e3624c17160d).html)**: GIS in environment, Health studies, Hydrological modelling, Topographical modelling/Interpolation, Coastal Planning, Morphometry, Remote Sensing and Positioning;
+- **[Karin Larsson](https://portal.research.lu.se/portal/en/persons/karin-larsson.html#Overview)**: Physical Geography, Geographical Information System, GIS and Geomatics, Geodata;
+- **[Ulrik Mårtensson](https://portal.research.lu.se/portal/en/persons/ulrik-maartensson.html)**: Soil Science, Remote Sensing, Physical Geography, Environmental Sciences, Ecology, Information Systems;
+- **[Petter Pilesjö](https://portal.research.lu.se/portal/en/persons/petter-pilesjoe.html)**: GIS in environment, Health studies, Hydrological modelling, Topographical modelling/Interpolation, Coastal Planning, Morphometry, Remote Sensing and Positioning;
 - **[Ali Mansourian](https://www.nateko.lu.se/ali-mansourian)**: Spatial Data Infrastructures (SDI), Web GIS and Geospatial Web Services, Advanced Modeling for Applied GISs;
 - **[Ola Hall](https://www.keg.lu.se/en/ola-hall)**: GIS, Social Geographic Analysis.
 
-### 瑞典皇家理工学院
+### KTH Royal Institute of technology
 
-**Kungliga Tekniska högskolan (KTH Royal Institute of technology, KTH)**
+Sweden, Stockholm, Stockholm
 
-瑞典，斯德哥尔摩省，斯德哥尔摩市
+Unit: [Department of Urban Planning and Environment](https://www.kth.se/en/som/avdelningar/gis/gis-1.62043)
 
-GIS相关系所：[城市规划与环境系](https://www.kth.se/en/som/avdelningar/gis/gis-1.62043)
+KTH's GIS/RS research lab is located under the Department of Urban Planning and Environment. Its research focuses on method development and the application of GeoIT in the sustainable urban/regional planning, environmental monitoring, crime analysis and health research. The entrance degree for the master's program (transportation + GIS) is bachelor's degree and the duration is 2 years. After graduating from the master's program, the student can continue pursuing the Ph.D. degree.
 
-KTH的GIS / RS下设在城市规划与环境部门下面，其研究重点是方法开发以及GeoIT在可持续城市/区域规划，环境监测，犯罪分析和健康研究中的应用。关于该校GIS项目，本科毕业申请可修2年硕士（运输+GIS），硕士毕业申请可修4年博士。
-
-相关导师：
+Professors：
 
 - **[Yifang Ban](https://www.kth.se/profile/yifang)**: Remote Sensing, SAR and optical image analysis, Multisensor Data Fusion, Urban Analysis, 3D visualization, Spatial Analysis and Modeling, Environmental Impact Assessment;
 - **[Takeshi Shirabe](https://www.kth.se/profile/shirabe)**: Route planning and Improvisation, Spatial Decision Support Systems, Computational methods for Addressing indecisiveness;
 - **[Gyözö Gidofalvi](https://www.kth.se/profile/gyozo)**: Spatio-Temporal Data Mining and Analysis, Location-Based Services (LBS), Intelligent Transportation Systems, WebGIS, Mobile GIS, Spatial Databases;
 - **[Vania Ceccato](https://www.kth.se/profile/vace)**: Urban environment and Safety, GIS, Spatial statistic;
 
-### 斯德哥尔摩大学
+### Stockholm University
 
-**Stockholms universitet (Stockholm University, SU)**
+Sweden, Stockholm, Stockholm
 
-瑞典，斯德哥尔摩省，斯德哥尔摩市
+Units:  [Department of Physical Geography](https://www.natgeo.su.se/)、 [Department of Human Geography](https://www.humangeo.su.se/english/)
 
-GIS相关系所：[自然地理系](https://www.natgeo.su.se/)、 [人文地理系](https://www.humangeo.su.se/english/)
+Stockholm University consists of the Department of Physical Geography and the Department of Human Geography, which are involved in GIS/RS applications, focusing on population, immigration and GIS, as well as the application of remote sensing in physical geography. The university mainly sets up GIS-related master's programs under the Department of Natural Geography. The entrance degree for the master's program is bachelor's degree and the duration is 2 years. After graduating from the master's program, the student can continue pursuing the Ph.D. degree.
 
-斯德哥尔摩大学下设自然地理系和人文地理系，对GIS / RS应用均有涉及，关注人口、移民及GIS，以及遥感在自然地理中的应用等。该校主要在自然地理系下设置有GIS相关的硕士项目，本科毕业申请可修2年硕士+3年博士，硕士毕业申请可修4年博士。
-
-相关导师：
+Professors：
 
 - **[Ian Brown](https://www.su.se/english/profiles/brown-1.182843)**: Uses of interferometric and polarimetric synthetic aperture radar, Radar applications to the measurement of the properties of snowpacks and mangrove forests;
 - **[Gustaf Hugelius](https://www.su.se/english/profiles/chuge-1.184251)**: Applications of GIS and Geomatics, Stocks and Turnover of carbon in Soils and Ecosystems;
@@ -218,33 +200,29 @@ GIS相关系所：[自然地理系](https://www.natgeo.su.se/)、 [人文地理�
 - **[Bo Malmberg](https://www.su.se/english/profiles/bmalm-1.184229)**: Applied econometrics, Economic Geography, Population Geography, Urban Geography, GIS and Remote Sensing, Spatial Statistics;
 - **[Anders Wästfelt](https://www.su.se/english/profiles/wastf-1.183689)**: Remote sensing, Earth observation, Satellite image Analysis and Processing, Spatial Analysis, Vegetation Mapping.
 
-### 哥德堡大学
+### University of Gothenburg
 
-**Göteborgs universitet (University of Gothenburg, GU)**
+Sweden, Västergötland and ‎Bohuslän, Gothenburg
 
-瑞典，西约特兰省，哥德堡市
+Units:  [Department of Earth Sciences](https://www.gu.se/en/earth-sciences)、 [Unit for Human Geography](https://www.gu.se/en/school-business-economics-law/economy-society/about-us/our-units/unit-for-human-geography)
 
-GIS相关系所：[地球科学系](https://gvc.gu.se/english)、 [人文地理单元](https://es.handels.gu.se/english/units/unit-for-human-geography)
+The University of Gothenburg has the Department of Earth Sciences and Unit of Human Geography. The Department of Earth Sciences mainly studies climate, natural resources, disasters, etc., and GIS/RS research mostly focused on earth sciences. The university's GIS program is set up in the Department of Earth Sciences. The entrance degree for the master's program is bachelor's degree and the duration is 2 years. After graduating from the master's program, the student can continue pursuing the Ph.D. degree.
 
-哥德堡大学下设地球科学系和人文地理单元，地球科学系主要研究气候、自然资源、灾害等，GIS / RS多为地球科学方面应用。该校的GIS项目下设在地球科学系中，本科毕业申请可修2年硕士，硕士毕业申请可修4年博士。
-
-相关导师：
+Professors：
 
 - **[Fredrik Lindberg](https://www.gu.se/english/about_the_university/staff?languageId=100001&userId=xlinfr)**: Spatial modeling of Urban Climates, Modeling of Mean Radiant Temperature in Complex Urban Settings, LiDAR;
 - **[Heather Reese](https://gvc.gu.se/english/personnel?languageId=100001&userId=xreehe)**: Remote Sensing, Alpine Vegetation, Mapping of land cover types;
 - **[Deliang Chen](https://geography.wisc.edu/gis/staff/huang-qunying/)**: Statistical Data Analysis, Spatial Analysis, Climate Variability and Change, Hydrology, Hydrological Modeling, Water Resources Management;
 - **[Anders Larsson](https://www.gu.se/english/about_the_university/staff/?userId=xlarss/)**: Industrial and Economic Geography, Regional Development and Innovation, Regional Planning and Policy, GIS, Transport and Accessibility Methodology.
 
-### 耶夫勒大学
+### University of Gävle
 
-**Högskolan i Gävle (University of Gävle, HIG)**
+Sweden, Gästrikland, Gävle
 
-瑞典，耶夫勒堡省，耶夫勒市
+Unit: [Department of Computer and Geospatial Sciences](https://www.hig.se/Ext/En/University-of-Gavle/Organisation/Akademier/Faculty-of-Engineering-and-Sustainable-Development/Departments-at-the-Faculty/Department-of-Computer-and-Geospatial-Sciences.html)
 
-GIS相关系所：[计算机与地理空间科学系](https://www.hig.se/Ext/En/University-of-Gavle/Organisation/Akademier/Faculty-of-Engineering-and-Sustainable-Development/Departments-at-the-Faculty/Department-of-Computer-and-Geospatial-Sciences.html)
+University of Gävle is located in the center of Gavle, which was established in 1977. The Department of Computer and Geospatial Science (also known as the Department of Industrial Development, IT and Land Management) under the Faculty of Engineering and Sustainable Development of University of Gävle, mainly studies computer science, geospatial science, and decision-making, risk and policy analysis. Related master's programs include [Geomatics](https://www.hig.se/TAGEM_en) and [Geospatial Information Science](https://www.hig.se/TAGSM_en).
 
-耶夫勒大学位于瑞典耶夫勒市中心，建成于1977年。耶夫勒大学工程与可持续发展学院下辖计算机与地理空间科学系（亦作工业发展、IT与土地管理系），主要研究计算机科学、地理空间科学以及决策、风险和政策分析。相关硕士项目有[Geomatics硕士项目](https://www.hig.se/TAGEM_en)和[Geospatial Information Science](https://www.hig.se/TAGSM_en)硕士项目。
-
-相关导师：
+Professor：
 
 - **[Bin Jiang](http://giscience.hig.se/binjiang/)**: GIScience, GeoInformatics, Spatial Analysis, Cartography, Space Syntax.

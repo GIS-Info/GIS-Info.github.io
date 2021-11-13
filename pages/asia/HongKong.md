@@ -1,16 +1,16 @@
-## University of Hong Kong 
+## University of Hong Kong
 
 Hong Kong Island, Hong Kong, China
 
-GIS related departments：[URBAN PLANNING AND DESIGN](https://www.arch.hku.hk/programmes_/upad/)，[Department of GEOGRAPHY](https://www.geog.hku.hk/)，[REAL ESTATE AND CONSTRUCTION](https://www.arch.hku.hk/programmes_/rec/) 
+GIS related departments：[URBAN PLANNING AND DESIGN](https://www.arch.hku.hk/programmes_/upad/)，[Department of GEOGRAPHY](https://www.geog.hku.hk/)，[REAL ESTATE AND CONSTRUCTION](https://www.arch.hku.hk/programmes_/rec/)
 
-The Department of Urban Planning and Design (DUPAD) was established in the Faculty of Architecture following the reorganization of the Centre of Urban Planning and Environmental Management (CUPEM) on 1 July 2008 to continue the teaching of urban planning and related areas in housing management and transport which can be dated back to 1980. DUPAD offers taught post-graduate and MPhil and PhD programs in Urban Planning, Urban Design, Housing Management and Transport Policy and Planning. 
+The Department of Urban Planning and Design (DUPAD) was established in the Faculty of Architecture following the reorganization of the Centre of Urban Planning and Environmental Management (CUPEM) on 1 July 2008 to continue the teaching of urban planning and related areas in housing management and transport which can be dated back to 1980. DUPAD offers taught post-graduate and MPhil and PhD programs in Urban Planning, Urban Design, Housing Management and Transport Policy and Planning.
 
 The Department of Geography of the University of Hong Kong has three research directions: China-related research, environmental research, and urban and transportation research. The department offers undergraduates, taught masters, research masters, and research doctoral programs.
 
 The Department of Real Estate and Construction (REC), formerly known as Department of Surveying, was established in June 1984. The Department has now expanded into an even wider spectrum of expertise, covering virtually every aspect of land, construction, real estate, and conservation, with a growing interest in digital technologies and data analytics.
 
-Adivicers： 
+Adivicers：
 
 URBAN PLANNING AND DESIGN：
 
@@ -53,7 +53,7 @@ REAL ESTATE AND CONSTRUCTION：
 
 - **[XUE, Fan](https://frankxue.com/)**: urban computing, urban sensing, urban semantics in 3D point clouds, machine learning, optimization algorithm, BIM, GIS, IoT.
 
-## City University of Hong Kong 
+## City University of Hong Kong
 
 Kowloon, Hong Kong, China
 
@@ -61,7 +61,7 @@ GIS related departments：[Department of Architecture and Civil Engineering](htt
 
 The Department of Architecture and Civil Engineering of the City University of Hong Kong has a multi-disciplinary background. At present, teachers who study GIS are mainly concentrated in the Department of Architecture. The application of GIS in urban planning and design, construction engineering and other fields is currently receiving attention. The department offers taught postgraduate master's programs in civil and architectural engineering, construction management, urban design, and regional planning. Research masters and doctorates are also enrolled. Recent research directions mainly include civil and environmental engineering, transportation, hydrology, surveying, architecture, urban design and planning, etc.
 
-Adivicers： 
+Adivicers：
 - **[LU, Yi](http://bccw.cityu.edu.hk/main/wp_staff_view.asp?people_number=5113)**: built environment, healthy city, travel behavior, street view imagery;
 
 - **[CHOW, Andy](http://bccw.cityu.edu.hk/main/wp_staff_view.asp?people_number=5131)**: data analytics and artificial intelligence, cooperative intelligent transport systems, public transport operations, smart cities and mobility, urban transport analytics;
@@ -69,9 +69,9 @@ Adivicers：
 - **[LO, S. M.](http://bccw.cityu.edu.hk/main/wp_staff_view.asp?people_number=1184)**: spatial planning for pedestrian movement and evacuation modeling, urban and land use planning, building development, construction management and fire safety engineering;
 
 
-## The Hong Kong University of Science and Technology 
+## The Hong Kong University of Science and Technology
 
-Kowloon, Hong Kong, China 
+Kowloon, Hong Kong, China
 
 GIS related departments：[Division of Environment and Sustainability](https://www.envr.ust.hk/)
 
@@ -94,7 +94,7 @@ Shatin, NT, Hong Kong SAR, The People's Republic of China
 
 GIS related departments：[Department of Geography and Resource Management (GRM)](https://www.grm.cuhk.edu.hk/eng/index.html)、[Institute of Space and Earth Information Science (ISEIS)](http://www.iseis.cuhk.edu.hk/en/)。
 
-Department of Geography and Resource Management (GRM) at The Chinese University of Hong Kong is one of the top geography departments at the forefront of geography education and research in Asia. We offer a wide range of programmes from bachelor to doctorate levels and have trained high calibre graduates contributing to society. Our departmental staff members also serve as directors of three research institutes in the University, namely the Institute of Environment, Energy and Sustainability, Institute of Future Cities, and Institute of Space and Earth Information Science. 
+Department of Geography and Resource Management (GRM) at The Chinese University of Hong Kong is one of the top geography departments at the forefront of geography education and research in Asia. We offer a wide range of programmes from bachelor to doctorate levels and have trained high calibre graduates contributing to society. Our departmental staff members also serve as directors of three research institutes in the University, namely the Institute of Environment, Energy and Sustainability, Institute of Future Cities, and Institute of Space and Earth Information Science.
 The Department of Geography has fostered an active postgraduate research programme at both the MPhil and PhD levels. There are currently over 20 MPhil and PhD candidates undertaking research in a variety of fields that reflects the broad range of interests and skills of staff members and the facilities of the Department. In addition, over 50 students are studying in the Taught Master's Programmes.
 
 [M.Phil.-Ph.D. in GRM (Master of Philosophy Stream)]( https://www.grm.cuhk.edu.hk/eng/prog/postgrad/_mphil.html)
@@ -123,7 +123,7 @@ Adivicers：
 
 Hung Hom, Kowloon, Hong Kong
 
-GIS related departments：土地测量及地理资讯学系 [Department of Land Surveying and Geo-informatics (LSGI)](http://www.lsgi.polyu.edu.hk/)
+GIS related departments：[Department of Land Surveying and Geo-informatics (LSGI)](http://www.lsgi.polyu.edu.hk/)
 
 The Department of Land Surveying and Geo-Informatics of the Hong Kong Polytechnic University is one of the world-renowned geospatial information science departments. For many years, it has devoted itself to research in surveying and mapping, remote sensing, photogrammetry, GIS, digital mapping, and urban information science. LSGI offers two MSc Programs，[Master of Science in geomatics](http://www.lsgi.polyu.edu.hk/prospective-students/degrees-and-qualifications/master-of-science-in-geomatics/index.asp) which operates for years, and [Master of Science in urban informatics and smart cities](http://www.lsgi.polyu.edu.hk/prospective-students/degrees-and-qualifications/master-of-science-in-urban-informatics/index.asp) which just operates since 20fall. These two are 1-2 years program. [PhD and Mphil](http://www.lsgi.polyu.edu.hk/prospective-students/degrees-and-qualifications/doctor-and-master-of-philosophy/index.asp) are also applicable. It usually takes four years for applicants with a bachelor's degree, and three years for applicant with a master’s degree. There are few MPhil places in the department, and research students are generally doctoral students.
 

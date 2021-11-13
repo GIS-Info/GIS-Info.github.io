@@ -68,7 +68,8 @@ Professors:
 - **[Kim Yongil](http://spins.snu.ac.kr/)**: remote sensing, geodesy, GPS;
 - **[Yu Kiyun](http://gislbs.net/)**: GIS, location-based service, decision making, map-based city information visualization, spatial analysis;
 - **[Kwon Young-Sang](http://udl.snu.ac.kr/)**: urban design, urban studies, urban planning;
-- **[Jung Chang Mu](http://uplab.snu.ac.kr/)**: urban planning, urban policy.
+- **[Jung Chang Mu](http://uplab.snu.ac.kr/)**: urban planning, urban policy,
+- **[Jige Quan](https://gses.snu.ac.kr/en/professor/6)**: urban planning, city energy.
 
 ### University of Seoul
 

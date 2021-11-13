@@ -8,17 +8,49 @@ Chinese Version: [www.gisphere.net](https://www.gisphere.net/)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
-## USA
+## North America
 
-[East USA](https://gisphere.github.io/pages/usa/usa-east.html)
+[Eastern USA](https://gisphere.github.io/pages/north_america/usa-east.html)
 
-[Middle USA](https://gisphere.github.io/pages/usa/usa-mid.html)
+[Midwest USA](https://gisphere.github.io/pages/north_america/usa-mid.html)
 
-[South USA](https://gisphere.github.io/pages/usa/usa-south.html)
+[Southern USA](https://gisphere.github.io/pages/north_america/usa-south.html)
 
-[West USA](https://gisphere.github.io/pages/usa/usa-west.html)
+[Western USA](https://gisphere.github.io/pages/north_america/usa-west.html)
 
-## Asia
+[Urban Planning Programs in the USA](https://gisphere.github.io/pages/north_america/usa-urban.html)
+
+[Canada](https://gisphere.github.io/pages/north_america/canada.html)
+
+## Europe
+
+[Austria](https://gisphere.github.io/pages/europe/Austria.html)
+
+[Baltic States](https://gisphere.github.io/pages/europe/Baltic.html)
+
+[Czech & Hungary](https://gisphere.github.io/pages/europe/Czech_Hungary.html)
+
+[France](https://gisphere.github.io/pages/europe/france.html)
+
+[Germany](https://gisphere.github.io/pages/europe/Germany.html)
+
+[Italy](https://gisphere.github.io/pages/europe/Italy.html)
+
+[Low Countries](https://gisphere.github.io/pages/europe/low_countries.html)
+
+[Nordic Countries](https://gisphere.github.io/pages/europe/nordic.html)
+
+[Poland](https://gisphere.github.io/pages/europe/Poland.html)
+
+[Russia](https://gisphere.github.io/pages/europe/Russia.html)
+
+[Spain](https://gisphere.github.io/pages/europe/Spain.html)
+
+[Switzerland](https://gisphere.github.io/pages/europe/Switzerland.html)
+
+[UK and Ireland](https://gisphere.github.io/pages/europe/UK-Ireland.html)
+
+## Asia and Oceania
 
 [Hong Kong SAR, China](https://gisphere.github.io/pages/asia/HongKong.html)
 
@@ -34,44 +66,4 @@ Chinese Version: [www.gisphere.net](https://www.gisphere.net/)
 
 ## South America
 
-[South America](https://gisphere.github.io/pages/americas/south_america.html)
-
-## Europe
-
-[Austria](https://gisphere.github.io/pages/europe/Austria.html)
-
-[Baltic](https://gisphere.github.io/pages/europe/Baltic.html)
-
-[Belgium](https://gisphere.github.io/pages/europe/Belgium.html)
-
-[Czech & Hungary](https://gisphere.github.io/pages/europe/Czech_Hungary.html)
-
-[Denmark](https://gisphere.github.io/pages/europe/Denmark.html)
-
-[Finland](https://gisphere.github.io/pages/europe/Finland.html)
-
-[France](https://gisphere.github.io/pages/europe/France.html)
-
-[Germany](https://gisphere.github.io/pages/europe/Germany.html)
-
-[Italy](https://gisphere.github.io/pages/europe/Italy.html)
-
-[Luxembourg](https://gisphere.github.io/pages/europe/Luxembourg.html)
-
-[Netherland](https://gisphere.github.io/pages/europe/Netherland.html)
-
-[Norway](https://gisphere.github.io/pages/europe/Norway.html)
-
-[Poland](https://gisphere.github.io/pages/europe/Poland.html)
-
-[Russia](https://gisphere.github.io/pages/europe/Russia.html)
-
-[Scandinavia](https://gisphere.github.io/pages/europe/Scandinavia.html)
-
-[Spain](https://gisphere.github.io/pages/europe/Spain.html)
-
-[Sweden](https://gisphere.github.io/pages/europe/Sweden.html)
-
-[Switzerland](https://gisphere.github.io/pages/europe/Switzerland.html)
-
-[UK](https://gisphere.github.io/pages/europe/UK.html)
+[South American Countries](https://gisphere.github.io/pages/south_america/south_america.html)

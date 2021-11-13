@@ -72,7 +72,8 @@ Professors:
 - **[Ahmed El-Mowafy](https://staffportal.curtin.edu.au/staff/profile/view/ahmed-el-mowafy-8eb0c147/)**: surveying, satellite image;
 - **[Michael Kuhn](https://staffportal.curtin.edu.au/staff/profile/view/michael-kuhn-0ad64f27/)**: surveying, geodesy, gravity;
 - **[Will Featherstone](https://staffportal.curtin.edu.au/staff/profile/view/will-featherstone-0312e6c3/)**: surveying, geodesy, GPS;
-- **[Geoff West](https://staffportal.curtin.edu.au/staff/profile/view/geoff-west-bf2f4f7d/)**: GIS, spatial analysis, visualization.
+- **[Geoff West](https://staffportal.curtin.edu.au/staff/profile/view/geoff-west-bf2f4f7d/)**: GIS, spatial analysis, visualization;
+- **[Yongze Song](https://staffportal.curtin.edu.au/staff/profile/view/yongze-song-35491f7e/)**: spatial statistics, geospatial methods, urban remote sensing, sustainable infrastructure..
 
 ### University of Flinders
 

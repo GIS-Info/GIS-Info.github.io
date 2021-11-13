@@ -1,4 +1,6 @@
 
+# England, UK
+
 #### University College London (UCL)
 
 London, England
@@ -222,7 +224,7 @@ Professors:
 
 
 
-#### *University of Nottingham
+#### University of Nottingham
 
 Nottingham, Nottinghamshire, England
 

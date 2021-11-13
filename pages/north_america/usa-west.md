@@ -38,22 +38,23 @@ Unit: [School of Geographical Sciences & Urban Planning](https://sgsup.asu.edu/)
 
 The School of Geographical Sciences & Urban Planning at Arizona State University (ASU) is strong in spatial analysis, spatial statistics, and urban meteorology. Currently, it is home to three fellows of the American Academy of Sciences. Research projects are conducted through three research centers, namely [SPARC Spatial Analysis Center]((https://sgsup.asu.edu/SPARC)), [Global Discovery and Conservation Science Center]((https://sustainability.asu.edu/urban-climate/)), and [Urban Climate Research Center]((https://sustainability.asu.edu/urban-climate/)). GIS-related degrees include research-based masters and PhDs, and a [course-based masters]( https://sgsup.asu.edu/degree-programs/graduate-degrees/master-gis) degree (1 to 2 years, STEM).
 
-相关导师 ：
-- **[Stewart Fotheringham](https://sgsup.asu.edu/stewart-fotheringham)**: GWR, spatial analysis;
-- **[Trisalyn Nelson](https://sgsup.asu.edu/trisalyn-nelson)**: movement data analysis;
-- **[Wenwen Li](https://sgsup.asu.edu/wenwen-li)**: GeoAI, CyberGIS;
-- **[Greg Anser](https://sgsup.asu.edu/gregory-asner)**: remote sensing, ecology;
-- **[Daoqin Tong](https://sgsup.asu.edu/daoqin-tong)**: spatial optimization, spatial statistics;
-- **[Michael Kuby](https://sgsup.asu.edu/michael-kuby)**: transportation, optimization;
-- **[David Sailor](https://geography.wisc.edu/cartography/people/Roth.html)**: climate with the built environment;
-- **[Soe Myint](https://sgsup.asu.edu/soe-myint)**: remote sensing, GIS;
-- **[Peter Kedron](https://sgsup.asu.edu/peter-kedron)**: spatial analysis and statistics;
-- **[Amy Frazier](https://sgsup.asu.edu/amy-frazier)**: remote sensing, GIS, UAV;
-- **[Elizabeth Wentz](https://sgsup.asu.edu/elizabeth-wentz)**:  shape and pattern analysis, geographic information science, applications of GIS to urban environment, urban remote sensing, water resource management;
-- **[Roberta Martin](https://sgsup.asu.edu/roberta-martin)**: remote sensing, biodiversity;
-- **[Matthew Quick](https://sgsup.asu.edu/matthew-quick)**: spatiotemporal analytical methods, urban planning, urban geography, criminology, public health;
-- **[Dylan Connor](https://sgsup.asu.edu/dylan-connor)**: big historical data, immigration, demography, intergenerational inequality, urban and regional development.
-
+Professors:
+-   **[Stewart Fotheringham](https://sgsup.asu.edu/stewart-fotheringham)**: GWR, spatial analysis;
+-   **[Wenwen Li](https://sgsup.asu.edu/wenwen-li)**: GIScience;
+-   **[Greg Anser](https://sgsup.asu.edu/gregory-asner)**: remote sensing, ecology;
+-   **[Daoqin Tong](https://sgsup.asu.edu/daoqin-tong)**: spatial optimization, spatial statistics;
+-   **[Michael Kuby](https://sgsup.asu.edu/michael-kuby)**: transportation, optimization;
+-   **[David Sailor](https://geography.wisc.edu/cartography/people/Roth.html)**: climate with the built environment;
+-   **[Soe Myint](https://sgsup.asu.edu/soe-myint)**: remote sensing, GIS;
+-   **[Peter Kedron](https://sgsup.asu.edu/peter-kedron)**: spatial analysis and statistics;
+-   **[Amy Frazier](https://sgsup.asu.edu/amy-frazier)**: remote sensing, GIS, UAV;
+-   **[Elizabeth Wentz](https://sgsup.asu.edu/elizabeth-wentz)**: shape and pattern analysis, geographic information science, applications of GIS to urban environment, urban remote sensing, water resource management;
+-   **[Roberta Martin](https://sgsup.asu.edu/roberta-martin)**: remote sensing, biodiversity;
+-   **[Matthew Quick](https://sgsup.asu.edu/matthew-quick)**: spatiotemporal analytical methods, urban planning, urban geography, criminology, public health;
+-   **[Dylan Connor](https://sgsup.asu.edu/dylan-connor)**: big historical data, immigration, demography, intergenerational inequality, urban and regional development;
+-   **[Jiwei Li](https://isearch.asu.edu/profile/1894638)**: oceanography, biogeoscience;
+-   **[B.L. Turner II](https://sgsup.asu.edu/bl-turner-ii)**: urban science, sustainability;
+-   **[Sharmistha Bagchi-Sen](https://sgsup.asu.edu/sharmistha-bagchi-sen)**: urban development, spatial analysis.
 
 ### University of Oregon
 
@@ -132,6 +133,7 @@ UCSB is regarded as one of the top schools for geography PhDs. It is one of the 
 Professors:
 
 - **[Werner Kuhn](http://geog.ucsb.edu/~kuhn/)**: GIScience, geospatial semantics, knowledge graph, geospatial ontology, GIS theory;
+- **[Trisalyn Nelson](https://sgsup.asu.edu/trisalyn-nelson)**: movement data analysis;
 - **[Krzysztof Janowicz](https://geog.ucsb.edu/~jano/)**: geospatial semantics, knowledge graph, spatially-explicit machine learning, GeoAI, social sensing, urban computing;
 - **[Somayeh Dodge](https://somayehdodge.info/)**: movement advances spatial data science, geographic visualization, analysis and modeling of movement;
 - **[Kostas Goulias](https://kgoulias.weebly.com/)**: transportation, neighborhood study，traffic management and prediction;
