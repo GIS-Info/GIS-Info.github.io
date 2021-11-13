@@ -28,7 +28,7 @@ Chinese Version: [www.gisphere.net](https://www.gisphere.net/)
 
 [Baltic States](https://gisphere.github.io/pages/europe/Baltic.html)
 
-[Czech & Hungary](https://gisphere.github.io/pages/europe/Czech_Hungary.html)
+[Czech and Hungary](https://gisphere.github.io/pages/europe/Czech_Hungary.html)
 
 [France](https://gisphere.github.io/pages/europe/france.html)
 
