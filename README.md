@@ -60,9 +60,9 @@ Chinese Version: [www.gisphere.net](https://www.gisphere.net/)
 
 [Singapore](https://gisphere.github.io/pages/asia/Singapore.html)
 
-[Thailand & Malaysia](https://gisphere.github.io/pages/asia/Thailand_Malaysia.html)
+[Thailand and Malaysia](https://gisphere.github.io/pages/asia/Thailand_Malaysia.html)
 
-[Australia & New Zealand](https://gisphere.github.io/pages/asia/Australia_NewZealand.html)
+[Australia and New Zealand](https://gisphere.github.io/pages/asia/Australia_NewZealand.html)
 
 ## South America
 
