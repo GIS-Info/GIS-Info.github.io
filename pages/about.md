@@ -1,11 +1,20 @@
 
+# Global GIS Program Guide
+**(Last update: Sept 2019)**
 
 
+Contact: gisphere@outlook.com
 
-### 作者名单
+## About
 
-下面是撰写条目或提供院校信息的作者名单。按姓氏拼音排序。
+This guide was launched in September 2019, and the latest update time is September 2020. Our purpose is to provide timely and comprehensive information regarding graduate-level programs in geographic information sciences (GIS) all over the world. Authors of this guide are from notable GIS programs, being either current graduate students, recent alumni, or young faculty. We mainly provide first-hand information about GIS-related programs and potential supervisors. We hope this guide can help those who are seeking graduate school opportunities in GIS.
 
-为保护隐私，我们不公开作者的单位信息。部分作者为匿名作者，故在此未予列出。
+If you find this guide useful, please help us by sharing it and staring [our GitHub](https://github.com/GIS-Info/GIS-Info.github.io/)！
 
-安云琪，曹伟辰，曹彦佳，陈焕发，陈龙，陈茜，陈昱，程敬宜，崔文聪，戴劭勍，董维川, 杜新浩，杜瑶，段牧溪，范宜伦，费庆源，冯瑶，付圣，高鹏，郭晨，郭科宇，韩笑，何畅，何旭，何伊伊，胡昊，胡吉林，胡英杰，胡于杰，黄冠，黄佳玮，黄谦夏，黄啸，康雨豪，赖佳梦，李八一，李博文，李浩，李佳，李良，李清华，李烁，李小江，李艺，李元翔，李子奇，连婷，梁晓帆，廖倩儒，刘年华，刘若葳，刘雯，刘晓健，刘欣宜，刘昱妍，刘振宇，刘卓明，卢加宁，栾辉，吕方正，马超，马擎宇，马宇驰，买庚辰，孟凡林，穆野，庞真，彭倩，乔天，冉泉，饶锦蒙，饶婧，石霞，司云瑞，宋秋然，宋万营，苏辰雨，孙一璠，谭孟荀，唐安琪，王海明，王邃，王瑶莉，卫贺兰，魏辛源，吴迪，吴秋生，谢雨潭，邢进，徐芳洁，徐浩文，徐雅雯，许子清，薛凯，晏澍虹，杨家鑫，杨梅，杨庭方，杨莹丽，杨源譞，叶山，叶翔，易健，于曼竹，于婉灵，袁振东，岳远紊，曾可欣，翟寻，张帆，张婧祎，张蔚行，张雅璇，章静，赵家彦，赵群山，赵雨潇，周泓，周建雄，周璐，周瑞，朱飞宇，邹倩倩
+**We thank [all authors](https://github.com/GIS-Info/GIS-Info.github.io/blob/master/pages/about.md) who contributed to his guide！**
+
+This guide will be frequently updated in the future. We hope more people can join us to develop and maintain this project. We are not able to include all GIS-related graduate programs in this guide for various reasons. Please refer to [AAG Geography Program](http://www.aag.org/guide) for more information about other programs in North America. Please feel free to leave a message in [this GitHub issue](https://github.com/GIS-Info/GIS-Info.github.io/issues) if you find any errors or have any suggestions.
+
+## Copyright
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
