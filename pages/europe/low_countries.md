@@ -186,15 +186,20 @@ The Lab of Geoinformation Science and Remote Sensing at Wageningen University is
 
 Professors:
 
--   [Ioannis Athanasiadis](https://www.wur.nl/en/Persons/Ioannis-prof.dr.-I-Ioannis-Athanasiadis.htm): big data, software engineering, intelligent information systems, software agents, decision support systems,machine learning, deep learning;
-
--   [Harm Bartholomeus](https://www.wur.nl/en/Persons/Harm-dr.-HM-Harm-Bartholomeus.htm): Lidar research,forest monitoring, vegetation canopy spectroscopic,UVA image process;
-
--   [Sytze de Bruin](https://www.wur.nl/en/Persons/Sytze-dr.ir.-S-Sytze-de-Bruin.htm): Soil Science，spatio-temporal interpolation(e.g. time series analysis);
-
--   [Jan Clevers](https://www.wur.nl/en/Persons/Jan-dr.ir.-JGPW-Jan-Clevers.htm): agricultural/soil monitoring, precise agriculture,radiative transfer model, developments of vegetation indices (e.g.WDVI)；
-
--   [Alexander Klippel](https://www.wur.nl/en/Persons/Alexander-KAJ-Alexander-Klippel.htm): spatial analysis, spatial cognition, VR.
+- **[Alexander Klippel](https://www.wur.nl/en/Persons/Alexander-prof.dr.-AKAJ-Alexander-Klippel.htm)**: Geoinformation, Geodata, Spatial Cognition, Geographic Event Conceptualization, Crowdscience;
+- **[Martin Herold](https://www.wur.nl/en/Persons/Martin-prof.dr.-M-Martin-Herold.htm)**: Remote sensing, Satellite-based Monitoring, Time series analysis, Land use change, Forest;
+- **[Arnold Bregt](https://www.wur.nl/en/Persons/Arnold-prof.dr.ir.-AK-Arnold-Bregt.htm)**: Land use planning, Spatial data and models, Geomatics, Geographical information systems, Soil sciences;
+- **[Ioannis Athanasiadis](https://www.wur.nl/en/Persons/Ioannis-prof.dr.-I-Ioannis-Athanasiadis.htm)**: Artificial Intelligence, Machine learning, Big data, Agriculture, Ecoinformatics;
+- **[Jan Clevers](https://www.wur.nl/en/Persons/Jan-dr.ir.-JGPW-Jan-Clevers.htm)**: Remote Sensing, Agricultural/Soil Monitoring, Precise Agriculture, Radiative Transfer Model;
+- **[Lammert Kooistra](https://www.wur.nl/en/Persons/Lammert-dr.ir.-L-Lammert-Kooistra.htm)**: Remote Sensing, Unmanned Aerial Systems, Imaging Spectroscopy, Precision Agriculture, Multi-variate statistics;
+- **[Sytze de Bruin](https://www.wur.nl/en/Persons/Sytze-dr.ir.-S-Sytze-de-Bruin.htm)**: Geo-information Science, Geostatistics, Spatial Data Quality, Remote Sensing;
+- **[Jan Verbesselt](https://www.wur.nl/en/Persons/Jan-dr.ir.-JP-Jan-Verbesselt.htm)**: Remote Sensing, Time series analysis, Machine learning, Big-Earth Observation data analysis;
+- **[Ron van Lammeren](https://www.wur.nl/en/Persons/Ron-dr.ir.-RJA-Ron-van-Lammeren.htm)**: Geovisualization, GIS Education, Geo-information in landscape;
+- **[Arend Ligtenberg](https://www.wur.nl/en/Persons/Arend-dr.ir.-A-Arend-Ligtenberg.htm)**: Spatial Modeling, Simulation, Spatial Planning, Agent Based Modeling, Complex Adaptive Systems;
+- **[Johannes Reiche](https://www.wur.nl/en/Persons/Johannes-J-Johannes-Reiche-PhD.htm)**: Radar Remote Sensing, Multi-Sensor, Near Real-Time Change Monitoring, Forest Dynamics;
+- **[Veronique De Sy](https://www.wur.nl/en/Persons/Niki-dr.-V-Niki-de-Sy.htm)**: Land Use Change, Climate Change Mitigation, REDD+, Forest Monitoring, Sustainable Development;
+- **[Judith Verstegen](https://www.wur.nl/en/Persons/Judith-dr.-JA-Judith-Verstegen.htm)**: Geoinformatics, Geosimulation, Spatial Optimization, Human-Environment Interaction, Agent-Based Modelling;
+- **[Harm Bartholomeus](https://www.wur.nl/en/Persons/Harm-dr.-HM-Harm-Bartholomeus.htm)**: Remote Sensing, Soil Science, Physical Geography, Lidar, UVA image process.
 
 # Belgium
 
