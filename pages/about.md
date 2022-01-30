@@ -11,7 +11,7 @@ This guide was launched in September 2019, and the latest update time is Septemb
 
 If you find this guide useful, please help us by sharing it and staring [our GitHub](https://github.com/GIS-Info/GIS-Info.github.io/)！
 
-**We thank [all authors](authors) who contributed to his guide！**
+**We thank [all authors](pages/authors) who contributed to his guide！**
 
 This guide will be frequently updated in the future. We hope more people can join us to develop and maintain this project. We are not able to include all GIS-related graduate programs in this guide for various reasons. Please refer to [AAG Geography Program](http://www.aag.org/guide) for more information about other programs in North America. Please feel free to leave a message in [this GitHub issue](https://github.com/GIS-Info/GIS-Info.github.io/issues) if you find any errors or have any suggestions.
 
