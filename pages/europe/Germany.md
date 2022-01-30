@@ -260,7 +260,7 @@ Founded in 1386, the University of Heidelberg is the oldest university in German
 - **[Bernhard Höfle](https://www.geog.uni-heidelberg.de/gis/hoefle.html)**: geographic 3D/4D point cloud analysis, geoprocessing algorithms for GIS, virtual laser scanning - liDAR simulation, 3D crowdsourcing and 3D micro-mapping, radiometric calibration of LiDAR data;
 - **[Anna Growe](https://www.geog.uni-heidelberg.de/regov/growe.html)**: regional governance, spatial development in the knowledge society.
 
-###University of Cologne
+### University of Cologne
 **Uni-Koeln**
 
 Cologne, North Rhine-Westphalia, Germany
