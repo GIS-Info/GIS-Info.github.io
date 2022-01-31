@@ -1,7 +1,7 @@
 
-# England, UK
+## England, UK
 
-#### University College London (UCL)
+### University College London (UCL)
 
 London, England
 
@@ -27,7 +27,7 @@ Professors:
 
 ​
 
-#### University of Leeds
+### University of Leeds
 
 Leeds, West Yorkshire, England
 
@@ -50,7 +50,7 @@ Professors:
 
 
 
-#### University of Southampton
+### University of Southampton
 
 Southampton, Hampshire, England
 
@@ -80,7 +80,7 @@ Professors：
 - [Booker Ogutu](https://www.southampton.ac.uk/geography/about/staff/boo1c14.page): remote sensing of terrestrial ecosystems, land cover and land use change, impacts of climate change on terrestrial ecosystems;
 - [Suzanne Reimer](https://www.southampton.ac.uk/geography/about/staff/sr.page?): economic geography, feminist geography, cultural economy.
 
-#### University of Manchester
+### University of Manchester
 
 Manchester, Lancashire, England 
 
@@ -100,7 +100,7 @@ Professors: 
 - [Jaco Renken](https://www.research.manchester.ac.uk/portal/jaco.renken.html): The role of key individuals, champions and leaders in socio-economic development; The interaction between ICTs and society, particularly in developing country contexts; Big and open data and its implications for socio-economic development; Metric-based research approaches and the use of ICTs in Development Informatics research.
 
 
-#### Newcastle University
+### Newcastle University
 
 Newcastle upon Tyne, Tyne and Wear, England
 
@@ -128,7 +128,7 @@ The Department of Architecture, Planning and Landscape at the University of Newc
 
 
 
-#### The University of Sheffield
+### The University of Sheffield
 
 Sheffield, South Yorkshire, England
 
@@ -146,7 +146,7 @@ Professors:
 
 
 
-#### King's College London
+### King's College London
 
 London, England
 
@@ -169,7 +169,7 @@ Professors:
 
 
 
-#### University of Birmingham
+### University of Birmingham
 
 Birmingham, West Midlands, England
 
@@ -184,7 +184,7 @@ Professors:
 
 
 
-#### Lancaster University
+### Lancaster University
 
 Lancaster, Lancashire, England
 
@@ -202,7 +202,7 @@ Professors:
 
 
 
-#### University of Liverpool
+### University of Liverpool
 
 Liverpool, Merseyside, England
 
@@ -224,7 +224,7 @@ Professors:
 
 
 
-#### University of Nottingham
+### University of Nottingham
 
 Nottingham, Nottinghamshire, England
 
@@ -242,7 +242,7 @@ Professors:
 - [Franziska Schrodt](https://www.nottingham.ac.uk/geography/people/franziska.schrodt1): plant functional traits, macroecology, species distribution modeling, ecosystem functioning, global change, Remote Sensing of Vegetation, Machine Learning, Bayesian Statistics.
 
 
-#### London School of Economics and Political Science (LSE)
+### London School of Economics and Political Science (LSE)
 
 London, England
 
@@ -252,7 +252,7 @@ The London School of Economics and Political Science offers the MSc Geographic D
 
 
 
-#### University of Bristol
+### University of Bristol
 
 Bristol, Bristol County, United Kingdom
 
@@ -273,7 +273,7 @@ Professors:
 - [Emmanouil Tranos](https://research-information.bris.ac.uk/en/persons/emmanouil-tranos): quantitative human geography.
 
 
-#### University of Warwick
+### University of Warwick
 
 Coventry, West Midlands, England
 
@@ -291,7 +291,7 @@ Professors:
 
 
 
-#### University of Portsmouth
+### University of Portsmouth
 
 England, Hampshire, Portsmouth
 
@@ -301,10 +301,10 @@ The University of Portsmouth's Department of Geography and Environmental Science
 
 ​
 
-# Wales, UK
+## Wales, UK
 
 
-#### Aberystwyth University
+### Aberystwyth University
 
 Aberystwyth, Duffield, Wales
 
@@ -320,9 +320,9 @@ Professors:
 - [Jesse Heley](https://www.aber.ac.uk/en/dges/staff-profiles/listing/profile/eyh/): rural development, economic geography, spatial planning.
 
 
-# Scotland, UK
+## Scotland, UK
 
-#### University of Glasgow
+### University of Glasgow
 
 Glasgow, Scotland
 
@@ -347,7 +347,7 @@ Professors:
 ​
 
 
-#### The University of Edinburgh
+### The University of Edinburgh
 
 Edinburgh, Scotland
 
@@ -384,7 +384,7 @@ Professors:
 
 ​
 
-#### University of Aberdeen
+### University of Aberdeen
 
 Aberdeen, Scotland
 
@@ -393,10 +393,10 @@ Unit:  [Department of Geography and Environment](https://www.abdn.ac.uk/geoscien
 The University of Aberdeen offers the MSc Geographical Information Systems degree program, which is a one-year or two-year class-based master's degree. Core courses include geographic modeling, remote sensing image processing, GIS programming, mobile GIS, web GIS, field data collection, spatial databases, GPS, and cartography. The rest of the program is more flexible, allowing for elective courses to be arranged according to the student's background, interests and career plans.
 ​
 
-# Ireland
+## Ireland
 
 
-#### University College Dublin (UCD)
+### University College Dublin (UCD)
 
 Dublin, Ireland
 
@@ -411,7 +411,7 @@ Professors:
 
 
 
-#### Maynooth University (MU)
+### Maynooth University (MU)
 
 Maynooth, Ireland
 

@@ -1,4 +1,6 @@
-#### Université Paris-Est Marne-la-Vallée
+## France
+
+### Université Paris-Est Marne-la-Vallée
 
 Champs-sur-Marne (suburb of Paris), Ile-de-France, France
 
@@ -28,7 +30,7 @@ Labs：
 - **[COGIT](https://www.ensg.eu/COGIT-Laboratory)**: GIS, geographic data science, spatial analysis, vectorized datum;
 - **[LIF](https://www.ensg.eu/LIF-laboratory)**: forestry, geostatistics.
 
-#### Université Bourgogne Franche Comté
+### Université Bourgogne Franche Comté
 
 **Université Bourgogne Franche Comté (UBFC)**
 

@@ -1,3 +1,5 @@
+## Estonia
+
 ### University of Tartu
 
 Tartu, Estonia
@@ -25,6 +27,9 @@ Professors:
 - **[Urmas Raudsepp](https://taltech.ee/kontaktid/modelleerimise-ja-kaugseire-osakond/urmas-raudsepp)**: remote sensing, modeling, oceanic system;
 - **[Aarne Mannik](https://taltech.ee/kontaktid/modelleerimise-ja-kaugseire-osakond/aarne-mannik)**： remote sensing, oceanic system, oceanography.
 
+
+## Latvia
+
 ### University of Latvia
 
 Riga, Latvia
@@ -33,6 +38,7 @@ Unit: [Institute of Geodesy and Geoinformatics](https://www.lu.lv/en/about-us/st
 
 The  Institute of Geodesy and Geoinformatics (IGG) at the University of Latvia is the largest and the oldest geoinformatics institute in the Baltic region. It currently awards bachelor, master, and doctorate degrees. Among them, the major of the master's program is spatial development and planning, and the main subjects are social psychology of planning, spatial planning, geographic information system, strategy and project management, and environmental science. This is a 2-year program. In addition, the Department of Geography at this university also operates traditional master's programs in physical geography and human geography, as well as doctoral programs in geography.
 
+## Lithuania
 
 ### Kaunas University of Technology
 

@@ -1,3 +1,5 @@
+## Czech Republic
+
 ### Charles University
 
 Prague, Czech Republic
@@ -36,6 +38,7 @@ Professors:
 - **[Jakub Miřijovský](http://www.geoinformatics.upol.cz/en/member/jakub_mirijovsky)**:  Remote sensing, GNSS, Photogrammetry, Surveying;
 - **[Vít Pászto](http://www.geoinformatics.upol.cz/en/member/vit_paszto)**:  Geoinformatics in Human Geography, GIS-based geography, Modelling in GIS, Spatial Information and its Measurement, Rural Geography.
 
+## Hungary
 
 ### Eötvös Loránd University
 

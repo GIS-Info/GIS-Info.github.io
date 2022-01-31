@@ -1,3 +1,5 @@
+## Malaysia
+
 ### University of Science Malaysia
 
 Gelugor, Penang, Malaysia
@@ -26,6 +28,8 @@ Professors:
 - **[Zulkepli bin Majid](http://people.utm.my/zulkeplimajid/)**: remote sensing, 3D modeling;
 - **[Nurul Hazrina binti Idris](http://people.utm.my/nurulhazrina)**: climate change, marine remote sensing;
 - **[Muhammad Zulkarnain Abd Rahman](https://builtsurvey.utm.my/geoinfo-staff/)**: remote sensing, natural hazard, risk assessment.
+
+## Thailand
 
 ### Asian Institute of Technology
 

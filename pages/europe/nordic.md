@@ -1,4 +1,4 @@
-# Norway
+## Norway
 
 ### University of Oslo
 
@@ -44,7 +44,7 @@ Professors:
 - **[Erling Moxnes](https://www.uib.no/en/persons/Erling.Moxnes)**: System dynamics, Modeling, Natural resources, Economics;
 - **[Birgit Kopainsky](https://www.uib.no/en/persons/Birgit.Kopainsky)**: System dynamics modeling, Food security, Sustainable Development, Adaptation to climate change.
 
-# Denmark
+## Denmark
 
 ### University of Copenhagen
 
@@ -89,7 +89,7 @@ Professors：
 - **[Jan Kloster Staunstrup](https://vbn.aau.dk/en/persons/110412)**: GIS, Spatial Statistics, Geoinformatics, Sociology and Social conditions, Urban development and Urbanization;
 - **[Henning Sten Hansen](https://vbn.aau.dk/en/persons/109186)**: Urban development, Spatial Analysis, Sustainable Development, Climate Change, Land use Planning, Environment, Sustainability, Satellite image Processing.
 
-# Finland
+## Finland
 
 ### University of Helsinki
 
@@ -139,7 +139,7 @@ Professors:
 - **[Nora Fagerholm](https://www.utu.fi/en/people/nora-fagerholm)**: Landscape Research, Participatory GIS (PGIS), Ecosystem services;
 - **[Jukka Käyhkö](https://www.utu.fi/en/people/jukka-kayhko)**: Climatology, Urban climates, Geomorphology, Global change, Remote sensing.
 
-# Sweden
+## Sweden
 
 ### Lund University
 

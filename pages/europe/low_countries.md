@@ -1,4 +1,4 @@
-# Netherlands
+## Netherlands
 
 ### Utrecht University
 
@@ -201,7 +201,7 @@ Professors:
 - **[Judith Verstegen](https://www.wur.nl/en/Persons/Judith-dr.-JA-Judith-Verstegen.htm)**: Geoinformatics, Geosimulation, Spatial Optimization, Human-Environment Interaction, Agent-Based Modelling;
 - **[Harm Bartholomeus](https://www.wur.nl/en/Persons/Harm-dr.-HM-Harm-Bartholomeus.htm)**: Remote Sensing, Soil Science, Physical Geography, Lidar, UVA image process.
 
-# Belgium
+## Belgium
 
 ### Catholic University of Leuven (KU Leuven)
 
@@ -276,7 +276,7 @@ Professors:
 - **[Haosheng Huang](http://www.geografie.ugent.be/members/802003272572)**: Geographic Informaiton Science (GIScience), Cartography, Location Based Services (LBS), Spatial Cognition, Urban Informatics;
 - **[Nico Van de Weghe](http://www.geografie.ugent.be/members/801001472437)**: Geographic Informaiton Science (GIScience), Location Based Services (LBS), Moving Objects and Research.
 
-# Luxembourg
+## Luxembourg
 
 ### University of Luxembourg
 

@@ -1,4 +1,6 @@
-## University of Hong Kong
+
+## Hong Kong SAR, China
+### University of Hong Kong
 
 Hong Kong Island, Hong Kong, China
 
@@ -53,7 +55,7 @@ REAL ESTATE AND CONSTRUCTION：
 
 - **[XUE, Fan](https://frankxue.com/)**: urban computing, urban sensing, urban semantics in 3D point clouds, machine learning, optimization algorithm, BIM, GIS, IoT.
 
-## City University of Hong Kong
+### City University of Hong Kong
 
 Kowloon, Hong Kong, China
 
@@ -69,7 +71,7 @@ Adivicers：
 - **[LO, S. M.](http://bccw.cityu.edu.hk/main/wp_staff_view.asp?people_number=1184)**: spatial planning for pedestrian movement and evacuation modeling, urban and land use planning, building development, construction management and fire safety engineering;
 
 
-## The Hong Kong University of Science and Technology
+### The Hong Kong University of Science and Technology
 
 Kowloon, Hong Kong, China
 
@@ -88,7 +90,7 @@ Adivicers：
 
 
 
-## The Chinese University of Hong Kong (CUHK)
+### The Chinese University of Hong Kong (CUHK)
 
 Shatin, NT, Hong Kong SAR, The People's Republic of China
 
@@ -119,7 +121,7 @@ Adivicers：
 - **[XU Jiang](https://www.grm.cuhk.edu.hk/eng/people/ppl/fac_XuJiang.html)**: State spaces and politics of scale; Intercity railway planning in China's mega-city regions; Environmental elements in China's urban planning system; Urban and regional development/governance in China; Urban planning, urban land use and spatial transformation; Pearl River Delta Studies.
 - **[WONG Kwan Kit, Frankie]( https://www.grm.cuhk.edu.hk/eng/people/ppl/fac_WongFrankie.html)**: Digital image analysis; Vegetation classification and mapping; Spatial modeling.
 
-## The Hong Kong Polytechnic University (PolyU)
+### The Hong Kong Polytechnic University (PolyU)
 
 Hung Hom, Kowloon, Hong Kong
 
@@ -139,7 +141,7 @@ Advicers：
 - **[ZHU, Xiao-lin](http://www.lsgi.polyu.edu.hk/people/academic/zhu-xiao-lin/index.asp)**: remote sensing and geospatial analysis, with focusing on missing data reconstruction, spatiotemporal data fusion, classification, change detection, land surface information retrieval, and applications of Geoscience in urban and ecological studies;
 - **[JIA, Peng](https://scholar.google.com/citations?user=eR1sDXYAAAAJ&hl=en)**: Spatial lifecourse epidemiology, health geography, obesity, health cares, spatial technology.
 
-## Hong Kong Baptist University (HKBU)
+### Hong Kong Baptist University (HKBU)
 
 Hong Kong, China
 

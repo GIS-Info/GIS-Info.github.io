@@ -1,3 +1,5 @@
+## Chile
+
 ### Pontifical Catholic University of Chile
 
 Santiago, Metropolitan Region, Chile
@@ -30,6 +32,7 @@ Professors:
 - **[Alexis Vasquez Fuentes](https://www.uchile.cl/portafolio-academico/perfilAcademico.jsf?username=alexvasq)**: GIS, environmental planning, environmental justice.
 
 
+## Peru
 
 ### National University of San Marcos
 
@@ -39,6 +42,7 @@ Unit: [Department of Geography](https://www.unmsm.edu.pe/formacion-academica/car
 
 Founded in 1551, the National University of San Marcos (Universidad Nacional Mayor de San Marcos) is the oldest university in North and South Americas, and it is also currently the most reputable university in Peru. Its Department of Geography offers a master's degree in geography, with a concentration in terrestrial planning and land use management. Its training content focuses on human geography and geographic information science, and it especially helps students develop a skillset that can analyze and explain the variations in the geographic space. The duration of the project is 4 semesters (2 years).
 
+## Uruguay
 
 ### University of the Republic Uruguay
 
@@ -47,6 +51,8 @@ Montevideo, Uruguay
 Unit: [Faculty of Engineering](https://www.fing.edu.uy/) and [Institute of Surveying](https://www.fing.edu.uy/ia/)
 
 The University of the Republic Uruguay is the oldest university in Uruguay and one of the largest public universities in South America. Its Faculty of Engineering offers undergraduate and postgraduate courses in surveying and geodesy. The postgraduate program is part of the [Permanent Education Program](https://udelar.edu.uy/eduper/) of the university (hint: these courses might not be recognized as an ordinary master's degree in other countries). It trains experts in land surveying and land valuation techniques. The core teaching content includes urban and land planning, geophysics, geodesy, and cartography. Application areas include civil engineering, underwater soil survey, reservoir design, coal and quarry management, roads and sanitation, dam construction and control, and forestry investigation, etc.
+
+## Argentina
 
 ### University of Buenos Aires
 

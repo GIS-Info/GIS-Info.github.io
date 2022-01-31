@@ -1,3 +1,5 @@
+## Australia
+
 ### University of Tasmania
 
 Hobart, Tasmania, Australia
@@ -106,6 +108,8 @@ Toowoomba, Queensland, Australia
 Unit: [Surveying and Built Environment](https://usq.edu.au/study/degrees/surveying-and-built-environment)
 
 The University of Southern Queensland (USQ) is one of the universities with the highest average starting salary for graduates in Australia. Its surveying and built environment department offers a master of science program in spatial science and technology, including GIS and surveying options. This is a course-based master's degree program, which lasts for 2 years and requires the completion of 16 courses, of which 8 are core specialization courses, 2 are electives, and 6 are research courses. The enrollment times for international students are February or July each year. Entrance requirements include having a bachelor's degree in a geography-related field and meeting the English proficiency requirements: an IELTS score of 6.5 or above (not less than 6 in each subject) or a TOEFL score of 90 or more (not less than 20 in each subject).
+
+## New Zealand
 
 ### University of Canterbury
 
