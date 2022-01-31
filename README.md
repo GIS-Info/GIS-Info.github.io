@@ -24,11 +24,9 @@ Chinese Version: [www.gisphere.net](https://www.gisphere.net/)
 
 ## Europe
 
-[Austria](https://gisphere.github.io/pages/europe/Austria.html)
+[Austria, Czech Republic and Hungary](https://gisphere.github.io/pages/europe/Austria_Czech_Hungary.html)
 
 [Baltic States](https://gisphere.github.io/pages/europe/Baltic.html)
-
-[Czech and Hungary](https://gisphere.github.io/pages/europe/Czech_Hungary.html)
 
 [France](https://gisphere.github.io/pages/europe/france.html)
 
@@ -50,7 +48,7 @@ Chinese Version: [www.gisphere.net](https://www.gisphere.net/)
 
 [UK and Ireland](https://gisphere.github.io/pages/europe/UK-Ireland.html)
 
-## Asia and Oceania
+## Asia-Pacific
 
 [Hong Kong SAR, China](https://gisphere.github.io/pages/asia/HongKong.html)
 
@@ -58,11 +56,9 @@ Chinese Version: [www.gisphere.net](https://www.gisphere.net/)
 
 [Korea](https://gisphere.github.io/pages/asia/Korea.html)
 
-[Singapore](https://gisphere.github.io/pages/asia/Singapore.html)
+[Southeast Asia](https://gisphere.github.io/pages/asia/SE_Asia.html)
 
-[Thailand and Malaysia](https://gisphere.github.io/pages/asia/Thailand_Malaysia.html)
-
-[Australia and New Zealand](https://gisphere.github.io/pages/asia/Australia_NewZealand.html)
+[Oceania](https://gisphere.github.io/pages/asia/Australia_NewZealand.html)
 
 ## South America
 
