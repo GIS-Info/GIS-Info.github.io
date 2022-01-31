@@ -1,5 +1,5 @@
 # GISphere Guide
-**(updated at Nov. 2022)**
+**(updated at Nov. 2021)**
 
 English Version: [gisphere.github.io](https://gisphere.github.io/)
 
