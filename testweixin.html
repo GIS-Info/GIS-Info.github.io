@@ -1,136 +1,34 @@
 <html>
-
+<head>
+<!-- <script src="test.js"></script> -->
 <script>
-  let timer = null;
-  const website = 'https://mp.weixin.qq.com/mp/homepage?__biz=Mzg3OTUyMjk3OQ==&hid=1&sn=81e43601cda8700ceaa7ce83ef5bc5d2&scene=18';
-  const imgPrefix = 'https://images.weserv.nl/?url='; // 绕过微信公众号图片的防盗链，如果是加载gif，需要加上参数&output=gif&n=-1，必须加上n=-1，不然不生效
+  function getUrl(URL) {
+              let http = (window.location.protocol === ‘http:‘ ? ‘http:‘ : ‘https:‘);
+              let realurl = http + ‘cors-anywhere.herokuapp.com/‘ + URL;
+              axios.get(realurl).then((response) => {
+                  let html = response.data;
+                  html = html.replace(/data-src/g, "src")
+                      .replace(/<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/g, ‘‘)
+                      .replace(/https/g, ‘http‘);
+                  let html_src = html;
+                  let iframe = document.getElementById(‘iFrame‘);
+                  iframe.src = html_src;
+                  var doc = iframe.contentDocument || iframe.document;
+                  doc.write(html_src);
+                  doc.getElementById("js_content").style.visibility = "visible";
 
-  // ...
-  _getWeixinNews() {
-    this.$client.showLoading();
-    axios.get(process.env.VUE_APP_CORS_ANYWHERE_API_URL + '/' + website).then(res => {
-      // 处理DOMString
-      let data = res.data
-      // data-src是图片的预加载机制，visible是返回后默认是hidden
-      data = data.replace(/data-src/gi, 'src').replace(/hidden/gi, 'visible');
-      // 在img前面加上反倒链的请求链接
-      data = data.replace(/<img [^>]*src=['"]([^'"]+)[^>]*>/gi, (match, capture) => {
-        // gif必须加上额外参数
-        if (match.indexOf('data-type="gif"') !== -1) {
-          return match.replace(capture, imgPrefix + capture + '&output=gif&n=-1')
-        } else {
-          return match.replace(capture, imgPrefix + capture)
-        }
-      });
-      // 将DOMString转换为DOM，以便操作DOM
-      const wx_dom = document.createElement('div');
-      wx_dom.innerHTML = data;
-      // 删除加载失败的二维码，要想加载成功需要代理地址
-      const qrcode = wx_dom.querySelector('#js_pc_qr_code');
-      qrcode && qrcode.parentNode.removeChild(qrcode);
-      // 删除再看人数，功能不能正常执行
-      const watching = wx_dom.querySelector('#js_like_btn');
-      watching && watching.parentNode.removeChild(watching);
-      // 删除点击外链的时候会出现的弹框
-      const js_link_dialog = wx_dom.querySelector('#js_link_dialog');
-      js_link_dialog && js_link_dialog.parentNode.removeChild(js_link_dialog);
-      // 处理微信的视频iframe
-      const videoElList = Array.from(wx_dom.querySelectorAll('.video_iframe.rich_pages'));
-      const _videoInfoList = videoElList.map((el, index) => {
-        // 有一些视频是外链，vidtype是1，例如https://mp.weixin.qq.com/s/sMzUXCsPUH1PvtiK3BDU8w，是没有el.dataset.mpvid的，这时候请求会返回的url_info是一个空数组
-        // 微信本身的视频的vidtype是为2
-        return {
-          index,
-          container: el.parentNode,
-          mpvid: el.dataset.mpvid, // 微信视频的id
-          cover: imgPrefix + decodeURIComponent(el.dataset.cover), // 封面
-          requestUrl: `http://mp.weixin.qq.com/mp/videoplayer?action=get_mp_video_play_url&preview=0&__biz=&mid=&idx=&vid=${el.dataset.mpvid}&uin=&key=&pass_ticket=&wxtoken=&appmsg_token=&x5=0&f=json` // 请求视频真实地址的请求
-        }
-      });
-      const requestVideoInfoPromiseList = _videoInfoList.map(item => {
-        if (item.mpvid) {
-          return axios.get(process.env.VUE_APP_CORS_ANYWHERE_API_URL + '/' + item.requestUrl);
-        } else {
-          return Promise.resolve({ data: null });
-        }
-      });
-      // 渲染函数，在最后一步执行
-      const next = () => {
-        // 必须使用iframe的write进行写入资源，否则script不会运行，一些微信引用的外链视频就会无法执行
-        const container = document.getElementById('wx_iframe');
-        container.contentWindow.document.write(wx_dom.innerHTML);
-        // iframe无法冒泡出去
-        container.contentWindow.document.addEventListener('click', this.handleUnActiveMobileEdit);
-        // 处理点击a标签外链链接跳转
-        console.log('------- a_link inject -------');
-        const aList = Array.from(container.contentWindow.document.querySelectorAll('a'));
-        const aLinkList = [];
-        for (const aItem of aList) {
-          if (aItem.getAttribute('tab') === 'outerlink' && aItem.href) {
-            // pc监听，必须使用捕获
-            aItem.addEventListener('click', (e) => {
-              e.preventDefault();
-              e.stopImmediatePropagation();
-              window.open(aItem.href);
-            }, true);
-            // 移动端监听，必须使用捕获
-            aItem.addEventListener('touchend', (e) => {
-              e.preventDefault();
-              e.stopImmediatePropagation();
-              window.open(aItem.href);
-            }, true);
-            aLinkList.push(aItem);
+              }, (err) => {
+                  console.log(err);
+              });
           }
-        }
-        console.log(aLinkList);
-        // 处理微信的page_share_img模式，由于body的class是通过js生成的，会导致部分样式不生效，需要手动添加
-        const body = container.contentWindow.document.documentElement || container.contentWindow.document.body;
-        body && addClass(body, 'page_share_img');
-        // 持续监听iframe的高度，由于图片显示的关系，高度会一直变化
-        timer = setInterval(() => {
-          if (container.contentWindow) {
-            // 使用内容的高度作为iframe的高度，以达到自适应的效果
-            const inner = container.contentWindow.document.querySelector('#js_article');
-            container.style.height = inner.scrollHeight + 'px';
-          }
-        }, 1000);
-        this.$client.hideLoading();
-      }
-      // 获取微信video真实播放地址
-      Promise.all(requestVideoInfoPromiseList).then(arr => {
-        console.log('------- wx_video inject -------');
-        const videoInfoList = _videoInfoList.map((item, index) => {
-          return {
-            ...item,
-            videoUrl: (arr[index].data && arr[index].data.url_info && arr[index].data.url_info[0]) ? arr[index].data.url_info[0].url : ''
-          }
-        });
-        for (const item of videoInfoList) {
-          if (!item.videoUrl) {
-            continue;
-          }
-          // 安卓微信X5内核浏览器，假如有poster无法显示，video标签加上x5-video-player-type="h5"试试
-          item.container.innerHTML = `
-            <div>
-              <video src="${item.videoUrl}" width="100%" style="object-fit: contain;" poster="${item.cover}" controls="controls"></video>
-            </div>
-          `;
-        }
-        console.log(videoInfoList);
-        next();
-      }).catch((err) => {
-        this.$client.error({ message: err.message });
-        next();
-      });
-    }).catch((err) => {
-      this.$client.error({ message: err.message });
-      this.$client.hideLoading();
-    })
-  }
+          //调用getUrl方法，url为微信公众号文章链接
+          var url = "https://mp.weixin.qq.com/mp/homepage?__biz=Mzg3OTUyMjk3OQ==&hid=1&sn=81e43601cda8700ceaa7ce83ef5bc5d2&scene=18";
+          getUrl(url);
 </script>
+</head>
 
 <body>
-  <iframe id="wx_iframe" frameborder="0" scrolling="no"></iframe>
+  <iframe id="iFrame" width="100%"></iframe>
 </body>
 
 </html>
