@@ -1,6 +1,8 @@
 ## Authors
 
-This project is supported by a group of Chinese scholars who have studied or worked in GIS-related departments around the world. We want to say thank you to all of those who provided school information and/or worked on managing this project as volunteers.
+This project is supported by a group of scholars who have studied or worked in GIS-related departments around the world. We want to say thank you to all of those who provided school information and/or worked on managing this project as volunteers.
+
+Please feel free to leave a message in [this GitHub issue](https://github.com/gisphere/gisphere.github.io) if you find any errors or have any suggestions. We welcome more volunteers to join this project to help maintain and develop the guide. Please feel free to contact us via [gisphere@outlook.com](mailto:gisphere@outlook.com).
 
 Below is the list of those who provided information about schools and programs. Some anonymous authors are not listed. Following the Chinese tradition, surname is written in front of the given name.
 
@@ -8,5 +10,4 @@ An Yunqi, Cao Weichen, Cao Yanjia, Chen Huanfa, Chen Long, Chen Xi, Chen Yikuan,
 
 
 Below are those who helped us maintain this project:
-
-Dai Shaoqing, Duan Chenxi, Huang Xinke, Kang Yuhao, Li Haochen, Li Xiao, Liu Haokun, Liu Yuyan, Rao Jinmeng, Ren Zexi, Tong Xinyi, Ye Shan, Ye Xiang, Yue Yuandian, Zhang Jingrui, Zhang Jinyuan, Zhu Chunwu
+Kang Yuhao, Ye Shan, Liu Haokun, Zhang Jingyuan, Dai Shaoqing, Duan Chenxi, Huang Xinke, Li Haochen, Li Xiao, Liu Yuyan, Rao Jinmeng, Ren Zexi, Tong Xinyi, Ye Xiang, Yue Yuandian, Zhang Jingrui, Zhu Chunwu
