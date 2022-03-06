@@ -26,8 +26,8 @@ The Department of Geography at Clark is one of the departments to grant graduate
 
 Professors:
 
-- **[J. Ronald Eastman](https://www2.clarku.edu/faculty/facultybio.cfm?id=61)**: GIS, earth system informatics, conservation GIS, remote sensing, and cartography;
 - **[John Rogan](https://www2.clarku.edu/faculty/facultybio.cfm?id=460)**: landscape ecology, fire ecology, optical remote sensing and GIScience;
+- **[Robert Gilmore Pontius Jr.](http://www2.clarku.edu/faculty/facultybio.cfm?id=104)**: land change, modeling, statistics;
 - **[Florencia Sangermano](https://www2.clarku.edu/faculty/facultybio.cfm?id=896&progid=15)**: conservation biology, GIS, remote sensing and landscape ecology.
 
 ### University of North Carolina, Chapel Hill
