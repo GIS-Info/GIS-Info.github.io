@@ -16,7 +16,7 @@ Professors:
 
 ### Tallinn University of Technology
 
-Tallinn, Estonia
+Tallinn, Estonia 
 
 Unit: [Institute of Oceanic Systems](https://taltech.ee/meresusteemide-instituut/uurimisgrupid#p22230)
 
