@@ -174,7 +174,7 @@ The Center for Spatial Information Science (CSIS) at the University of Tokyo off
 
 Professors:
 - **[Takashi Oguchi(大口隆)](http://www.csis.u-tokyo.ac.jp/english/members/oguchi.html)**: Physical Geography, Geomorphology, Geology, GIS;
-- **[Shibasaki Ryosuke (柴岐凉介)](http://www.earth.s.chiba-u.ac.jp/english/education/education02/staff24.html)**: Development of Sensor systems and Algorithms for Automated Spatial Data Acquisition, Reconstruction of Spatio-Temporal Changes, Spatial Agent Models;
+- **[Shibasaki Ryosuke (柴岐凉介)](http://shiba.iis.u-tokyo.ac.jp/)**: Development of Sensor systems and Algorithms for Automated Spatial Data Acquisition, Reconstruction of Spatio-Temporal Changes, Spatial Agent Models;
 - **[Takaaki Takahashi (高桥孝明)](http://www.csis.u-tokyo.ac.jp/english/members/ttakahashi.html)**: Urban and Regional Economics, Economic Geography, Spatial Economics;
 - **[Yukio Sadahiro (贞弘由纪夫)](http://www.csis.u-tokyo.ac.jp/english/members/sadahiro.html)**: GIS, Spatial Analysis, Analysis of Human-Environment System, Facility Location and Route Planning;
 - **[Yasushi Asami (浅见泰司)](http://ua.t.u-tokyo.ac.jp/yasami/asami-j.html)**: Urban Housing Theory, Urban Planning & Analysis, Residential Environment, GIS;
