@@ -89,7 +89,7 @@ Professors and Researchers：
 - **[Grégoire Mariéthoz](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=34402&LanCode=37)**: Remote Sensing, Earth Surface Processes, Geostatistics, Hydroclimatology;
 - **[Antoine Guisan](https://www.unil.ch/dee/en/home/menuinst/people/group-leaders/prof-antoine-guisan.html)**: Spatial Ecology, Habitat Suitability and Distribution Modeling, Species Diversity, Natural Resource Management.
 
-### 伯尔尼大学
+### University of Bern
 
 **Universität Bern (University of Bern, UNIBE)**
 
