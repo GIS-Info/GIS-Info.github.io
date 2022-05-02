@@ -359,7 +359,7 @@ Unit: [Department of Geography](https://www.maxwell.syr.edu/geography-and-the-en
 
 The geography department at Syracuse University is affiliated to Maxwell School of Citizenship and Public Affairs, and most of its research topics are in human geography. Professors in physical geography are not common in this department, and the courses offered in the department are mostly in human geography, too. The class size is very small, mostly of about 10 students. The annual enrollment is about 5 students, masters and doctors combined (among them, 1-2 students are in physical geography and GIS).
 
-相关导师:
+Professors:
 
 - **[Peng Gao](http://pegao.expressions.syr.edu/)**: erosion and sediment transport in rivers and watersheds, 3D GIS design and analysis for urban environments;
 - **[Jane read](https://www.maxwell.syr.edu/geo/read,_Jane_M_/)**: Geographic information systems and remote sensing, human-environment interactions, geohumanities, indigenous livelihoods, Latin America;
