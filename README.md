@@ -1,5 +1,5 @@
 # GISphere Guide
-**(updated at Feb. 2022)**
+**(updated at April. 2022)**
 
 English Version (GitHub): [gisphere.github.io](https://gisphere.github.io/)
 
@@ -10,11 +10,11 @@ Contact: [gisphere@outlook.com](mailto:gisphere@outlook.com)
 
 ## About
 
-This guide was launched in September 2019, and the latest update time is Feb 2022. We aim to provide timely and comprehensive information of global graduate-level programs in geographic information sciences (GIS). Authors of this guide are from GIS-related programs, being either current graduate students, recent alumni, or young faculty. We mainly provide first-hand information about GIS-related programs and potential supervisors. We hope this guide can help those who are seeking graduate school opportunities in GIS.
+This guide was launched in September 2019, and the latest update time is April 2022. We aim to provide timely and comprehensive information of global graduate-level programs in geographic information sciences (GIS)-related fields (e.g., remote sensing, urban studies, ecology). Authors of this guide are from GIS-related programs, being either current graduate students, recent alumni, or young faculties. We mainly provide first-hand information about GIS-related programs and potential supervisors. We hope this guide can help those who are seeking graduate school opportunities in GIS.
 
-GISphere is a voluntary project started by a group of Chinese young scholars who study GIScience worldwide. GISphere is devoted to bridging the digital and information gap for students who are in geography-related majors and help them to access the most up-to-date information on M.S./Ph.D. opportunities, funding availabilities, webinars, and competitions globally. Our Chinese version website ([www.gisphere.net](https://www.gisphere.net/)) has achieved great success in China. We have published over 100 blogs with the support of more than 100 volunteers. More than 5,000 students and teachers have been benefited from our community. We hope the English version website can help more students for applying GIS-related programs around the world.
+GISphere guide is one key product of the GISphere project. GISphere is a voluntary project started by a group of Chinese young scholars who study GIScience worldwide. GISphere is devoted to bridging the digital and information gap for students who are in geography-related majors and help them to access the most up-to-date information on M.S./Ph.D. opportunities, funding availabilities, webinars, and competitions globally. Our Chinese version website ([www.gisphere.net](https://www.gisphere.net/)) has achieved great success in China. We have published over 150 blogs with the support of more than 200 volunteers. More than 5,000 students and teachers have been benefited from our community. We hope the English version website can help more students for applying GIS-related programs (e.g., remote sensing, urban studies, other directions in geography) around the world.
 
-Due to the time constraint, there might be some incorrect information. We welcome all kinds of corrections, suggestions, and feedback. Please feel free to leave a message on our [GitHub project](https://github.com/gisphere/gisphere.github.io) or send an email to [gisphere@outlook.com](mailto:gisphere@outlook.com).
+Due to the time constraint, there might be some typo in this guide. We welcome all kinds of corrections, suggestions, and feedback. Please feel free to leave a message on our [GitHub project](https://github.com/gisphere/gisphere.github.io) or send an email to [gisphere@outlook.com](mailto:gisphere@outlook.com).
 We would appreciate it if you could star, share, and disseminate this project!
 
 **We thank [all authors](pages/authors) who contributed to his guide！**
@@ -24,8 +24,6 @@ Please feel free to contact us at [gisphere@outlook.com](mailto:gisphere@outlook
 For a more comprehensive information regarding GIS programs in North America, please refer to [AAG Geography Program](http://www.aag.org/guide) for more information.
 
 ## Copyright
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
