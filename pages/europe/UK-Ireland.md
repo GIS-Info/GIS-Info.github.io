@@ -5,9 +5,9 @@
 
 London, England
 
-Units: [CASA](https://www.ucl.ac.uk/bartlett/casa/)，[CEGE](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/) and [Department of Geography](https://www.geog.ucl.ac.uk/)
+Units: [Centre for Advanced Spatial Analysis (CASA)](https://www.ucl.ac.uk/bartlett/casa/)，[Civil, Environmental and Geomatic Engineering (CEGE)](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/) and [Department of Geography](https://www.geog.ucl.ac.uk/)
 
-There are three major units at UCL that operate GIS-related research, each with its own distinctive characteristics, covering all aspects of GIS theory and application. CASA focuses on urban studies, complex systems, visualization, and multi-intelligent systems, with several degree programs including the MSc in smart City and Urban Analytics, MSc in Spatial Data Science and Visualization, and MSc in Connected Environments (first intake in 2021). CEGE focuses on spatio-temporal data mining, geo-artificial intelligence, 3D GIS, navigation, BIM, with MSc in Geospatial Sciences (GIS and Computing), MSc in Spatial Data Science and Visualization, and MSc in Connected Environments (first intake in 2021). The MSc in Geospatial Sciences (GIS and Computing), MSc in Spatio-Temporal Analytics and Big data mining, etc. The Department of Geography focuses on demographics, consumer data analysis/spatial analysis, and remote sensing, and the GIS Master's program includes MSc in Social and Geographic Data Science, etc.
+There are three major units at UCL that operate GIS-related research, each with its own distinctive characteristics, covering all aspects of GIS theory and application. CASA focuses on urban studies, complex systems, visualization, and multi-intelligent systems, with several degree programs including the [MSc in Urban Spatial Science](https://www.ucl.ac.uk/bartlett/casa/study/msc-urban-spatial-science) (replaces the previous MSc programmes, Smart Cities and Urban Analytics and Spatial Data Science and Visualisation in 2022), [MRes in Urban Spatial Science](https://www.ucl.ac.uk/bartlett/casa/study/mres-urban-spatial-science) (replaces MRes in Spatial Data Science and Visualisation in 2022) and [MSc in Connected Environments](https://www.ucl.ac.uk/bartlett/casa/programmes/msc-connected-environments) (first intake in 2021). CEGE focuses on spatio-temporal data mining, geo-artificial intelligence, 3D GIS, navigation, BIM, with [MSc in Geospatial Sciences (GIS and Computing)]( https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/geospatial-sciences-geographic-information-science-and-computing-msc), [MSc in Spatio-Temporal Analytics and Big data mining]( https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/spatio-temporal-analytics-and-big-data-mining-msc), etc. The Department of Geography focuses on demographics, consumer data analysis/spatial analysis, and remote sensing, and the GIS Master's program includes [MSc in Social and Geographic Data Science](https://www.geog.ucl.ac.uk/study/graduate-taught/msc-social-and-geographic-data-science), etc.
 
 Professors:
 
@@ -22,7 +22,7 @@ Professors:
 - [Max Nathan](https://www.ucl.ac.uk/bartlett/casa/people/dr-max-nathan): economics of cultural diversity, innovation systems and clusters, public policy for cities (especially policy design and evaluation);
 - [Huanfa Chen](https://www.ucl.ac.uk/bartlett/casa/people/huanfa-chen): spatial optimisation, spatial data science, transportation behaviour modeling;
 - [Jonathan Reades](http://www.reades.com/): Smart cities and &#39;big data&#39;, location and infrastructure networks , new data, open data and &#39;old&#39; methods, housing and socio-economic trends;
-- [Chen Zhong](https://www.linkedin.com/in/chen-zhong-0590bb33/?originalSubdomain=uk): urban analytics, spatial analysis, transportaion.
+- [Chen Zhong](https://www.linkedin.com/in/chen-zhong-0590bb33/?originalSubdomain=uk): urban mobility, spatial analysis, transportaion and land use.
 
 
 ​
@@ -89,10 +89,9 @@ Unit: [SEED](https://www.seed.manchester.ac.uk/) 
 The Department of Geography at the University of Manchester is one of the top 10 geography departments in the UK (QS World University Rankings 2021) and the GIS programme at Masters level is taught on a one-year basis without a research project requirement. It focuses on theoretical knowledge and software skills in GIS and remote sensing, spatial data analysis in a variety of specialist areas, and a wide range of applications in GIS projects. [Courses](https://www.manchester.ac.uk/study/masters/courses/list/07053/msc-geographical-information-science/all-content/#course-profile)
 
 Professors: 
-
-- [Sarah Lindley](https://www.research.manchester.ac.uk/portal/en/researchers/sarah-lindley(776b25e7-0fea-4c46-9f53-eb86c150705e.html): urban green space; urban environmental characteristics in tropical cities; climate change and biodiversity;
-- [Angela Harris](https://www.research.manchester.ac.uk/portal/en/researchers/angela-harris(f1103ce3-8a6f-4780-a1f1-6396618a4f53.html): Remote Sensing; Ecology; Peatlands; Vegetation; 
-- [Jonny Huck](https://www.research.manchester.ac.uk/portal/en/researchers/jonny-huck(815ff89f-b2ac-4758-8e7a-e7b8d4ac32ce.html): mathematical geography; cartography; geography (General); GIS with healthcare and resource allocation; Global South; post-conflict societies;
+- [Sarah Lindley](https://www.research.manchester.ac.uk/portal/sarah.lindley.html): urban green space; urban environmental characteristics in tropical cities; climate change and biodiversity;
+- [Angela Harris](https://www.research.manchester.ac.uk/portal/angela.harris.html): Remote Sensing; Ecology; Peatlands; Vegetation; 
+- [Jonny Huck](https://www.research.manchester.ac.uk/portal/jonathan.huck.html): mathematical geography; cartography; geography (General); GIS with healthcare and resource allocation; Global South; post-conflict societies;
 - [Anna Hughes](https://www.research.manchester.ac.uk/portal/anna.l.c.hughes.html): glaciers, ice sheets; GIS, remote sensing; glacial geomorphology; palaeoglaciology; glaciology; 
 - [Gareth Clay](https://www.research.manchester.ac.uk/portal/gareth.clay.html): Organic soils ; prescribed fire &amp; wildfires in UK peatlands; charcoal production and degradation; perceptions of fire; Organic matter cycling through soils; Landscape restoration of ecosystems on St Helena, south Atlantic; Urban green infrastructure; Urban carbon cycling ;
 - [Claire Goulsbra](https://www.research.manchester.ac.uk/portal/claire.goulsbra.html): Hydrological Connectivity; Upland Hydrology; Fluvial Geomorphology; Digital Terrain Analysis; Environmental Monitoring; Peatland Carbon Flux; 
