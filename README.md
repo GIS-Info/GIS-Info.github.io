@@ -23,16 +23,17 @@ Please feel free to contact us at [gisphere@outlook.com](mailto:gisphere@outlook
 
 For a more comprehensive information regarding GIS programs in North America, please refer to [AAG Geography Program](http://www.aag.org/guide) for more information.
 
-## Copyright
-
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
-
 
 ## Map
 <img alt="Map of programs" style="border-width:0" src="/img/map.png"/>
 
 To date, we have summarized more than 270 GIS programs in more than 35 countries across the world. More information about the GIS programs are updated frequently.
+
+## Copyright
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+
 
 
 ## North America
