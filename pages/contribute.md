@@ -6,7 +6,7 @@ If you find that your institution is not included and would like to get them on 
 
 There are three ways to add information to this page.
 
-**Method 1** (recommended): Go to the [GitHub Repository](https://github.com/gisphere/gisphere.github.io), find the page that needs to be modified, and add or modify it on the page, then initiate a Pull Request on GitHub. if there is no suitable country or region page for the school you want to add, you can add a Markdown file for that country. This method is the most efficient. We will review and merge your Pull Request as soon as we receive it.
+**Method 1** (recommended): Go to the [GitHub Repository](https://github.com/gisphere/gisphere.github.io), find the page that needs to be modified, and add or modify it on the page, then initiate a Pull Request on GitHub. if there is no suitable country or region page for the school you want to add, you can add a Markdown file for that country. This method is the most efficient. We will review and merge your Pull Request after we receive it. Please refer to [this page](https://www.markdownguide.org/tools/github-pages/) for Markdown stylings.
 
 **Method 2**: Go to the [GitHub Repository](https://github.com/gisphere/gisphere.github.io) and tell us what information you want to add or modify in [Issues section](https://github.com/gisphere/gisphere.github.io).
 
