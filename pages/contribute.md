@@ -1,6 +1,6 @@
 ## How to Contribute
 
-The information included in this project comes from many voluntary contributors who are graduate students, postdocs, and young faculties in various universities. We understand that some of the information is time-sensitive. We also understand that we are not able to cover all the relevant institutions, laboratories and professors in the world. Therefore, we welcome your contributions!
+The information included in this project comes from many voluntary contributors who are graduate students, postdocs, or young faculties in various universities. We understand that some of the information is time-sensitive. We also understand that we are not able to cover all the relevant institutions, laboratories and professors in the world. Therefore, we welcome your contributions!
 
 If you find that your institution is not included and would like to get them on our pages, or if you find any incorrect or outdated information, please let us know.
 
