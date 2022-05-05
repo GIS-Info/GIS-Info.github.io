@@ -22,10 +22,9 @@ Professors:
 - [Max Nathan](https://www.ucl.ac.uk/bartlett/casa/people/dr-max-nathan): economics of cultural diversity, innovation systems and clusters, public policy for cities (especially policy design and evaluation);
 - [Huanfa Chen](https://www.ucl.ac.uk/bartlett/casa/people/huanfa-chen): spatial optimisation, spatial data science, transportation behaviour modeling;
 - [Jonathan Reades](http://www.reades.com/): Smart cities and &#39;big data&#39;, location and infrastructure networks , new data, open data and &#39;old&#39; methods, housing and socio-economic trends;
-- [Chen Zhong](https://www.linkedin.com/in/chen-zhong-0590bb33/?originalSubdomain=uk): urban mobility, spatial analysis, transportaion and land use.
+- [Chen Zhong](https://www.ucl.ac.uk/bartlett/casa/people/dr-chen-zhong): urban mobility, spatial analysis, transportaion and land use.
 
 
-​
 
 ### University of Leeds
 
