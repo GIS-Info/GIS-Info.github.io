@@ -339,7 +339,7 @@ Professors:
 - [Brian Barrett](https://www.gla.ac.uk/schools/ges/staff/brianbarrett/): remote sensing, terrestrial environment;
 - [Ana Basiri](https://www.gla.ac.uk/schools/ges/staff/anabasiri/): geospatial data science, navigation, GPS;
 - [João Porto de Albuquerque](https://warwick.ac.uk/fac/arts/schoolforcross-facultystudies/igsd/about/people/jpdealbuquerque/):  digital geographies and GIS, intersecting urban data science, information management, development studies;
-- Ziqi Li: GIScience, spatial analysis, urban analytics, health geography, machine learning, geospatial data science;
+- [Ziqi Li](https://sites.google.com/view/ziqi-li/home): GIScience, spatial statistics, urban analytics, interpretable machine learning, GeoAI, geospatial data science;
 - [Mingshu Wang](https://mingshuwang.org/): urban informatics, urban science, GIScience, geodata science, city and regional development;
 - [Alison Heppenstall](https://www.gla.ac.uk/schools/socialpolitical/staff/aheppenstall/): geocomputation, machine learning, geospatial AI, agent-based modeling, smart cities.
 
