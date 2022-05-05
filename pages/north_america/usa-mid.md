@@ -325,3 +325,18 @@ Professors:
 - **[Zhou Yu](https://www.bgsu.edu/arts-and-sciences/earth-environment-and-society/faculty-and-staff/yu-zhou.html)**: remote sensing, GIS, cartography;
 - **[Anita Simic Milas](https://www.bgsu.edu/arts-and-sciences/earth-environment-and-society/faculty-and-staff/anita-simic.html)**: remote sensing, vegetation, hydrology;
 - **[Kefa Otiso](https://www.bgsu.edu/arts-and-sciences/earth-environment-and-society/faculty-and-staff/kefa-otiso.html)**: urban planning, economic geography, GIS.
+
+### Calvin university
+
+Grand Rapids, Michigan, USA
+
+Unit: [Department of Geology, Geography, and Environment](https://calvin.edu/academics/departments-programs/geo/gis/)
+
+Calvin University has a Master of Geographic Information Science program, in addition to the undergraduate GIS Certificate. In the GEO Department, students can major in geography or geology or environmental studies or environmental science. All of those four majors require every student to take the Intro GIS class.
+
+Professors:
+
+- **[Jason VanHorn](https://calvin.edu/directory/people/jason-e-vanhorn)**: GIS, cartography, remote sensing, geographic thought and philosophy;
+- **[Mark Bjelland](https://calvin.edu/directory/people/mark-d-bjelland)**: urban and economic geography, geographic information systems, environmental justice, urban sustainability, faith-based place-making;
+- **[William Miller](https://calvin.edu/directory/people/william-miller)**: ecology;
+- **[Patrick Bailey]( https://calvin.edu/directory/people/patrick-bailey)**:database technology, architecture-centric project management, software maintenance, ASP.Net, data mining.

@@ -156,10 +156,9 @@ College Station, Texas, USA
 
 Unit: [Department of Geography](https://geography.tamu.edu/) and [Department of Landscape Architecture & Urban Planning](http://laup.arch.tamu.edu)
 
+The geography department at Texas A&M (TAMU) has a comprehensive set of disciplines. It is especially reputable in urban GIS, social big data, and geographic decision support. Graduate programs offered by the department include master of geography, master of geographic information science and technology (online program), and PhD in geography. The master’s program requires 36 credits, with an average duration of 2-3 years; the doctoral program requires 64 credits, with an average duration of 4-5 years. 96 credits are required for students in the joint masters/PhD track. The core courses in GIS include: quantitative methods in geography, WebGIS, GIS-based spatial analysis & modeling, and frontiers in GIScience.
 
-The geography department at Texas A&M has a comprehensive set of disciplines. It is especially reputable in urban GIS, social big data, and geographic decision support. Graduate programs offered by the department include master of geography, master of geographic information science and technology (online program), and PhD in geography. The master’s program requires 36 credits, with an average duration of 2-3 years; the doctoral program requires 64 credits, with an average duration of 4-5 years. 96 credits are required for students in the joint masters/PhD track. The core courses in GIS include: quantitative methods in geography, WebGIS, GIS-based spatial analysis & modeling, and frontiers in GIScience.
-
-The Department of Landscape Architecture & Urban Planning at Texas A&M operates five key directions for its doctoral programs in urban and regional science, including environmental disasters, sustainability, housing and community development, health and well-being, and smart cities/urban transportation. A large number of projects are related to GeoDesign, virtual reality, augmented reality, and space-time simulation of the built environment.There are research clusters in this department, inclueding the disaster reduction and recovery center, housing and urban development center, health system and design center, data science institute, transportation research institute, and high-performance research computation center. The requirements for the PhD program include 64 credits and a dissertation.
+The Department of Landscape Architecture & Urban Planning at Texas A&M operates five key directions for its doctoral programs in urban and regional science, including environmental disasters, sustainability, housing and community development, health and well-being, and smart cities/urban transportation. A large number of projects are related to GeoDesign, virtual reality, augmented reality, and space-time simulation of the built environment. There are research clusters in this department, inclueding the disaster reduction and recovery center, housing and urban development center, health system and design center, data science institute, transportation research institute, and high-performance research computation center. The requirements for the PhD program include 64 credits and a dissertation.
 
 Professors:
 
@@ -170,12 +169,32 @@ Professors:
 - **[George Allen](https://geography.tamu.edu/people/profiles/faculty/allengeorge.html)**: remote sensing, impacts of climate and land-use change on river systems;
 - **[Anthony FIlippi](https://geography.tamu.edu/people/profiles/faculty/filippianthony.html)**: hyperspectral remote sensing, floodplain and coastal marine monitoring.
 
+### Texas A&M University–Corpus Christi
+
+ Corpus Christi, Texas, USA
+
+ Unit: [Department of Computing Sciences](https://www.tamucc.edu/science/departments/computing-sciences/index.php)
+
+ There are geospatial graduate programs at Texas A&M University–Corpus Christi (TAMUCC). These degree programs provide students with the knowledge, skills, and opportunities required by today's highly competitive and highly paid geospatial job market.
+
+- [Geospatial Computer Science, PhD (GSCS)](https://gradschool.tamucc.edu/degrees/science/geo_comp_sci.html)
+- [Geospatial Systems Engineering, MS (GSEN)](https://gradschool.tamucc.edu/degrees/science/geo_sys_eng.html)
+
+Professors:
+
+- **[Hongzhi Song](https://www.tamucc.edu/files/php/views/faculty-details.php?profile=Hongzhi_Song)**: geospatial systems;
+- **[Tianxing Chu](https://www.tamucc.edu/files/php/views/faculty-details.php?profile=Tianxing_Chu)**: environmental remote sensing,  machine learning applied to geospatial applications, ubiquitous navigation and positioning, coastal dynamic modeling, indoor simultaneous localization and mapping;
+- **[William Edwards](https://www.tamucc.edu/files/php/views/faculty-details.php?profile=William_Edwards)**: riparian boundary issues with international, interstate, and private borders;
+- **[Lucy Huang](https://www.tamucc.edu/files/php/views/faculty-details.php?profile=Yuxia_Huang)**: geospatial semantic web, WebGIS, GIS in public health;
+- **[Antonio Medrano](https://www.tamucc.edu/files/php/views/faculty-details.php?profile=Antonio_Medrano)**: spatial optimization, high-performance computing, geospatial algorithm engineering;
+- **[Michael Starek](https://www.tamucc.edu/files/php/views/faculty-details.php?profile=Michael_Starek)**: merging of geomatics, remote sensing, and geospatial computing for science and engineering problems, LiDAR, remote sensing, machine learning.
+
+
 ### University of Texas at Austin
 
 Austin, Texas, USA
 
 Unit: [Department of Geography and Environment](https://liberalarts.utexas.edu/geography/index.php)
-
 
 The geography and environment department at UT Austin has a rich histsory and is reputable in digital earth, environmental and surface process, and economic geography. It is especially strong in geography research related to food science and agriculture. There are 2 tracks for the masters program. The course-based program requires 36 credits. The research-based program requires 30 credits and a research thesis. A qualification exam is required within 3 years for doctoral students. After the qualification, students need to enroll in for at least 2 more semesters to complete the dissertation. The GIS center in this department offers multiple GIS-related courses, including the spatial data & analysis, GIS applications in social/environmental science，advanced GIS，and geoprocessing.
 

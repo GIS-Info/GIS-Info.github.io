@@ -266,9 +266,14 @@ Professors:
 
 Denver, Colorado, USA
 
-Unit: [Department of Civil Engineering](https://engineering.ucdenver.edu/civil-engineering/research-specialty-areas/geomatics-gis)
+Unit: [Department of Civil Engineering](https://engineering.ucdenver.edu/civil-engineering/research-specialty-areas/geomatics-gis), [Department of Geography and Environmental Sciences](https://clas.ucdenver.edu/academic-programs/geography-and-environmental-sciences), and [Architecture and Planning College](https://architectureandplanning.ucdenver.edu/)
 
-The Department of Civil Engineering at CU Denver offers postgraduate courses in Geomatics Engineering and GIS, operating degree programs for Master of Science and Master of Engineering, and also a GIS Certificate. Most of the GIS courses are online, and the GIS Certificate can be completed remotely, but students in the Master of Science and the Master of Engineering programs need to be on campus to take related courses in geography or computer science departments. The study and research focuses of the Master of Science are mainly on the principles of GIS, while the focuses of the Master of Engineering are more interdisciplinary.
+The Department of Civil Engineering at University of Colorado, Denver offers postgraduate courses in Geomatics Engineering and GIS, operating degree programs for Master of Science and Master of Engineering, and also a GIS Certificate. Most of the GIS courses are online, and the GIS Certificate can be completed remotely, but students in the Master of Science and the Master of Engineering programs need to be on campus to take related courses in geography or computer science departments. The study and research focuses of the Master of Science are mainly on the principles of GIS, while the focuses of the Master of Engineering are more interdisciplinary.
+
+The Geography and Environmental Sciences department offers GIS-related graduate degrees including MA in Applied Geography and Geospatial Science and MS in Environmental Science. The MS program requires a lot of geography courses.
+
+The Architecture and Planning College also has a MURP (Masters in Urban and Regional Planning) program, as well as a PhD in Geography, Planning, and Design.
+
 
 ### Colorado School of Mines
 
