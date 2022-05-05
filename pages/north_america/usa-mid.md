@@ -139,7 +139,8 @@ Professors:
 - **[Steve Ackerman](https://www.aos.wisc.edu/faculty/Ackerman/)** (Department of Atmospheric and Oceanic Sciences): remote sensing, cloud physics, climate change;
 - **[Angela Rowe](https://www.aos.wisc.edu/faculty/Rowe/)** (Department of Atmospheric and Oceanic Sciences): remote sensing, cloud physics, weather process;
 - **[Shanan Peters](https://geoscience.wisc.edu/geoscience/people/faculty/shanan-peters/)** (Department of Geoscience): geoinformatics, geo-database, machine reading and learning, quantitative stratigraphy;
-- **[Basil Tikoff](http://geoscience.wisc.edu/geoscience/people/faculty/basil-tikoff/)** (Department of Geoscience): tectonics, structural geology, geo-database, geology-related spatial cognition.
+- **[Basil Tikoff](http://geoscience.wisc.edu/geoscience/people/faculty/basil-tikoff/)** (Department of Geoscience): tectonics, structural geology, geo-database, geology-related spatial cognition;
+- **[Min Chen](https://globalchange.cals.wisc.edu/staff/chen-min/)** (Department of Forest and Wildlife Ecology): earth system science.
 
 ### University of Wisconsin-Milwaukee  
 
