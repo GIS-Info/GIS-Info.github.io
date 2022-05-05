@@ -1,7 +1,9 @@
 # GISphere Guide
 **(updated at April. 2022)**
 
-English Version (GitHub): [gisphere.github.io](https://gisphere.github.io/)
+English Version: [gisphere.github.io](https://gisphere.github.io/)
+
+English Version (GitHub Repository): [GitHub](https://github.com/gisphere/gisphere.github.io)
 
 Chinese Version (Official Website): [www.gisphere.net](https://www.gisphere.net/)
 
