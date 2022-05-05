@@ -1,5 +1,28 @@
 ## Canada
 
+
+### Carleton University (CU)
+
+Ottawa, Ontario, Canada
+
+Carelton university, Canada's capital university, is located in Ottawa, Canada. It has international reputation for its geoscience, geography, and environment-related programs.
+
+Carelton offers a wide range of GIS-related disciplines and offers four graduate degrees in different disciplines (MA, MSc, and PhD).
+
+Units:
+
+- [Department of geography and Environmental Studies](https://carleton.ca/geography/)
+  -The Department of Geography and Environmental Studies has three programs of study leading to an undergraduate degree in Geography, Geomatics and Environmental Studies. Students can obtain a B.A. or a B.Sc., Honours, or Combined Honours Degree. At the graduate level, M.A., M.Sc., and Ph.D. programs are offered.
+  
+  Professors:
+
+- [Dipto Sarkar](https://carleton.ca/geography/people/assistant-professor-dipto-sarkar/): GIScience, Social Network Analysis, OpenStreetMap, and Biodiversity Conservation;
+- [Peter Pulsifer(https://carleton.ca/geography/people/peter-pulsifer/): Geospatial data interoperability; Participatory Mapping; GIS, Remote Sensing, Cartography and Visualization; Community-driven Geomatics; Building Communities of Practice;
+- [Koreen Millard](https://carleton.ca/geography/people/koreen-millard/): Multi-sensor data fusion for improved understanding of hydrology/vegetation change and interactions; Modelling spatial and temporal biophysical variables with time-series remote sensing and field-measurements; Machine learning image classification for mapping environmental change;
+- [Murray Richardson](https://carleton.ca/geography/people/richardson-murray/): Northern watershed ecosystems, high resolution landscape analysis and environmental geo-computation
+- [Sheryl-Ann Simpson](https://carleton.ca/geography/people/simpson-sheryl-ann/): Migration, place and citizenship; Environmental justice, health and well-being; Spatial analysis (participatory, quantitative, qualitative, interpretive).
+
+
 ### University of British Columbia (UBC)
 
 Vancouver, British Columbia, Canada
