@@ -8,6 +8,9 @@ Chinese Version (Official Website): [www.gisphere.net](https://www.gisphere.net/
 
 Contact: [gisphere@outlook.com](mailto:gisphere@outlook.com)
 
+
+**See how to contribute, edit, and provide more information: [A Guide for Contribution](https://gisphere.github.io/pages/contribute)**
+
 ## About
 
 This guide was launched in September 2019, and the latest update time is April 2022. We aim to provide timely and comprehensive information of global graduate-level programs in geographic information sciences (GIS)-related fields (e.g., remote sensing, urban studies, other subfields in geography). Authors of this guide are from GIS-related programs, being either current graduate students, recent alumni, or young faculties. We mainly provide first-hand information about GIS-related programs and potential supervisors. We hope this guide can help those who are seeking graduate school opportunities in GIS.
