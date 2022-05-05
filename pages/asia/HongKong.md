@@ -17,38 +17,24 @@ Adivicers：
 URBAN PLANNING AND DESIGN：
 
 - **[YEH, Anthony Gar On](http://hub.hku.hk/cris/rp/rp01033)**: land use planning, big data and smart cities, GIS, urban studies, intelligent transport system;
-
 - **[HE, Shenjing](https://fac.arch.hku.hk/upad/shenjinghe/)**:housing differentiation and socio-spatial inequality, urban poverty, urban redevelopment;
-
 - **[LI, Weifeng](http://fac.arch.hku.hk/upad/wfli/)**: remote sensing, GIS and big data in urban environmental analysis, urban modeling;
-
 - **[LIU, Xingjian](http://hub.hku.hk/cris/rp/rp01999)**: Urban Geography, Urban Networks, City-regions, Urban Analytics;
-
 - **[ZHOU, Jiangping](http://hub.hku.hk/cris/rp/rp01999)**: big-data applications and analytics for transport/urban studies, transport policy and planning;
-
 - **[HUANG, Jianxiang](http://fac.arch.hku.hk/upad/JianxiangHuang/)**: thermal, acoustic and building energy performances in high density cities, environmental modeling;
-
 - **[HO, Derrick (Hung Chak)](http://hub.hku.hk/cris/rp/rp02482)**: urban health and environmental epidemiology, geospatial modeling;
-
 - **[SUN, Guibo](http://hub.hku.hk/cris/rp/rp02274)**: built environment and health, applied GIS;
 - **[Ma, Jun](https://www.arch.hku.hk/staff/upad/ma-jun/?dept=upad)**:Urban Computing, environmental computing, AI and robotics in smart cities;
 
 Department of GEOGRAPHY：
 
 - **[LOO, Becky P.Y.](https://www.bpyloo.hku.hk/)**: information and communication technologies, spatial analysis, transport and society, economic geography;
-
 - **[LAI, Poh Chin](http://hub.hku.hk/cris/rp/rp00565)**: transportation studies and network analysis, GIS, cartographic modeling and spatial analyses;
-
 - **[CHEN, Wendy Yan](http://hub.hku.hk/cris/rp/rp00589)**: ecological economics, environmental economics;
-
 - **[LIN, George Chu Sheng](http://hub.hku.hk/cris/rp/rp00609)**: urban and regional development in China, economic geography;
-
 - **[LI, Jinbao](http://hub.hku.hk/cris/rp/rp01699)**: climate change, paleo climate, drought;
-
 - **[KOH, Keumseok](http://hub.hku.hk/cris/rp/rp02476)**: health/medical geography, GIS, urban planning;
-
 - **[LAM, Yun Fat](http://hub.hku.hk/cris/rp/rp02573)**: climate change and air quality, air quality modeling;
-
 - **[ZHANG, Hongsheng](http://hub.hku.hk/cris/rp/rp02616)**: smart cities and sustainable development, remote sensing of urban environment.
 
 REAL ESTATE AND CONSTRUCTION：
@@ -65,9 +51,7 @@ The Department of Architecture and Civil Engineering of the City University of H
 
 Adivicers：
 - **[LU, Yi](http://bccw.cityu.edu.hk/main/wp_staff_view.asp?people_number=5113)**: built environment, healthy city, travel behavior, street view imagery;
-
 - **[CHOW, Andy](http://bccw.cityu.edu.hk/main/wp_staff_view.asp?people_number=5131)**: data analytics and artificial intelligence, cooperative intelligent transport systems, public transport operations, smart cities and mobility, urban transport analytics;
-
 - **[LO, S. M.](http://bccw.cityu.edu.hk/main/wp_staff_view.asp?people_number=1184)**: spatial planning for pedestrian movement and evacuation modeling, urban and land use planning, building development, construction management and fire safety engineering;
 
 
@@ -81,11 +65,8 @@ The Hong Kong University of Science and Technology does not have a department of
 
 Adivicers：
 - **[Jimmy W M CHAN](https://www.envr.ust.hk/our-division/people/faculty-staff/jimmy.html)**: GIS, Spatial analysis and modeling, Remote sensing, Computer graphics, Simulation and numerical optimization;
-
 - **[Alexis K H LAU](https://www.envr.ust.hk/our-division/people/faculty-staff/envrhead.html)**: Geophysical data analysis, weather and climate, satellite remote sensing applications;
-
 - **[Dasa GU](https://www.envr.ust.hk/our-division/people/faculty-staff/dasagu.html)**: satellite remote sensing;
-
 - **[Changqing LIN](https://www.envr.ust.hk/our-division/people/faculty-staff/cqlin.html)**: lidar remote sensing, satellite remote sensing;
 
 
