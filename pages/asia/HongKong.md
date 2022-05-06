@@ -140,4 +140,4 @@ Advisers:
 - **[Qiming Zhou](http://geog.hkbu.edu.hk/?page_id=613)**: change detection and land cover modelling with remote sensing, digital terrain analysis and hydrological modelling, climate change and its impacts on water resources and ecosystems, aridzone studies;
 - **[Donggen Wang](http://geog.hkbu.edu.hk/?page_id=578)**: activity-travel behavior, transport and time geography, activity-based socio-spatial segregation, geography of wellbeing, housing choice and residential satisfaction;
 - **[Jianfeng Li]( http://geog.hkbu.edu.hk/?page_id=2227)**: hydroclimatology, hydrology and water resources, climate extremes and water hazards, climate change, regional water cycle;
-- **[Sajjad Muhammad](https://geog.hkbu.edu.hk/people/detail/680/)**: risk-resilience-sustainability Nexus, natural hazards, RS&GIS applications, climate change impacts.
+- **[Sajjad Muhammad](https://geog.hkbu.edu.hk/people/detail/680/)**: Risk-resilience-sustainability Nexus, Natural hazards, Machine Learning, Geo-AI, Spatial Data Science, RS & GIS applications, Climate change impacts, Interdesciplinary Climate Studies.
