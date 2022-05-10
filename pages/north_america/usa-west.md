@@ -83,6 +83,8 @@ Unit: [College of Earth, Ocean, and Atmospheric Sciences](https://ceoas.oregonst
 
 The geography program at Oregon State is in the College of Earth, Ocean, and Atmospheric Sciences. This program encourages students to perform interdisciplinarity research between different branches of earth sciences, including the GIS and RS. One of the three main directions of this geography program is the geospatial technologies and analysis. Major research topics include cartography, spatial analysis, spatial statistics and modeling, and web mapping. This program offers Masters of Science and PhD degree options.
 
+There are also masters and doctoral programs in [Forest Ecosystems and Society](https://gradschool.oregonstate.edu/programs/1100/forest-ecosystems-and-society-phd-mf-ms) and [Sustainable Forest Management](https://gradschool.oregonstate.edu/programs/1090/sustainable-forest-management-phd-mf-ms) at Oregon State.
+
 Professors:
 
 - **[Julia Jones](https://ceoas.oregonstate.edu/people/julia-jones)**: spatial analysis and geospatial data science, spatiotemporal statistics, climate;
@@ -163,7 +165,7 @@ Los Angeles, California, USA
 
 Unit: [Spatial Sciences Institute](https://spatial.usc.edu/)
 
-The Spatial Sciences Institute at the USC brings together a variety of outstanding scholars engaged in GIS research. Their research domains include spatial design, spatial analysis, spatial economics, spatial big data processing, geostatistics, geocoding, GIS and health, and many other related topics. Professor John Wilson, a well-known GIS scholar and editor-in-chief of the top journal _Transactions in GIS_, serves as the director of this institute. The institute offers a wide range of master's programs, including: Master of Spatial Data Science, Master of Spatial Economics and Data Analysis, Master of Public Health (Geohealth), Master of Transportation Management-GIS, and a variety of GIS online programs. The main research domain of the doctoral program in this institute is the interconnections among human, space, health, and environment. The core GIS courses offered here include: principles of geodesign, community health scan, geospatial technology management for sustainability science, spatial computing, concepts for spatial thinking, spatial econometrics, and GIS programming and customization, etc.
+The Spatial Sciences Institute at the USC brings together a variety of outstanding scholars engaged in GIS research. Their research domains include spatial design, spatial analysis, spatial economics, spatial big data processing, geostatistics, geocoding, GIS and health, and many other related topics. Professor John Wilson, a well-known GIS scholar and editor-in-chief of the top journal _Transactions in GIS_, serves as the director of this institute. The institute offers a wide range of [master's programs](https://spatial.usc.edu/m-s-in-spatial-data-science/), including: Master of Spatial Data Science, Master of Spatial Economics and Data Analysis, Master of Public Health (Geohealth), Master of Transportation Management-GIS, and a variety of GIS online programs. The main research domain of the doctoral program in this institute is the interconnections among human, space, health, and environment. The core GIS courses offered here include: principles of geodesign, community health scan, geospatial technology management for sustainability science, spatial computing, concepts for spatial thinking, spatial econometrics, and GIS programming and customization, etc.
 
 Professors:
 
@@ -245,7 +247,8 @@ Professors:
 - **[Richard (Rick) Forster](https://faculty.utah.edu/u0085651-RICHARD_R_FORSTER,_PHD/research/index.hml)**: remote sensing, cryosphere, glaciers;
 - **[Summer B. Rupper](https://faculty.utah.edu/u6002212-Summer_Burton_Rupper/research/index.hml)**: remote sensing, environment, glaciers, geomorphology;
 - **[Richard Medina](https://faculty.utah.edu/u0477925-RICHARD_MATTHEW_MEDINA/research/index.hml)**: GIS, spatial analysis, social geography, complex social space;
-- **[Mckenzie Skiles](https://faculty.utah.edu/u0458147-SARA_MCKENZIE_SKILES/research/index.hml)**: remote sensing, glacier, cryosphere, snow.
+- **[Mckenzie Skiles](https://faculty.utah.edu/u0458147-SARA_MCKENZIE_SKILES/research/index.hml)**: remote sensing, glacier, cryosphere, snow;
+- **[Michael J. Campbell](https://ursa.utah.edu/campbell.php)**: remote sensing, LiDAR, land use, land cover.
 
 ### University of Colorado, Boulder
 
