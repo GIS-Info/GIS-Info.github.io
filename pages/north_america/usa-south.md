@@ -139,9 +139,9 @@ Professors:
 
 Auburn, Alabama, USA
 
-Unit: [Department of Geosciences](http://www.auburn.edu/cosam/departments/geosciences/index.htm)
+Unit: [Department of Geosciences](http://www.auburn.edu/cosam/departments/geosciences/index.htm) and [College of Forestry, Wildlife and Environment](https://sfws.auburn.edu/)
 
-The Department of Geociences at Auburn University operates many fields such as structural geology, sedimentation and paleontology, geophysics, planetary science, environmental geography, human geography, and GIS, etc. The GIS direction here has a main application domain in geomorphology and climatology, and other fields like oil exploration. The department offers MS and PhD degree options, among which the PhD degree is in the direction of earth system science, which is an interdisciplinary field between various branches of earth science. It will use many quantitative methods including GIS and spatial analysis in the study of the earth system. The MS degree has the direction in geography, and it has both course-based and research-based options.
+The Department of Geociences at Auburn University operates many fields such as structural geology, sedimentation and paleontology, geophysics, planetary science, environmental geography, human geography, and GIS, etc. The GIS direction here has a main application domain in geomorphology and climatology, and other fields like oil exploration. The department offers MS and PhD degree options, among which the PhD degree is in the direction of earth system science, which is an interdisciplinary field between various branches of earth science. It will use many quantitative methods including GIS and spatial analysis in the study of the earth system. The MS degree has the direction in geography, and it has both course-based and research-based options. The College of Forestry, Wildlife and Environment also operates a program in [Geospatial and Environmental Informatics](https://sfws.auburn.edu/geospatial-environmental-informatics/).
 
 Professors:
 - **[Luke Marzen](http://www.auburn.edu/academic/cosam/faculty/geosciences/marzen/index.htm)**: GIS, remote sensing, climate, water, biogeography;
