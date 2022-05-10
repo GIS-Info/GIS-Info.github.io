@@ -73,7 +73,7 @@ Raleigh, North Carolina, USA
 
 Unit: [Center for Geospatial Analytics](https://cnr.ncsu.edu/geospatial)
 
-The Center for Geospatial Analytics at NC State is administratively affiliated to the School of Natural Resources. It is a research institution with GIS as the main focus. Its faculty members come from different colleges of the university, and they are all engaged in GIS-related research projects with different application domains. The center has in-depth cooperation with the United States Geological Survey (USGS), the National Park Service (NPS), NASA, and Esri, and it is currently home to more than 250 students at masters and doctoral levels. The master's program offered by this center is the Master of Geographic Information Science and Technology (MGIST), which is the earliest of its kind in the USA. It is a 2-year course-based master's degree with 21 prescribed credits of GIS-related courses and 12 elective credits. A comprehensive project and a portfolio are also required. Most of MGIST graduates went to the industry. The PhD program of the Center for Spatial Analytics is interdisciplinary. Its duration is 4 to 5 years. Students need to use GIS and other methods to complete a research project in the domains of physical or social sciences. Members of the dissertation committee come from different departments according to the research topic selected by the student. This program also requires an industrial internship in the first two years in order to better integrate the industry, education and research experiences in student's future scientific career.
+The Center for Geospatial Analytics at NC State is administratively affiliated to the School of Natural Resources. It is a research institution with GIS as the main focus. Its faculty members come from different colleges of the university, and they are all engaged in GIS-related research projects with different application domains. The center has in-depth cooperation with the United States Geological Survey (USGS), the National Park Service (NPS), NASA, and Esri, and it is currently home to more than 250 students at masters and doctoral levels. The master's program offered by this center is the Master of Geographic Information Science and Technology (MGIST), which is the earliest of its kind in the USA. It is a 2-year course-based master's degree with 21 prescribed credits of GIS-related courses and 12 elective credits. A comprehensive project and a portfolio are also required. Most of MGIST graduates went to the industry. The [PhD program](Ph.D. Geospatial	https://cnr.ncsu.edu/geospatial/academics/phd-in-geospatial-analytics/) of Spatial Analytics is interdisciplinary. Its duration is 4 to 5 years. Students need to use GIS and other methods to complete a research project in the domains of physical or social sciences. Members of the dissertation committee come from different departments according to the research topic selected by the student. This program also requires an industrial internship in the first two years in order to better integrate the industry, education and research experiences in student's future scientific career.
 
 Professors in the center are all teaching-oriented faculty members responsible for the teaching and guidance of core courses like GIS. Doctoral students need to find their own scientific research interests and directions, and then find their own research advisors in any departments participating in the center’s project. Current doctoral supervisors of the center include faculty members from these following departments: Statistics, Oceanic, Earth and Atmospheric Sciences, Business School, Biological and Agricultural Engineering, Public Health, Park and Tourism Management, Landscape Architecture, Civil Engineering, Botany, Forestry, and Computer Science, etc.
 
@@ -143,6 +143,8 @@ Unit: [Department of Geography](https://www.geog.psu.edu/)
 
 Penn State is a top-tier public university in the United States. Its geography department is a powerhouse and has 4 general research directions (subfields) including GIS, physical geography, human geography, and environment and society geography. There are three types of residential postgraduate programs in the department. Bachelors can apply for the 2-year master’s degree program, or the 2-year master’s and 3-year doctoral joint degree program. Masters-degree holders can apply for the 4-year doctoral degree program. There is also an online Master of Geographic Information Systems (MGIS) program and an online Master of Science in Spatial Data Science program both of which are offered via the [World Campus at Penn State](geospatial.psu.edu). These online programs are designed mainly for people who are already working, but students in this program will receive the same degrees and certificates as residential graduate students and all courses are developed and taught by faculty in the Department of Geography. Programs in this department are STEM and therefore may be good options for international students.
 
+Ecology and related programs at Penn State are mainly hosted by the [Huck Institute of Life Sciences](https://www.huck.psu.edu/).
+
 Professors:
 
 - **[Cynthia Brewer](https://www.geog.psu.edu/directory/cynthia-brewer)**: cartographic communication and visualization, map design, color theory, multi-scale mapping, atlas production, topographic maps, cartography;
@@ -195,6 +197,8 @@ Storrs, Connecticut, USA
 Unit: [Department of Geography](https://geography.uconn.edu/)
 
 The University of Connecticut is located halfway between New York and Boston. The  research of the Department of Geography focuses on geographic information science and systems, space and social sciences, physical geography, and the relationship between human and land. Programs in this department include the master's (2 years), PhD (generally 4 years), and the MA/PhD joint program (generally 4 to 5 years). The department has been recently developing its GIS discipline, setting up GIS undergraduate majors and GIS certification programs, and provideing many GIS-related courses, such as WebGIS, spatial database, mobile GIS, spatial big data, etc.
+
+In addition to the geography department, the [Ecohydrology lab](http://www.jamesknightonhydrology.com/) at UConn studies plant-soil-water interactions through field experimentation and numerical modeling in order to minimize the flooding risks of downstream communities, the economic risk of drought to the agricultural industry, and the environmental impacts of human-water systems.
 
 Professors:
 
@@ -306,9 +310,9 @@ Physical Geography:
 
 Orono, Maine, USA
 
-Unit: [School of Computing and Information Science](https://umaine.edu/scis/)
+Unit: [School of Computing and Information Science](https://umaine.edu/scis/) and [The Wheatland Lab](http://wheatlandlab.org/contact-us/)
 
-The geography program at the University of Maine has a long history and is one of the three National Centers for Geographic Information and Analysis (NCGIA) in the United States. It is particularly prominent in spatial analysis and GIS visualization. The celebrated scholar in spatial relations and topology, Max Egenhofer, is a professor there. The GIS program at Maine is affiliated with the  School of Computing and Information Science and various computer courses are offered. The department has two degree programs. The Master of Information Systems is industrial-oriented, and the Master of Spatial Information Science and Engineering is research-oriented. Its core GIS courses include spatial analysis, spatial interaction design, spatial database systems and others.
+The GIS-related program at the University of Maine has a long history and is one of the three National Centers for Geographic Information and Analysis (NCGIA) in the United States. It is particularly prominent in spatial analysis and GIS visualization. The celebrated scholar in spatial relations and topology, Max Egenhofer, is a professor there. The GIS program at Maine is affiliated with the  School of Computing and Information Science and various computer courses are offered. The department has two degree programs. The Master of Information Systems is industrial-oriented, and the Master of Spatial Information Science and Engineering is research-oriented. Its core GIS courses include spatial analysis, spatial interaction design, spatial database systems and others. The [Wheatland Geospatial lab](http://wheatlandlab.org/contact-us/) under the School of Forest Resources also operates geospatial research and educational programs.
 
 Professors:
 - **[Kate Beard-Tisdale](https://umaine.edu/scis/people/kate-beard-tisdale/)**: map generalization, data quality and the visualization of spatial data quality, geographic information retrieval, analysis and visualization of spatio-temporal phenomena, and spatio-temporal information integration;
@@ -393,3 +397,28 @@ Professors:
 - **[James Leonard](https://www.marshall.edu/geography/faculty-staff/leonard/)**: GIS, world regional geography, North American geography;
 - **[Anita Walz](https://www.marshall.edu/geography/faculty-staff/walz/)**: GIS, remote sensing, spatial analysis;
 - **[Hilton Córdoba](https://www.marshall.edu/geography/faculty-staff/cordoba/)**: urban geography, spatial organization, spatial analysis.
+
+### University of Massachusetts
+
+Amherst, Massachusetts, USA
+
+Unit: [Department of Environmental Conservation](https://eco.umass.edu/academics/graduate-programs/environmental-conservation-m-s-ph-d/)
+
+UMass operates MS and PhD programs in environmental conservation with the quantitative science (statistics, GIS, modeling, physical science) as a part of the core curriculum.
+
+Professors:
+
+- **[Malcolm Itter](https://eco.umass.edu/people/faculty/itter-malcolm/)**: quantitative and applied forestry ecology;
+- **[Paige Warren](https://eco.umass.edu/people/faculty/warren-paige-s/)**: biodiversity, urban ecology;
+- **[Anita Milman](https://eco.umass.edu/people/faculty/milman-anita/)**:  environmental governance, climate change adaptation, transboundary water, flood-mitigation, coupled-human environmental systems, collaborative governance, decision-making under uncertainty, environmental policy integration, integrated water resources management;
+- **[Ezra Markowitz](https://eco.umass.edu/people/faculty/markowitz-ezra/)**: sustainability, social well-being;
+- **[Timothy Randhir](https://eco.umass.edu/people/faculty/randhir-timothy-o/)**: watershed sciences, sustainability sciences, environmental sciences, ecological economics, landscape ecology, climate change, ecohydrology, computational modeling, management decision sciences, complex systems;
+- **[Lisa Komoroske](https://eco.umass.edu/people/faculty/komoroske-lisa/)**: global change, conservation management, ecological adaptation.
+
+### University of New Hampshire
+
+Durham, New Hampshire, USDA
+
+Unit: [Quantitative Marine Ecology Lab](https://quantmarineecolab.github.io/)
+
+The Quantitative Marine Ecology Laboratory at the University of New Hampshire is a team of scientists who combine field observations with mathematical and statistical tools to study issues related to marine ecology, including population ecology, social-ecological systems, species monitoring, fisheries, and sustainable seafood-related issues. A common focus of their topics is environmental variability's impacts, especially rare events like heat waves or global pandemics.
