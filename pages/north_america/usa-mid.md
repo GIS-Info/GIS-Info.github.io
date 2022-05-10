@@ -341,3 +341,21 @@ Professors:
 - **[Mark Bjelland](https://calvin.edu/directory/people/mark-d-bjelland)**: urban and economic geography, geographic information systems, environmental justice, urban sustainability, faith-based place-making;
 - **[William Miller](https://calvin.edu/directory/people/william-miller)**: ecology;
 - **[Patrick Bailey]( https://calvin.edu/directory/people/patrick-bailey)**:database technology, architecture-centric project management, software maintenance, ASP.Net, data mining.
+
+
+### University of Chicago
+
+Chicago, Illinois, USA
+
+Unit: [The Center For Geospatial Data Science](https://spatial.uchicago.edu/)
+
+The Center for Spatial Data Science (CSDS) focuses on issues related to spatial data and the application of geographic information in fields such as economics, sociology, criminology, and epidemiology.CSDS also researches spatial econometric modeling, visual analysis, and CyberGIS, and develops a number of open source software tools for GIS, such as GeoDa.
+
+Professors and associated groups：
+
+- **[Luc Anselin](https://spatial.uchicago.edu/directory/luc-anselin-phd)**: urban and regional planning, economics, political science;
+- **[Marynia Kolak](https://spatial.uchicago.edu/directory/marynia-kolak-phd)**: health geography, GIS;
+- **[The Urbanism Lab](https://urbanism.uchicago.edu/)**
+- **[The Healthy Regions Lab](https://herop.ssd.uchicago.edu/)**
+- **[The Center for Robust Decision-making on Climate and Energy Policy](http://www.rdcep.org/)**
+- **[The Knowledge Lab](https://www.knowledgelab.org/)**
