@@ -13,7 +13,7 @@ The University of the Witwatersrand (also known as Wits University) is the alma 
 
 ### University of Cape Town
 
-Rondebosch, Cape Town, South africa
+Rondebosch, Cape Town, South Africa
 
  Unit: [School of Architecture, Planning and Geomatics](http://www.apg.uct.ac.za/) and [Environmental & Geographical Science](http://www.egs.uct.ac.za/)
 
