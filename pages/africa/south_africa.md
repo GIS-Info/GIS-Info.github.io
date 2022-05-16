@@ -76,7 +76,7 @@ The Stellenbosch University operates several postgraduate programmes in GIS-rela
 - PhD in Urban and Regional Planning
 - PhD in Geoinformatics
 
-### Cape Peninsula University of technology
+### Cape Peninsula University of Technology
 
 Cape Town, South Africa
 
