@@ -254,6 +254,35 @@ Professors:
 -   **[Hui Kong](https://www.hhh.umn.edu/directory/hui-kong)**: urban planning, transportation, spatial analysis;
 -   **[Yao-Yi Chiang](https://cse.umn.edu/cs/yao-yi-chiang)** (Dept. Computer Science): digital map processing, computer vision, machine learning, data mining, data integration, predictive analytics.
 
+### Minnesota State University, Mankato
+
+Mankato, Minnesota, USA
+
+Unit: [Department of Geography](https://sbs.mnsu.edu/academics/geography/)
+
+The Department of Geography at Minnesota State University, Mankato offers the following GIScience credentials:
+-   MS:  Geographic Information Science (GISc)
+-   Graduate Certificate:  Geographic Information Science (GISc)
+-   Undergraduate Certificate: Geographic Information Science (GISc)
+
+GIScience integrates the geospatial technologies of geographic information systems, remote sensing, and global positioning systems (GPS) with the professional skills of technical communications, project management, human resource management, and budgeting and economics in the workplace. Geospatial technologies are in very high demand. The program provides in-depth training allowing students to create solutions to real-world problems involving people and environment. The department also offers the following degrees, and all may be enhanced by adding a Certificate in GISc:
+-   MS: Geography
+-   BA/BS: Geography
+-   BS: Earth Science
+-   Minor: Geography
+
+Professors:
+-   [Sudarshana Bordoloi](https://sbs.mnsu.edu/academics/geography/faculty-and-staff/sudarshana-bordoloi/): population, migration, public health, development;
+-   [Mark Bowen](https://sbs.mnsu.edu/academics/geography/faculty-and-staff/mark-bowen/): soils, Anthropocene, agriculture, paleoenvironments;
+-   [Donald A. Friend](https://sbs.mnsu.edu/academics/geography/faculty-and-staff/donald-friend/): physical, mountain environments, conservation;
+-   [Woo Jang](https://sbs.mnsu.edu/academics/geography/faculty-and-staff/woo-jang/): GIS, locational analysis, quantitative methods, transportation;
+-   [Phillip Larson](https://sbs.mnsu.edu/academics/geography/faculty-and-staff/phillip-larson/): geomorphology, fluvial, graphic arts;
+-   [Jose Javier Lopez](https://sbs.mnsu.edu/academics/geography/faculty-and-staff/jose-lopez/): social geography, Latin America, quantitative methods;
+-   [Cynthia A. Miller](https://sbs.mnsu.edu/academics/geography/faculty-and-staff/cynthia-miller/): historical, cultural, North America, field studies;
+-   [Martin D. Mitchell](https://sbs.mnsu.edu/academics/geography/faculty-and-staff/martin-mitchell/): climatology, natural resources, environmental regulations, cartography, the American West;
+-   [Rama Mohapatra](https://sbs.mnsu.edu/academics/geography/faculty-and-staff/rama-mohapatra/):  GIS, quantitative methods, socio-economic analysis;
+-   [Fei Yuan](https://sbs.mnsu.edu/academics/geography/faculty-and-staff/fei-yuan/): GIS, remote sensing.
+
 ### The University of Iowa
 
 Iowa City, Iowa, USA
