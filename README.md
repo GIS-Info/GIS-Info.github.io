@@ -91,7 +91,9 @@ To date, we have summarized more than 270 GIS programs in more than 35 countries
 
 [Southeast Asia](https://gisphere.github.io/pages/asia/SE_Asia.html)
 
-[Oceania](https://gisphere.github.io/pages/asia/Australia_NewZealand.html)
+[Australia](https://gisphere.github.io/pages/asia/Australia.html)
+
+[New Zealand](https://gisphere.github.io/pages/asia/NewZealand.html)
 
 ## South America
 
