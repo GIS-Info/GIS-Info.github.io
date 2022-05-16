@@ -96,12 +96,16 @@ To date, we have summarized more than 270 GIS programs in more than 35 countries
 ## South America
 
 [Argentina and Chile](https://gisphere.github.io/pages/south_america/chile_argentina.html)
+
 [Brazil](https://gisphere.github.io/pages/south_america/brazil.html)
+
 [Peru, Uruguay, and Colombia](https://gisphere.github.io/pages/south_america/peru_uruguay_colombia.html)
 
 
 ## Africa
 
 [South Africa](https://gisphere.github.io/pages/africa/south_africa.html)
+
 [Nigeria](https://gisphere.github.io/pages/africa/nigeria.html) - TBA
+
 [Benin](https://gisphere.github.io/pages/africa/benin.html) - TBA
