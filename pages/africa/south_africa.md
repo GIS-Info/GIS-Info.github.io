@@ -2,7 +2,7 @@
 
 ### University of the Witwatersrand
 
-Johannesburg, South Africa
+Johannesburg, Gauteng, South Africa
 
 Unit: [School of Geography, Archaeology and Environmental Studies](https://www.wits.ac.za/gaes/)
 
@@ -13,7 +13,7 @@ The University of the Witwatersrand (also known as Wits University) is the alma 
 
 ### University of Cape Town
 
-Rondebosch, Cape Town, South Africa
+Rondebosch (Cape Town), Western Cape, South Africa
 
  Unit: [School of Architecture, Planning and Geomatics](http://www.apg.uct.ac.za/) and [Environmental & Geographical Science](http://www.egs.uct.ac.za/)
 
@@ -34,7 +34,7 @@ The University of Fort Hare hosts a thesis-based [Masters of Science Degree in A
 
 ### University of Pretoria
 
-Pretoria, South africa
+Pretoria, Gauteng, South Africa
 
 Unit: [Department of Geography, Geoinformatics and Meteorology](https://www.up.ac.za/geography-geoinformatics-and-meteorology)
 
@@ -78,7 +78,7 @@ The Stellenbosch University operates several postgraduate programmes in GIS-rela
 
 ### Cape Peninsula University of Technology
 
-Cape Town, South Africa
+Cape Town, Western Cape, South Africa
 
 Unit: [Faculty of Engineering & the Built Environment](https://www.cput.ac.za/academic/faculties/engineering)
 
