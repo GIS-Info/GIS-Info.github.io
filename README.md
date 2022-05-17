@@ -30,7 +30,7 @@ For a more comprehensive information regarding GIS programs in North America, pl
 
 
 ## Map
-<img alt="Map of programs" style="border-width:0" src="/img/map.png"/>
+<img alt="Map of programs" style="border-width:0" src="/img/map2022-05-16.jpg"/>
 
 To date, we have summarized more than 270 GIS programs in more than 35 countries across the world. More information about the GIS programs are updated frequently.
 
