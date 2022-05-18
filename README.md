@@ -81,7 +81,8 @@ To date, we have summarized more than 270 GIS programs in more than 35 countries
 
 [UK and Ireland](https://gisphere.github.io/pages/europe/UK-Ireland.html)
 
-## Asia
+## Asia-Pacific
+**East and Southeast Asia**
 
 [Hong Kong SAR, China](https://gisphere.github.io/pages/asia/HongKong.html)
 
@@ -91,9 +92,13 @@ To date, we have summarized more than 270 GIS programs in more than 35 countries
 
 [Southeast Asia](https://gisphere.github.io/pages/asia/SE_Asia.html)
 
+**Middle East**
+
+[Oman](https://gisphere.github.io/pages/asia/oman.html)
+
 [Turkey](https://gisphere.github.io/pages/asia/turkey.html)
 
-## Oceania
+**Oceania**
 
 [Australia](https://gisphere.github.io/pages/asia/Australia.html)
 
