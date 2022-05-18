@@ -340,6 +340,7 @@ Unit: [College ofProfessional and Inernational Education](https://www.cpie.csulb
 
 California State University Long Beach (CSULB), commonly known as Long Beach State University, is a public university near Los Angeles and one of the 23 campuses of the California State University system. The university has a Master of Science in Geographic Information Science degree program under its College of Professional and International Education. This is a one-year course-based master's degree. Its main courses include Geospatial Professionalism, Applied GIS, Cartographic Visualization, Enterprise GIS Development, Programming for Geospatial Professionals, and Applied Remote Sensing. There are also research projects.
 
+
 ### California State University Northridge
 
 Northridge (close to Los Angeles), California, USA

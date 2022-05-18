@@ -101,7 +101,9 @@ To date, we have summarized more than 270 GIS programs in more than 35 countries
 
 [Brazil](https://gisphere.github.io/pages/south_america/brazil.html)
 
-[Peru, Uruguay, and Colombia](https://gisphere.github.io/pages/south_america/peru_uruguay_colombia.html)
+[Colombia](https://gisphere.github.io/pages/south_america/colombia.html)
+
+[Peru and Uruguay](https://gisphere.github.io/pages/south_america/peru_uruguay.html)
 
 
 ## Africa
