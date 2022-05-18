@@ -22,7 +22,7 @@ GISphere guide is one key product of the GISphere project. GISphere is a volunta
 Due to the time constraint, there might be some typo in this guide. We welcome all kinds of corrections, suggestions, and feedback. Please feel free to leave a message on our [GitHub project](https://github.com/gisphere/gisphere.github.io) or send an email to [gisphere@outlook.com](mailto:gisphere@outlook.com).
 We would appreciate it if you could star, share, and disseminate this project!
 
-**We thank [all those who contributed](pages/authors) to this guide！**
+**We thank [all those who contributed](pages/contributors) to this guide！**
 This guide will be frequently updated in the future. We hope more people can join us to develop and maintain this project.
 Please feel free to contact us at [gisphere@outlook.com](mailto:gisphere@outlook.com).
 
