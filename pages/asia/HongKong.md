@@ -1,8 +1,9 @@
 
 ## Hong Kong SAR, China
+
 ### University of Hong Kong
 
-Hong Kong Island, Hong Kong, China
+Pok Fu Lam, Hong Kong SAR, China
 
 GIS related departments：[URBAN PLANNING AND DESIGN](https://www.arch.hku.hk/programmes_/upad/)，[Department of GEOGRAPHY](https://www.geog.hku.hk/)，[REAL ESTATE AND CONSTRUCTION](https://www.arch.hku.hk/programmes_/rec/)
 
@@ -12,7 +13,7 @@ The Department of Geography of the University of Hong Kong has three research di
 
 The Department of Real Estate and Construction (REC), formerly known as Department of Surveying, was established in June 1984. The Department has now expanded into an even wider spectrum of expertise, covering virtually every aspect of land, construction, real estate, and conservation, with a growing interest in digital technologies and data analytics.
 
-Adivicers：
+Advisors
 
 URBAN PLANNING AND DESIGN：
 
@@ -24,7 +25,8 @@ URBAN PLANNING AND DESIGN：
 - **[HUANG, Jianxiang](http://fac.arch.hku.hk/upad/JianxiangHuang/)**: thermal, acoustic and building energy performances in high density cities, environmental modeling;
 - **[HO, Derrick (Hung Chak)](http://hub.hku.hk/cris/rp/rp02482)**: urban health and environmental epidemiology, geospatial modeling;
 - **[SUN, Guibo](http://hub.hku.hk/cris/rp/rp02274)**: built environment and health, applied GIS;
-- **[Ma, Jun](https://www.arch.hku.hk/staff/upad/ma-jun/?dept=upad)**:Urban Computing, environmental computing, AI and robotics in smart cities;
+- **[Ma, Jun](https://www.arch.hku.hk/staff/upad/ma-jun/?dept=upad)**: Urban Computing, environmental computing, AI and robotics in smart cities;
+- **[YANG, Tianren](https://www.arch.hku.hk/staff/upad/yang-tianren/)**: urban analytics and modelling, urban spatial structure and travel, planning support systems for decision-making;
 
 Department of GEOGRAPHY：
 
@@ -43,7 +45,7 @@ REAL ESTATE AND CONSTRUCTION：
 
 ### City University of Hong Kong
 
-Kowloon, Hong Kong, China
+Kowloon, Hong Kong SAR, China
 
 GIS related departments：[Department of Architecture and Civil Engineering](http://bccw.cityu.edu.hk/main/wp_home.asp)
 
@@ -57,13 +59,13 @@ Adivicers：
 
 ### The Hong Kong University of Science and Technology
 
-Kowloon, Hong Kong, China
+Clear Water Bay, Hong Kong SAR, China
 
 GIS related departments：[Division of Environment and Sustainability](https://www.envr.ust.hk/)
 
 The Hong Kong University of Science and Technology does not have a department of geography and GIS-related majors, but in the Division of Environment and Sustainability, some teachers use GIS and remote sensing to simulate environmental processes, focusing on environmental science and sustainable development issues.
 
-Adivicers：
+ADVIsors
 - **[Jimmy W M CHAN](https://www.envr.ust.hk/our-division/people/faculty-staff/jimmy.html)**: GIS, Spatial analysis and modeling, Remote sensing, Computer graphics, Simulation and numerical optimization;
 - **[Alexis K H LAU](https://www.envr.ust.hk/our-division/people/faculty-staff/envrhead.html)**: Geophysical data analysis, weather and climate, satellite remote sensing applications;
 - **[Dasa GU](https://www.envr.ust.hk/our-division/people/faculty-staff/dasagu.html)**: satellite remote sensing;
@@ -73,7 +75,7 @@ Adivicers：
 
 ### The Chinese University of Hong Kong (CUHK)
 
-Shatin, NT, Hong Kong SAR, The People's Republic of China
+Shatin, Hong Kong SAR, China
 
 GIS related departments：[Department of Geography and Resource Management (GRM)](https://www.grm.cuhk.edu.hk/eng/index.html)、[Institute of Space and Earth Information Science (ISEIS)](http://www.iseis.cuhk.edu.hk/en/)。
 
@@ -91,7 +93,7 @@ Institute of Space and Earth Information Science (ISEIS) was established in 2005
 [MPhil-PhD Programme in Earth System and GeoInformation Science (Full Time & Part Time)]( http://www.iseis.cuhk.edu.hk/en/phd.html)
 
 
-Adivicers：
+Advisors：
 
 - **[Mei-Po Kwan](http://meipokwan.org/Index.html)**: environmental health, human mobility, healthy cities, social justice, and GIScience;
 - **[Bo Huang](https://www.grm.cuhk.edu.hk/eng/people/ppl/fac_HuangBo.html)**: spatio-temporal data analytics, GIS for sustainable urban/transportation/land use planning, unified image fusion for sustainable urban environment, spatial statistics for land use change modeling, multi-objective optimization for spatial planning with consideration of vulnerability and resilience;
@@ -104,13 +106,13 @@ Adivicers：
 
 ### The Hong Kong Polytechnic University (PolyU)
 
-Hung Hom, Kowloon, Hong Kong
+Hung Hom, Hong Kong SAR, China
 
 GIS related departments：[Department of Land Surveying and Geo-informatics (LSGI)](http://www.lsgi.polyu.edu.hk/)
 
 The Department of Land Surveying and Geo-Informatics of the Hong Kong Polytechnic University is one of the world-renowned geospatial information science departments. For many years, it has devoted itself to research in surveying and mapping, remote sensing, photogrammetry, GIS, digital mapping, and urban information science. LSGI offers two MSc Programs，[Master of Science in geomatics](http://www.lsgi.polyu.edu.hk/prospective-students/degrees-and-qualifications/master-of-science-in-geomatics/index.asp) which operates for years, and [Master of Science in urban informatics and smart cities](http://www.lsgi.polyu.edu.hk/prospective-students/degrees-and-qualifications/master-of-science-in-urban-informatics/index.asp) which just operates since 20fall. These two are 1-2 years program. [PhD and Mphil](http://www.lsgi.polyu.edu.hk/prospective-students/degrees-and-qualifications/doctor-and-master-of-philosophy/index.asp) are also applicable. It usually takes four years for applicants with a bachelor's degree, and three years for applicant with a master’s degree. There are few MPhil places in the department, and research students are generally doctoral students.
 
-Advicers：
+Advisors：
 
 - **[SHI, Wen-zhong, John](http://www.lsgi.polyu.edu.hk/people/academic/shi-wen-zhong/index.asp)**: urban informatics for smart cities, GIScience and remote sensing, mobile mapping technology, and 3D and dynamic GIS modeling;
 - **[LI, Zhi-lin](http://www.lsgi.polyu.edu.hk/people/academic/li-zhi-lin/index.asp)**: cartography, GIS-Based spatial data modeling, feature extraction from remote sensing images;
@@ -124,7 +126,7 @@ Advicers：
 
 ### Hong Kong Baptist University (HKBU)
 
-Hong Kong, China
+Kowloon Tsai, Hong Kong SAR, China
 
 GIS related departments：[Department of Geography](http://geog.hkbu.edu.hk/)
 
@@ -135,7 +137,8 @@ The Department of Geography of Hong Kong Baptist University has a long history. 
 -Urban and regional studies
 
 Research degree offers MPhil and PhD degrees, covering a wide range of topics, including: GIS and remote sensing, human biometeorology, environmental planning and management, urban greening issues, paleoenvironment and marine natural environment, sedimentology, urban housing market, urban planning, Transportation research, China's migration from rural to urban areas, energy research, political geography; in addition, it also cooperates with other departments to train 2 course-based graduate programs: Contemporary China Studies (MS, focusing on urban development and environmental management) and global Society (MA).
-Advisers:
+
+Advisors:
 
 - **[Qiming Zhou](http://geog.hkbu.edu.hk/?page_id=613)**: change detection and land cover modelling with remote sensing, digital terrain analysis and hydrological modelling, climate change and its impacts on water resources and ecosystems, aridzone studies;
 - **[Donggen Wang](http://geog.hkbu.edu.hk/?page_id=578)**: activity-travel behavior, transport and time geography, activity-based socio-spatial segregation, geography of wellbeing, housing choice and residential satisfaction;
