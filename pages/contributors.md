@@ -1,0 +1,15 @@
+## Contributors
+
+This project is supported by a group of scholars who have studied or worked in GIS-related departments around the world. We want to say thank you to all of those who provided school information and/or worked on managing this project as volunteers.
+
+Please feel free to leave a message in [this GitHub issue](https://github.com/gisphere/gisphere.github.io) if you find any errors or have any suggestions. We welcome more volunteers to join this project to help maintain and develop the guide. Please feel free to contact us via [gisphere@outlook.com](mailto:gisphere@outlook.com).
+
+Below is the list of those who provided information about schools and programs. Some anonymous contributors are not listed. For Chinese scholars, the surname is written in front of the given name following the Chinese tradition.
+
+An Yunqi, Cao Weichen, Cao Yanjia, Chen Huanfa, Chen Long, Chen Xi, Chen Yikuan, Chen Yu, Cheng Jingyi, Cui Nan, Cui Wencong, Dai Shaoqing, Dong Weichuan, Du Xinhao, Du Yao, Duan Chenxi, Duan Muxi, Fan Yilun, Fei Qingyuan, Feng Xiaorui, Feng Yao, Fu Sheng, Gao Peng, Gao Yunya, Guo Chen, Guo Keyu, Guo Xuerui, Han Xiaoxiao, He Chang, He Xu, He Yiyi, Hu Hao, Hu Jilin, Hu Yingjie, Hu Yujie, Huang Guan. Huang Jiawei, Huang Qianxia, Huang Xiao, Huang Xinke, Jia Dongqi, Kang Yuhao, Lai Jiameng, Li Bayi, Li Bowen, Li Hao, Li Haochen, Li Jia, Li Junan, Li Liang, Li Maine, Li Qinghua, Li Shuo, Li Xiaojiang, Li Yi, Li Yuanxiang, Li Ziqi, Li Zisheng, Lian Ting, Liang Xiaofan, Liao Qianru, Lin Xizhe, Liu Nianhua, Liu Qiliang, Liu Ruowei, Liu Wen, Liu Xiaojian, Liu Xinyi, Liu Yuyan, Liu Zhenyu. Liu Zhuoming, Lu Jianing, Luan Hui, Lu Fangzheng, Ma Chao, Ma Qingyu, Ma Yuchi, Buy Gengchen, Meng Fanlin, Mu Ye, Pang Zhen, Peng Qian, Qiao Tian, Qu Guangye, Ran Quan, Rao Jinmeng, Rao Jing, Ren Zexie, Shi Xia, Si Yunrui, Song Qiuran, Song Wanying, Su Chenyu, Sun Yifen, Tan Mengxun, Tan Xiaoyue, Tang Anqi, Tong Xinyi, Wang Haiming, Wang Profound, Wang Yaoli, Wei Helan, Wei Xinyuan, Wu Di, Wu Qiusheng. Wu Xinhao, Xie Yutan, Xing Jin, Xu Fangjie, Xu Haowen, Xu Jiazhi, Xu Yawen, Xu Ziqing, Xue Kai, Yan Shuhong, Yang Jiaxin, Yang Mei, Yang Tingfang, Yang Yingli, Yang Yuanxuan, Ye Shan, Ye Xiang, Yi Jian, Yu Manzhu, Yu Wanling, Yuan Zhendong, Yue Yuandian, Zeng Kexin, Zhai Xun, Zhang Fan, Zhang Jingrui, Zhang Jingyi, Zhang Jingyuan, Zhang Lan, Zhang Weixing, Zhang Yaxuan, Zhang Ying, Zhang Jing, Zhao Jiayan, Zhao Qunshan, Zhao Yuxiao, Zhou Hong, Zhou Jianxiong, Zhou Lu, Zhou Rui, Zhu Chunwu, Zhu Feiyu, Zou Qianqian, Donald A. Friend, Anthony Robinson, Jason VanHorn, F. Antonio Medrano, Mallory Sagehorn, Ana Villa
+
+
+Below are those who have helped us maintain this project:
+Kang Yuhao, Ye Shan, Liu Haokun, Zhang Jingyuan, Dai Shaoqing, Duan Chenxi, Huang Xinke, Li Haochen, Li Xiao, Liu Yuyan, Rao Jinmeng, Ren Zexi, Tong Xinyi, Ye Xiang, Yue Yuandian, Zhang Jingrui, Zhu Chunwu
+
+**Thank you to all these contributors!**
