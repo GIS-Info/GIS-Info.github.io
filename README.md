@@ -108,6 +108,8 @@ To date, we have summarized more than 270 GIS programs in more than 35 countries
 
 ## Africa
 
+[Morocco](https://gisphere.github.io/pages/africa/morocco.html)
+
 [South Africa](https://gisphere.github.io/pages/africa/south_africa.html)
 
 [Nigeria](https://gisphere.github.io/pages/africa/nigeria.html) - coming soon
