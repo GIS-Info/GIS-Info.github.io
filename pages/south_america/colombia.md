@@ -14,7 +14,7 @@ Bogota, Colombia
 
 Unit: [Center for Investigation and Development in Geographic Information](https://ciaf.igac.gov.co/es) (Centro de Investigación y Desarrollo en Información Geográfica)
 
-The IGAC is a government sector aiming to produce maps and manage geospatial data such as the cadastral infrastructure and soil survey in Colombia. It provide GIS-related trainings.
+The IGAC is a government sector aiming to produce maps and manage geospatial data such as the cadastral infrastructure and soil survey in Colombia. It provides GIS-related trainings.
 
 ### The National University of Colombia, Bogota
 **Universidad Nacional de Colombia (Bogota)**
