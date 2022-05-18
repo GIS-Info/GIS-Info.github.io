@@ -92,9 +92,21 @@ To date, we have summarized more than 270 GIS programs in more than 35 countries
 
 [Southeast Asia](https://gisphere.github.io/pages/asia/SE_Asia.html)
 
+**South Asia**
+
+[India](https://gisphere.github.io/pages/asia/india.html)
+
+[Nepal](https://gisphere.github.io/pages/asia/nepal.html)
+
+[Pakistan](https://gisphere.github.io/pages/asia/pakistan.html)
+
+[Sri Lanka](https://gisphere.github.io/pages/asia/srilanka.html)
+
 **Middle East**
 
 [Oman](https://gisphere.github.io/pages/asia/oman.html)
+
+[Saudi Arabia](https://gisphere.github.io/pages/asia/saudi.html)
 
 [Turkey](https://gisphere.github.io/pages/asia/turkey.html)
 
