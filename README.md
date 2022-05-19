@@ -75,7 +75,7 @@ To date, we have summarized more than 270 GIS programs in more than 35 countries
 
 [Russia](https://gisphere.github.io/pages/europe/Russia.html)
 
-[Spain](https://gisphere.github.io/pages/europe/Spain.html)
+[Spain and Portugal](https://gisphere.github.io/pages/europe/Spain_Portugal.html)
 
 [Switzerland](https://gisphere.github.io/pages/europe/Switzerland.html)
 

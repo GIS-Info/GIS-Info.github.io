@@ -39,7 +39,7 @@ Professors:
 
 Johor, Johor Bahru, Malaysia
 
-Unit: [建筑环境与测绘学院](https://builtsurvey.utm.my/academic/master-of-science-geoinformatics/)
+Unit: [Faculty of Built Environment and Surveying](https://builtsurvey.utm.my/academic/master-of-science-geoinformatics/)
 
 The main campus of University Technology Malaysia (Universiti Teknologi Malaysia, UTM) is located in Johor Bahru, the southernmost part of the Malay Peninsula. It is a public research university. Its School of Built Environment and Surveying offers an MS program in Geoinformatics. The main training directions include GIS principles, GIS system components, GIS computer software, and geospatial data processing, etc. Required core courses include geospatial databases, spatial analysis, spatial data management, cartographic visualization, computer programming, and GIS application development. There are totally 45 credits, including 8 credits for a research topic.
 
@@ -50,6 +50,14 @@ Professors:
 - **[Zulkepli bin Majid](http://people.utm.my/zulkeplimajid/)**: remote sensing, 3D modeling;
 - **[Nurul Hazrina binti Idris](http://people.utm.my/nurulhazrina)**: climate change, marine remote sensing;
 - **[Muhammad Zulkarnain Abd Rahman](https://builtsurvey.utm.my/geoinfo-staff/)**: remote sensing, natural hazard, risk assessment.
+
+### University Putra Malaysia
+
+Serdang, Selangor Darul Ehsan, Malaysia
+
+Unit: [Faculty of Engineering](https://eng.upm.edu.my/)
+
+The Faculty of Engineering offers a course-based [Master of Remote Sensing and GIS](https://eng.upm.edu.my/upload/dokumen/20201008161353KAW_Master_of_Remote_Sensing_and_GIS_GIS.pdf), a research-based [Master of GIS](https://eng.upm.edu.my/content/geographic_information_system_gis-37181) and a research-based [Master of Geospatial Engineering](https://eng.upm.edu.my/content/geospatial_engineering-37183). It also operates doctoral degrees in geospatial engineering.
 
 ## Thailand
 
@@ -71,3 +79,52 @@ The Asian Institute of Technology is a graduate school located in Thailand. It h
 - **Salvator G. P. Virdis**: remote sensing, applied geology;
 - **Ryosuke Shibasaki**: GPS, mobile phones, spatial information;
 - **Masahika Nagai**: mobile mapping ontology, GIS, spatial information engineering.
+
+## Vietnam
+
+### Hanoi University of Mining and Geology
+
+Hanoi, Vietnam
+
+Unit: [The University](https://humg.edu.vn/Pages/home.aspx)
+
+The Hanoi University of Mining and Geology offers a master's degree in geomatics and doctoral degree in engineering of surveying and mapping. The instruction language is Vietnamese for the master's degree, and has English option for the doctoral degree.
+
+## Indonesia
+
+### Bandung Institute of Technology
+
+Bandung, West Java, Indonesia
+
+Unit: [Faculty of Earth Sciences](https://english.fitb.itb.ac.id/)
+
+The Bandung Institute of Technology operates a [Geodetic and Geomatics Engineering Masters Program](https://english.fitb.itb.ac.id/magister-teknik-geodesi-geomatika/) with 4 options of concentrations: geodesy, hydrography and coastal area engineering, land administration, and geomatics. It also has a [PhD in Geodesy and Geomatic Engineering](https://english.fitb.itb.ac.id/doktor-teknik-geodesi-geomatika/) program.
+
+### Sepuluh Nopember Institute of Technology
+**Institut Teknologi Sepuluh Nopember (ITS)**
+
+Sukolilo Surabaya, East Java, Indonesia
+
+Unit: Faculty of Civil Technology and Planning
+
+The ITS offers [master's programs](https://www.its.ac.id/pascasarjana/en/study-program/geomatics-engineering/) in geomatic engineering and geophysical engineering under its Faculty of Civil Technology and Planning.
+
+## Philippines
+
+### University of the Philippines
+
+Quezon City, Philippines
+
+Unit：[Department of Geodetic Engineering](http://dge.upd.edu.ph/)
+
+The University of the Philippines is the national university of Philippines. The Department of Geodetic Engineering at University of the Philippines has a [MS in Geomatics Engineering](http://dge.upd.edu.ph/dge/what-we-offer/degree-programs/ms-geomatics-engineering/) program.
+
+## Brunei
+
+## University of Brunei Darussalam
+
+Gadong, Brunei
+
+Unit: [Faculty of Arts and Social Sciences](https://fass.ubd.edu.bn/)
+
+The UBD operates [masters and doctoral degree programs](https://fass.ubd.edu.bn/majors/geog-env-dev.html) in geography, environment, and development. The geography programs are research-based with a topic in any aspect in geography, including human geography, physical geography, land surveying, remote sensing, GIS, and mappings.
