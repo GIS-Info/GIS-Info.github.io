@@ -120,6 +120,8 @@ To date, we have summarized more than 270 GIS programs in more than 35 countries
 
 [Central Asia](https://gisphere.github.io/pages/asia/central_asia.html)
 
+[Mongolia](https://gisphere.github.io/pages/asia/mongolia.html)
+
 **Oceania**
 
 [Australia](https://gisphere.github.io/pages/asia/Australia.html)
@@ -143,11 +145,15 @@ To date, we have summarized more than 270 GIS programs in more than 35 countries
 
 [Botswana](https://gisphere.github.io/pages/africa/Botswana.html)
 
+[Ghana](https://gisphere.github.io/pages/africa/ghana.html)
+
 [Kenya](https://gisphere.github.io/pages/africa/kenya.html)
 
 [Morocco](https://gisphere.github.io/pages/africa/morocco.html)
 
 [South Africa](https://gisphere.github.io/pages/africa/south_africa.html)
+
+[Sudan](https://gisphere.github.io/pages/africa/sudan.html)
 
 [Nigeria](https://gisphere.github.io/pages/africa/nigeria.html) - coming soon
 

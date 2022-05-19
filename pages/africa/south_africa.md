@@ -83,3 +83,11 @@ Cape Town, Western Cape, South Africa
 Unit: [Faculty of Engineering & the Built Environment](https://www.cput.ac.za/academic/faculties/engineering)
 
 The Faculty of Engineering & the Built Environment at CPUT operates a [M.Tech program in Cartography](https://www.cput.ac.za/academic/faculties/engineering/prospectus/course?i=132&seo=TVRlY2g6IENBUlRPR1JBUEhZ) under its Civil Engineering & Geomatics department. In addition to this, the department also operates several undergraduate and non-degree programs in geomatics.
+
+### North-West University
+
+Potchefstroom, North-West, South Africa
+
+Unit: [School of Geo and Spatial Sciences](https://natural-sciences.nwu.ac.za/geo-spatial-sciences/about-us) and [Unit for Environmental Sciences and Management](https://natural-sciences.nwu.ac.za/unit-environmental-sciences-and-management)
+
+The North-West University offers postgraduate diploma training, MSc, and PhD programs in geospatial sciences under the School of Geo and Spatial Sciences, as well as MSc and PhD programs in Urban and Regional Planning under its Unit for Environmental Sciences and Management.
