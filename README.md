@@ -112,6 +112,12 @@ To date, we have summarized more than 270 GIS programs in more than 35 countries
 
 [UAE](https://gisphere.github.io/pages/asia/uae.html)
 
+**Central Asia and Caucasus**
+
+[Azerbaijan](https://gisphere.github.io/pages/asia/Azerbaijan.html)
+
+[Central Asia](https://gisphere.github.io/pages/asia/central_asia.html)
+
 **Oceania**
 
 [Australia](https://gisphere.github.io/pages/asia/Australia.html)
