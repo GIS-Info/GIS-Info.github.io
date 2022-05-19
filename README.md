@@ -55,6 +55,8 @@ To date, we have summarized more than 270 GIS programs in more than 35 countries
 
 [Canada](https://gisphere.github.io/pages/north_america/canada.html)
 
+[Mexico](https://gisphere.github.io/pages/north_america/mexico.html)
+
 ## Europe
 
 [Austria, Czech Republic and Hungary](https://gisphere.github.io/pages/europe/Austria_Czech_Hungary.html)
