@@ -40,7 +40,6 @@ To date, we have summarized more than 270 GIS programs in more than 35 countries
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
 
-
 ## North America
 
 [Eastern USA](https://gisphere.github.io/pages/north_america/usa-east.html)
@@ -88,9 +87,11 @@ To date, we have summarized more than 270 GIS programs in more than 35 countries
 
 [Hong Kong SAR, China](https://gisphere.github.io/pages/asia/HongKong.html)
 
+[Taiwan (R.O.C.)](https://gisphere.github.io/pages/asia/roc_taiwan.html)*
+
 [Japan](https://gisphere.github.io/pages/asia/Japan.html)
 
-[Korea](https://gisphere.github.io/pages/asia/Korea.html)
+[South Korea](https://gisphere.github.io/pages/asia/Korea.html)
 
 [Southeast Asia](https://gisphere.github.io/pages/asia/SE_Asia.html)
 
@@ -151,10 +152,12 @@ To date, we have summarized more than 270 GIS programs in more than 35 countries
 
 [Morocco](https://gisphere.github.io/pages/africa/morocco.html)
 
+[Nigeria](https://gisphere.github.io/pages/africa/nigeria.html)
+
 [South Africa](https://gisphere.github.io/pages/africa/south_africa.html)
 
 [Sudan](https://gisphere.github.io/pages/africa/sudan.html)
 
-[Nigeria](https://gisphere.github.io/pages/africa/nigeria.html) - coming soon
-
 [Benin](https://gisphere.github.io/pages/africa/benin.html) - coming soon
+
+<span style = "font-family:Georgia; font-size:0.6em;">_*Place names on this website are politically neutral. They do not imply the expression of any opinion whatsoever on the part of the GISphere concerning the territorial sovereignty or legal status of any country or other political entity._</span>
