@@ -2,7 +2,8 @@
 **(更新时间 2022 年 12 月)**
 
 本站地址：[GIS-Info.github.io](https://gis-info.github.io/)
-更多咨询可访问新网站 [gisphere.info](https://gisphere.info) 查看
+
+更多资讯可访问新网站 [gisphere.info](https://gisphere.info) 查看
 
 GitHub文档地址：[https://github.com/GIS-Info/GIS-Info.github.io](https://github.com/GIS-Info/GIS-Info.github.io)
 
