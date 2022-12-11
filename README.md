@@ -1,7 +1,8 @@
 # GIS-Info院校指南
-**(更新时间 2020 年 9 月)**
+**(更新时间 2022 年 12 月)**
 
 本站地址：[GIS-Info.github.io](https://gis-info.github.io/)
+更多咨询可访问新网站 [gisphere.info](https://gisphere.info) 查看
 
 GitHub文档地址：[https://github.com/GIS-Info/GIS-Info.github.io](https://github.com/GIS-Info/GIS-Info.github.io)
 
@@ -9,7 +10,7 @@ GitHub文档地址：[https://github.com/GIS-Info/GIS-Info.github.io](https://gi
 
 ## 项目介绍
 
-本项目2019年9月发起成立，最新更新时间为2020年9月，目的是提供及时且全面的GIS留学选校信息。院校信息的提供人来自世界各地GIS专业名校，均为在读学生、近期毕业校友或青年教师，内容主要包括各院系的主打科研方向、开设学位和导师信息。希望这份指南能为GIS专业有留学意向的朋友们提供帮助和支持。
+本项目2019年9月发起成立，最新更新时间为2022年12月，目的是提供及时且全面的GIS留学选校信息。院校信息的提供人来自世界各地GIS专业名校，均为在读学生、近期毕业校友或青年教师，内容主要包括各院系的主打科研方向、开设学位和导师信息。希望这份指南能为GIS专业有留学意向的朋友们提供帮助和支持。
 
 由于时间和精力所限，难免有疏漏。若有更正、建议和补充，欢迎[在这里留言](https://github.com/GIS-Info/GIS-Info.github.io/issues)。如果喜欢的话，欢迎大家支持，分享，点赞，star[本项目](https://github.com/GIS-Info/GIS-Info.github.io/)！
 
