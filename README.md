@@ -2,7 +2,7 @@
 
 **(更新时间 2023 年 11 月)**
 
-此网站已迁移至  [gisphere.info/school](https://gisphere.info/school) 
+!!! 此网站已迁移至  [gisphere.info/school](https://gisphere.info/school)  !!!
 
 请访问新地址获取最新信息，本页面内容不再维护
 
