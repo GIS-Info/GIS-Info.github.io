@@ -1,9 +1,14 @@
 # GIS-Info院校指南
+
+**(更新时间 2023 年 11 月)**
+
+此网站已迁移至  [gisphere.info/school](https://gisphere.info/school) 
+
+请访问新地址获取最新信息，本页面内容不再维护
+
 **(更新时间 2022 年 12 月)**
 
 本站地址：[GIS-Info.github.io](https://gis-info.github.io/)
-
-更多资讯可访问新网站 [gisphere.info](https://gisphere.info) 查看
 
 GitHub文档地址：[https://github.com/GIS-Info/GIS-Info.github.io](https://github.com/GIS-Info/GIS-Info.github.io)
 
